@@ -174,7 +174,7 @@
 
   <div align="center">
 
-  ![]()
+  ![AgroSense](Resources/Chapter%2001/Startup%20Logo/AgroSense-Logo.png)
 
   </div>
 
