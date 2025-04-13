@@ -167,7 +167,7 @@
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 <div align="justify">
-    
+    AgroSense es una startup dedicada al desarrollo de soluciones inteligentes para el sector agroindustrial, con un enfoque innovador en la agricultura de precisión y la automatización de procesos mediante tecnologías IoT. Buscamos transformar la gestión agrícola tradicional a través de herramientas tecnológicas avanzadas que permitan una toma de decisiones informada, sostenible y en tiempo real. Nuestra labor se orienta a generar un impacto positivo tanto en el medio ambiente como en la calidad de vida de los productores, promoviendo prácticas más eficientes, responsables y adaptadas a los desafíos actuales del cambio climático.
     <br>
     
   <div align="center">
