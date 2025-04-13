@@ -186,12 +186,12 @@
         <li>
             <b>Misión:</b>
         </li> 
-	    Impulsar la transformación del sector agroindustrial mediante soluciones tecnológicas que optimicen recursos, reduzcan el impacto ambiental y fortalezcan la sostenibilidad de los sistemas agrícolas.
-	<br><br>
+Impulsar la transformación profunda del sector agroindustrial a través de soluciones tecnológicas innovadoras, accesibles y sostenibles que permitan a los agricultores monitorear, analizar y actuar con precisión sobre sus cultivos. 
+	    <br><br>
 	<li>
             <b>Visión:</b>
         </li>
-	    Ser referentes en innovación agrícola a nivel global, liderando la transición hacia una agricultura más inteligente, conectada y respetuosa con el entorno natural.
+Ser líderes globales en innovación agroindustrial, reconocidos por transformar la manera en que se cultiva la tierra mediante tecnologías que integran inteligencia, automatización y sostenibilidad. Aspiramos a construir un ecosistema agrícola más eficiente, transparente y conectado.
     </ul>
 <br>
 </div>
