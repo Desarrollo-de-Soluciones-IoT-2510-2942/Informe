@@ -231,48 +231,43 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
 
 ***What***
 
-* 
-* 
-* 
+* Los agricultores gestionan el riego y fertilización de forma empírica o mediante calendarios fijos.
+* Esto genera uso excesivo de agua y fertilizantes, aumentando costos y reduciendo eficiencia.
+* La falta de monitoreo en tiempo real impide decisiones oportunas y precisas sobre el manejo del cultivo.
 
 
 
 ***Who***
 
-* 
-* 
+* A pequeños y medianos agricultores, quienes tienen menor acceso a tecnología.
+* A cooperativas y asociaciones agrícolas, que buscan eficiencia pero no cuentan con datos.
 
 
 ***Where***
-
-
-
+* Esta problemática se manifiesta en todo el territorio sudamericano, con especial gravedad en regiones agrícolas de Perú como Piura, Lambayeque o Ica, donde la disponibilidad de agua es crítica y los efectos del cambio climático agravan la variabilidad en las condiciones del suelo y el clima.
 
 
 ***When***
-
-
-
+* El problema se presenta de forma continua durante toda la campaña agrícola, pero es especialmente crítico en fases de desarrollo del cultivo donde la falta de agua o nutrientes impacta directamente en el rendimiento. Además, se intensifica en épocas de sequía o cuando los precios de los fertilizantes aumentan bruscamente.
 
 ***Why***
 
-* 
-* 
+* Porque los productores no cuentan con herramientas accesibles para monitorear condiciones del suelo.
+* Porque la toma de decisiones no está basada en datos, sino en experiencia o tradición.
+* Porque la tecnología agrointeligente aún no está democratizada en la mayoría de regiones rurales.
 
 
 ***How***
 
-* 
-
-* 
-
+* Con NutriControl, los agricultores pueden automatizar el riego y fertilización mediante sensores que monitorean en tiempo real las condiciones del suelo.
+* El sistema toma decisiones autónomas para activar el riego por goteo solo cuando es necesario, optimizando el uso de recursos.
+* La plataforma web y la app móvil permiten al agricultor supervisar el proceso, recibir alertas y acceder a recomendaciones específicas para su terreno.
 
 
 ***How Much***
 
-* 
-
-* 
+* Un agricultor puede perder hasta 30% del rendimiento por fertilización mal ejecutada.
+* Con NutriControl, se estima una reducción de hasta 40% en el uso de fertilizantes y agua, además de un incremento en la productividad de hasta un 25%, traduciéndose en un impacto económico directo y positivo para el agricultor.
 
 </div>
 
