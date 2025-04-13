@@ -353,10 +353,11 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
 
 3. **¿Qué características son importantes?**
 
-* 
-* 
-* 
-* 
+    * 
+    * 
+    * 
+    * 
+    * 
 
 4. **¿Dónde encaja nuestro producto en su trabajo o vida?**
 
