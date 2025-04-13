@@ -187,6 +187,7 @@
             <b>Misión:</b>
         </li> 
 	    Impulsar la transformación del sector agroindustrial mediante soluciones tecnológicas que optimicen recursos, reduzcan el impacto ambiental y fortalezcan la sostenibilidad de los sistemas agrícolas.
+	<br><br>
 	<li>
             <b>Visión:</b>
         </li>
