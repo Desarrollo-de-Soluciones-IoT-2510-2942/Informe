@@ -269,6 +269,7 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
 * Un agricultor puede perder hasta 30% del rendimiento por fertilización mal ejecutada.
 * Con NutriControl, se estima una reducción de hasta 40% en el uso de fertilizantes y agua, además de un incremento en la productividad de hasta un 25%, traduciéndose en un impacto económico directo y positivo para el agricultor.
 
+<br>
 </div>
 
 ### 1.2.2. *Lean UX Process*
