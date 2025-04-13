@@ -274,8 +274,6 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
 
 ### 1.2.2. *Lean UX Process*
 
-![Recurso extraído de Canva]()
-
 #### 1.2.2.1. *Lean UX Problem Statements*
 
 <div align="justify">
