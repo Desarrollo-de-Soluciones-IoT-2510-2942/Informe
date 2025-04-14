@@ -280,7 +280,7 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
 
 ***Problem Statement:***
 
-***1. Domain:***
+**1. Domain:**
     * El dominio corresponde al sector agropecuario, específicamente a la agricultura de precisión aplicada a cultivos de pequeña y mediana escala en regiones afectadas por problemas climáticos, hídricos y económicos. Se centra en el uso de tecnologías digitales, sensores IoT, automatización y analítica de datos para optimizar recursos y mejorar la rentabilidad agrícola.
 
 2. Customer Segments:
