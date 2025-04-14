@@ -313,11 +313,21 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
 
 **4. Gap:**
 * **Accesibles económicamente para agricultores pequeños y medianos:** El mercado está saturado de soluciones costosas, importadas o de difícil mantenimiento, fuera del alcance de este segmento clave.
+  
 * **Fáciles de instalar y usar, sin necesidad de expertos:** Muchas tecnologías requieren formación técnica o soporte externo constante, lo cual no es viable para zonas rurales alejadas.
+  
 * **Diseñadas para zonas con conectividad limitada:** Pocas soluciones están adaptadas a funcionar offline o con sincronización diferida, lo cual es esencial para el entorno rural.
+  
 * **Enfocadas en el ahorro de recursos y el empoderamiento del agricultor:** La mayoría de herramientas tecnológicas actuales no se comunican bien con el usuario final ni priorizan el ahorro inmediato como incentivo.
 
-5. Vision / Strategy:
+**5. Vision / Strategy:**  
+La visión de AgroSense con NutriControl es democratizar el acceso a la agricultura de precisión, haciendo que la tecnología sea una aliada directa del agricultor, no un lujo inalcanzable. Para eso, se propone:
+
+* Desarrollar una solución modular, escalable y de bajo costo, con sensores precisos que recolecten datos del suelo y el clima local.
+* Ofrecer un sistema que automatice el riego y fertilización, reduciendo la carga operativa del agricultor y optimizando el uso de recursos clave.
+* Diseñar una interfaz intuitiva y visual, que pueda ser utilizada incluso por agricultores con poca experiencia tecnológica.
+* Integrar alertas y recomendaciones accionables, que ayuden a tomar decisiones informadas sin depender de asesores externos.
+* Fomentar una comunidad de usuarios conectados, que compartan aprendizajes y validen el valor de la tecnología desde la experiencia en campo.
 
 </div>
 
