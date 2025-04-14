@@ -284,7 +284,19 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
 * El dominio corresponde al sector agropecuario, específicamente a la agricultura de precisión aplicada a cultivos de pequeña y mediana escala en regiones afectadas por problemas climáticos, hídricos y económicos. Se centra en el uso de tecnologías digitales, sensores IoT, automatización y analítica de datos para optimizar recursos y mejorar la rentabilidad agrícola.
 
 
-2. Customer Segments:
+**2. Customer Segments:**
+* Pequeños y medianos agricultores rurales:
+  * Con acceso limitado a tecnologías de monitoreo o automatización.
+  * Que toman decisiones empíricas basadas en la experiencia, no en datos.
+  * Con capacidad de inversión reducida y márgenes ajustados.
+
+* Agricultores de zonas con estrés hídrico (como costa peruana)
+  * Necesitan riego eficiente y no tienen herramientas de control.
+  * Alta dependencia de fuentes de agua cada vez más escasas.
+
+* Agricultores que cultivan productos de alto valor
+  * Requieren precisión en nutrientes y riego para mantener calidad exportable.
+  * Un error en fertilización o humedad puede afectar directamente la rentabilidad.
 
 3. Pain Points:
    
