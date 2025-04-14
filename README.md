@@ -290,16 +290,22 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
   * Que toman decisiones empíricas basadas en la experiencia, no en datos.
   * Con capacidad de inversión reducida y márgenes ajustados.
 
-* Agricultores de zonas con estrés hídrico (como costa peruana)
+* Agricultores de zonas con estrés hídrico (como costa peruana):
   * Necesitan riego eficiente y no tienen herramientas de control.
   * Alta dependencia de fuentes de agua cada vez más escasas.
 
-* Agricultores que cultivan productos de alto valor
+* Agricultores que cultivan productos de alto valor:
   * Requieren precisión en nutrientes y riego para mantener calidad exportable.
   * Un error en fertilización o humedad puede afectar directamente la rentabilidad.
 
-3. Pain Points:
-   
+**3. Pain Points:**
+* **Desconocimiento del estado real del suelo y sus necesidades:** La mayoría de agricultores carece de herramientas para medir variables clave como humedad, pH o nutrientes, lo que lleva a aplicar insumos sin criterios técnicos.
+
+* **Ineficiencia en el uso del agua:** El riego suele aplicarse manualmente en horarios fijos, sin tomar en cuenta si el suelo lo necesita, lo que conlleva un uso excesivo o inadecuado del recurso hídrico.
+  
+* **Dependencia de insumos costosos (fertilizantes):** El aumento en el precio de fertilizantes y su aplicación ineficiente elevan los costos de producción sin garantizar un aumento proporcional en el rendimiento.
+
+
 4. Gap:
    
 5. Vision / Strategy:
