@@ -340,7 +340,9 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
 
 1. **¿Quién es el usuario?**
 
-   
+    * 
+    * 
+    * 
 
 2. **¿Qué problemas tiene nuestro producto? ¿Resolver?**
 
@@ -361,8 +363,10 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
 
 4. **¿Dónde encaja nuestro producto en su trabajo o vida?**
 
+    * 
+    * 
+    * 
    
-
 5. **¿Cuándo y cómo es usado nuestro producto?**
 
     * 
