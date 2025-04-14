@@ -279,40 +279,57 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
 <div align="justify">
 
 ***Problem Statement:***
-    **1. Domain:**
-    * El dominio corresponde al sector agropecuario, específicamente a la agricultura de precisión aplicada a cultivos de pequeña y mediana escala en regiones afectadas por problemas climáticos, hídricos y económicos. Se centra en el uso de tecnologías digitales, sensores IoT, automatización y analítica de datos para optimizar recursos y mejorar la rentabilidad agrícola.
-    **2. Customer Segments:**
-    * Pequeños y medianos agricultores rurales:
-        * Con acceso limitado a tecnologías de monitoreo o automatización.
-        * Que toman decisiones empíricas basadas en la experiencia, no en datos.
-        * Con capacidad de inversión reducida y márgenes ajustados.
-    * Agricultores de zonas con estrés hídrico (como costa peruana):
-        * Necesitan riego eficiente y no tienen herramientas de control.
-        * Alta dependencia de fuentes de agua cada vez más escasas.
-    * Agricultores que cultivan productos de alto valor:
-        * Requieren precisión en nutrientes y riego para mantener calidad exportable.
-        * Un error en fertilización o humedad puede afectar directamente la rentabilidad.
-    **3. Pain Points:**
-    * **Desconocimiento del estado real del suelo y sus necesidades:** La mayoría de agricultores carece de herramientas para medir variables clave como humedad, pH o nutrientes, lo que lleva a aplicar insumos sin criterios técnicos.
-    * **Ineficiencia en el uso del agua:** El riego suele aplicarse manualmente en horarios fijos, sin tomar en cuenta si el suelo lo necesita, lo que conlleva un uso excesivo o inadecuado del recurso hídrico.
-    * **Dependencia de insumos costosos (fertilizantes):** El aumento en el precio de fertilizantes y su aplicación ineficiente elevan los costos de producción sin garantizar un aumento proporcional en el rendimiento.
-    * **Falta de herramientas tecnológicas accesibles:** Las soluciones existentes son caras, diseñadas para grandes productores, o requieren conocimientos técnicos complejos, dejando fuera a la mayoría de agricultores rurales.
-    * **Riesgo productivo ante el cambio climático:** Fenómenos como sequías, heladas o lluvias intensas afectan de forma impredecible. Sin información en tiempo real, el agricultor no puede anticiparse ni actuar estratégicamente.
-    * **Carga operativa y toma de decisiones bajo presión:** El agricultor debe vigilar manualmente sus campos y tomar decisiones clave diariamente, sin apoyo tecnológico, generando estrés y errores frecuentes.
-    **4. Gap:**
-    Existe una brecha crítica en el acceso a soluciones agrointeligentes que sean:
-    * **Accesibles económicamente para agricultores pequeños y medianos:** El mercado está saturado de soluciones costosas, importadas o de difícil mantenimiento, fuera del alcance de este segmento clave.
-    * **Fáciles de instalar y usar, sin necesidad de expertos:** Muchas tecnologías requieren formación técnica o soporte externo constante, lo cual no es viable para zonas rurales alejadas.
-    * **Diseñadas para zonas con conectividad limitada:** Pocas soluciones están adaptadas a funcionar offline o con sincronización diferida, lo cual es esencial para el entorno rural.
-    * **Enfocadas en el ahorro de recursos y el empoderamiento del agricultor:** La mayoría de herramientas tecnológicas actuales no se comunican bien con el usuario final ni priorizan el ahorro inmediato como incentivo.
-    **5. Vision / Strategy:**  
-    La visión de AgroSense con NutriControl es democratizar el acceso a la agricultura de precisión, haciendo que la tecnología sea una aliada directa del agricultor, no un lujo inalcanzable. Para eso, se propone:
-    * Desarrollar una solución modular, escalable y de bajo costo, con sensores precisos que recolecten datos del suelo y el clima local.
-    * Ofrecer un sistema que automatice el riego y fertilización, reduciendo la carga operativa del agricultor y optimizando el uso de recursos clave.
-    * Diseñar una interfaz intuitiva y visual, que pueda ser utilizada incluso por agricultores con poca experiencia tecnológica.
-    * Integrar alertas y recomendaciones accionables, que ayuden a tomar decisiones informadas sin depender de asesores externos.
-    * Fomentar una comunidad de usuarios conectados, que compartan aprendizajes y validen el valor de la tecnología desde la experiencia en campo.
 
+**1. Domain:**
+* El dominio corresponde al sector agropecuario, específicamente a la agricultura de precisión aplicada a cultivos de pequeña y mediana escala en regiones afectadas por problemas climáticos, hídricos y económicos. Se centra en el uso de tecnologías digitales, sensores IoT, automatización y analítica de datos para optimizar recursos y mejorar la rentabilidad agrícola.
+
+
+**2. Customer Segments:**
+* Pequeños y medianos agricultores rurales:
+  * Con acceso limitado a tecnologías de monitoreo o automatización.
+  * Que toman decisiones empíricas basadas en la experiencia, no en datos.
+  * Con capacidad de inversión reducida y márgenes ajustados.
+
+* Agricultores de zonas con estrés hídrico (como costa peruana):
+  * Necesitan riego eficiente y no tienen herramientas de control.
+  * Alta dependencia de fuentes de agua cada vez más escasas.
+
+* Agricultores que cultivan productos de alto valor:
+  * Requieren precisión en nutrientes y riego para mantener calidad exportable.
+  * Un error en fertilización o humedad puede afectar directamente la rentabilidad.
+
+**3. Pain Points:**
+* **Desconocimiento del estado real del suelo y sus necesidades:** La mayoría de agricultores carece de herramientas para medir variables clave como humedad, pH o nutrientes, lo que lleva a aplicar insumos sin criterios técnicos.
+
+* **Ineficiencia en el uso del agua:** El riego suele aplicarse manualmente en horarios fijos, sin tomar en cuenta si el suelo lo necesita, lo que conlleva un uso excesivo o inadecuado del recurso hídrico.
+  
+* **Dependencia de insumos costosos (fertilizantes):** El aumento en el precio de fertilizantes y su aplicación ineficiente elevan los costos de producción sin garantizar un aumento proporcional en el rendimiento.
+
+* **Falta de herramientas tecnológicas accesibles:** Las soluciones existentes son caras, diseñadas para grandes productores, o requieren conocimientos técnicos complejos, dejando fuera a la mayoría de agricultores rurales.
+
+* **Riesgo productivo ante el cambio climático:** Fenómenos como sequías, heladas o lluvias intensas afectan de forma impredecible. Sin información en tiempo real, el agricultor no puede anticiparse ni actuar estratégicamente.
+
+* **Carga operativa y toma de decisiones bajo presión:** El agricultor debe vigilar manualmente sus campos y tomar decisiones clave diariamente, sin apoyo tecnológico, generando estrés y errores frecuentes.
+
+**4. Gap:**
+<br><br>Existe una brecha crítica en el acceso a soluciones agrointeligentes que sean:
+
+* **Accesibles económicamente para agricultores pequeños y medianos:** El mercado está saturado de soluciones costosas, importadas o de difícil mantenimiento, fuera del alcance de este segmento clave.
+  
+* **Fáciles de instalar y usar, sin necesidad de expertos:** Muchas tecnologías requieren formación técnica o soporte externo constante, lo cual no es viable para zonas rurales alejadas.
+  
+* **Diseñadas para zonas con conectividad limitada:** Pocas soluciones están adaptadas a funcionar offline o con sincronización diferida, lo cual es esencial para el entorno rural.
+  
+* **Enfocadas en el ahorro de recursos y el empoderamiento del agricultor:** La mayoría de herramientas tecnológicas actuales no se comunican bien con el usuario final ni priorizan el ahorro inmediato como incentivo.
+
+**5. Vision / Strategy:**  
+<br>La visión de AgroSense con NutriControl es democratizar el acceso a la agricultura de precisión, haciendo que la tecnología sea una aliada directa del agricultor, no un lujo inalcanzable. Para eso, se propone:
+
+* Desarrollar una solución modular, escalable y de bajo costo, con sensores precisos que recolecten datos del suelo y el clima local.
+* Ofrecer un sistema que automatice el riego y fertilización, reduciendo la carga operativa del agricultor y optimizando el uso de recursos clave.
+* Diseñar una interfaz intuitiva y visual, que pueda ser utilizada incluso por agricultores con poca experiencia tecnológica.
+* Integrar alertas y recomendaciones accionables, que ayuden a tomar decisiones informadas sin depender de asesores externos.
+* Fomentar una comunidad de usuarios conectados, que compartan aprendizajes y validen el valor de la tecnología desde la experiencia en campo. 
 </div>
 
 #### 1.2.2.2. *Lean UX Assumptions*
