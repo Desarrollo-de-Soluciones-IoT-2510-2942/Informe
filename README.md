@@ -340,44 +340,28 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
 
 1. **¿Quién es el usuario?**
 
-    * 
-    * 
-    * 
+    * Pequeños y medianos agricultores, principalmente de zonas rurales de Perú y otros países de Sudamérica, con acceso limitado a tecnología avanzada.
 
 2. **¿Qué problemas tiene nuestro producto? ¿Resolver?**
 
-    * 
-    * 
-    * 
-    * 
-    * 
-    * 
+    * Escasez de agua, alto costo de fertilizantes, baja eficiencia en el riego y fertilización, falta de información en tiempo real para la toma de decisiones.
 
 3. **¿Qué características son importantes?**
 
-    * 
-    * 
-    * 
-    * 
-    * 
+    * Monitoreo en tiempo real, sensores de humedad, pH y nutrientes, automatización del riego y fertilización, interfaz intuitiva, acceso remoto desde cualquier dispositivo.
 
 4. **¿Dónde encaja nuestro producto en su trabajo o vida?**
 
-    * 
-    * 
-    * 
+    * En la gestión diaria de cultivos, durante las jornadas de trabajo en el campo, permitiendo controlar el riego y la nutrición del suelo sin supervisión constante.
    
 5. **¿Cuándo y cómo es usado nuestro producto?**
 
-    * 
-    * 
-    * 
+    * Durante toda la temporada de cultivo; se utiliza a través de una aplicación móvil o sistema web que se conecta con sensores instalados en el terreno, funcionando de manera continua y autónoma.
 
 6. **¿Cómo debe verse nuestro producto y cómo comportarse?**
 
-    * 
-    * 
-    * 
+    * Debe tener una interfaz simple y visualmente clara, accesible desde dispositivos móviles con conexión limitada. 
+    * El sistema debe comportarse de forma predictiva y automatizada, con alertas y recomendaciones personalizadas para el agricultor.
 
 </div>
 
