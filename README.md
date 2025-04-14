@@ -469,17 +469,19 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
 
 <div align="justify">
 
-* **Creemos que** . **Sabremos que**  **cuando** .
+* **Creemos que** los pequeños y medianos agricultores adoptarán NutriControl si perciben una mejora directa en el uso eficiente del agua y fertilizantes. **Sabremos que esto es cierto cuando** al menos el 70% de los usuarios en piloto reporten una reducción comprobada del consumo de recursos en los primeros 3 meses de uso.
 
-* **Creemos que** . **Sabremos que**  **cuando** .
+* **Creemos que** una interfaz intuitiva y visual facilitará que agricultores sin experiencia tecnológica puedan usar el sistema sin asistencia externa. **Sabremos que esto es cierto cuando** el 80% de los usuarios puedan completar las tareas principales (ver datos, programar riego, recibir alertas) sin soporte técnico durante las pruebas de usabilidad.
 
-* **Creemos que** . **Sabremos que**  **cuando** .
 
-* **Creemos que** . **Sabremos que**  **cuando** .
+* **Creemos que** la automatización del riego y fertilización reducirá el estrés operativo y mejorará la productividad del agricultor. **Sabremos que esto es cierto cuando** el 60% de los usuarios reporten un incremento en el rendimiento del cultivo y menor carga de trabajo diaria luego de 2 ciclos agrícolas.
 
-* **Creemos que** . **Sabremos que**  **cuando** .
+* **Creemos que** la solución podrá escalarse fácilmente a distintos tipos de cultivos y terrenos sin rediseños complejos. **Sabremos que esto es cierto cuando** al menos 3 tipos distintos de cultivos (por ejemplo, vid, maíz y arándanos) implementen el sistema sin requerir modificaciones técnicas significativas.
 
-* **Creemos que** . **Sabremos que**  **cuando** .
+
+* **Creemos que** un proceso de instalación simple y guiado aumentará la tasa de adopción inicial sin requerir visitas técnicas. **Sabremos que esto es cierto cuando** más del 70% de los usuarios instalen y activen el sistema sin intervención presencial del equipo de soporte.
+
+* **Creemos que** incluir lenguaje local, soporte en español y ejemplos con cultivos reales aumentará la confianza en el uso de la plataforma. **Sabremos que esto es cierto cuando** el índice de satisfacción del onboarding supere el 80% en zonas rurales tras las primeras pruebas piloto.
 
 </div>
 
