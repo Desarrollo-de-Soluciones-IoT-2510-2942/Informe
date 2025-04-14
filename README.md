@@ -312,6 +312,8 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
 * **Carga operativa y toma de decisiones bajo presión:** El agricultor debe vigilar manualmente sus campos y tomar decisiones clave diariamente, sin apoyo tecnológico, generando estrés y errores frecuentes.
 
 **4. Gap:**
+<br>Existe una brecha crítica en el acceso a soluciones agrointeligentes que sean:
+
 * **Accesibles económicamente para agricultores pequeños y medianos:** El mercado está saturado de soluciones costosas, importadas o de difícil mantenimiento, fuera del alcance de este segmento clave.
   
 * **Fáciles de instalar y usar, sin necesidad de expertos:** Muchas tecnologías requieren formación técnica o soporte externo constante, lo cual no es viable para zonas rurales alejadas.
