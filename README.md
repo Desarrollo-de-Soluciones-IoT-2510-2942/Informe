@@ -391,23 +391,9 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
 
 <div align="justify">
 
-* Herramientas avanzadas de análisis:
-    - 
-    - 
-    - 
-* Automatización de Procesos Repetitivos:
-    - 
-* Funcionalidades de Seguridad Avanzada:
-    - 
-    - 
-* Generación de Informes Personalizados:
-    - 
-    - 
-* Visualización de Datos Interactiva:
-    - 
-* Alertas y Notificaciones Relevantes:
-    - 
-    - 
+- 
+- 
+- 
 
 </div>
 
