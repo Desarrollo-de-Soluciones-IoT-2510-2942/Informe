@@ -294,29 +294,28 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
 
 <div align="justify">
 
-1. 
+1. Los agricultores están dispuestos a adoptar tecnología si esta representa una mejora directa en su rentabilidad y productividad.
 
-2. 
+2. La creciente presión por hacer un uso eficiente del agua generará demanda por soluciones tecnológicas de monitoreo y control hídrico.
 
-3. 
 
-4. 
+3. La dependencia del Perú de fertilizantes importados continuará impulsando la búsqueda de alternativas que reduzcan su consumo.
 
-5. 
 
-6. 
+4. Existen programas de financiamiento o subsidios agrícolas que podrían facilitar la adquisición de tecnologías como NutriControl.
 
-7. 
 
-8. 
+5. Las políticas públicas estarán cada vez más orientadas hacia la sostenibilidad y podrían favorecer el uso de herramientas de agricultura de precisión.
 
-9. 
 
-10. 
+6. El mercado sudamericano tiene una base agrícola diversa que requiere soluciones flexibles y adaptables a diferentes tipos de cultivos.
 
-11. 
 
-12. 
+7. La brecha tecnológica entre grandes y pequeños productores crea una oportunidad para democratizar el acceso a innovación.
+
+
+8. El boca a boca y las demostraciones en campo serán canales clave para generar confianza y promover la adopción de la solución.
+
 
 </div>
 
@@ -324,13 +323,23 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
 
 <div align="justify">
 
-- 
+- Aumento sostenido de ventas y adopción de NutriControl en regiones agrícolas con alto estrés hídrico como Piura, Arequipa, Ica y Lambayeque.
 
-- 
 
-- 
+- Disminución del uso de fertilizantes entre un 20% y 40% mediante dosificación inteligente y personalizada.
 
-- 
+
+- Optimización del uso del agua de riego hasta en un 50%, especialmente en zonas con escasa disponibilidad hídrica.
+
+
+- Ampliación del mercado objetivo hacia otros países andinos y de la región con contextos similares (Ecuador, Bolivia, Colombia).
+
+- Creación de alianzas con cooperativas agrarias, ONGs rurales o entidades públicas para facilitar la implementación.
+
+- Mayor visibilidad de AgroSense como referente de innovación agrícola en ferias, congresos y publicaciones especializadas.
+
+- Generación de datos valiosos del comportamiento del suelo y cultivos para futuros desarrollos y mejoras de producto.
+
 
 </div>
 
@@ -369,9 +378,22 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
 
 <div align="justify">
 
-- 
-- 
-- 
+- Mayor control sobre el uso de recursos hídricos y nutricionales en sus cultivos, con datos visibles y comprensibles.
+
+- Ahorro de costos operativos anuales, especialmente en agua, fertilizantes y mano de obra para monitoreo manual.
+
+- Incremento de la productividad por hectárea gracias a decisiones más precisas y personalizadas.
+
+- Reducción del estrés operativo al contar con un sistema automatizado que indica cuándo y cuánto aplicar.
+
+- Disminución del riesgo de pérdida de cultivos por condiciones climáticas extremas gracias a alertas predictivas.
+
+- Adopción de una cultura de toma de decisiones basada en datos, fomentando una agricultura más profesionalizada.
+
+- Percepción de modernización tecnológica, mejorando su competitividad frente a productores más grandes.
+
+- Mayor resiliencia frente a los efectos del cambio climático y los mercados volátiles.
+
 
 </div>
 
@@ -379,9 +401,22 @@ En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución t
 
 <div align="justify">
 
-- 
-- 
-- 
+- Los sensores podrán operar con eficiencia en suelos variados (arcillosos, arenosos, húmedos) y condiciones climáticas extremas (lluvias intensas, calor extremo).
+
+- El sistema de riego automatizado responderá en tiempo real a las condiciones del suelo sin necesidad de intervención humana constante.
+
+- La interfaz será intuitiva, multilingüe y compatible con dispositivos de baja gama (celulares de gama media/baja con conexión intermitente).
+
+- Se podrá acceder a la plataforma desde zonas rurales con conectividad limitada, incluyendo modo offline para ciertas funciones.
+
+- Las alertas y reportes estarán personalizadas por cultivo, tipo de suelo, y perfil del agricultor.
+
+- El sistema tendrá capacidad de expansión modular para integrar nuevas variables (temperatura, salinidad, plagas).
+
+- La solución podrá ser instalada y mantenida fácilmente con capacitación básica, sin necesidad de técnicos especializados constantes.
+
+- El producto será escalable, desde parcelas pequeñas hasta medianas fincas, con opciones de configuración según el tamaño del terreno.
+
 
 </div>
 
