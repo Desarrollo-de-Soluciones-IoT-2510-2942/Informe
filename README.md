@@ -609,10 +609,10 @@ Taranis es una plataforma global de inteligencia agrícola que utiliza imágenes
         </tr>
         <tr>
             <th colspan="2">Logo</th>
-            <th>AlquilaFacil</th>
-            <th><img src="Resources/Competitors%20Table/Airbnb.png" alt="Logo Vrbo"></th>
-            <th><img src="Resources/Competitors%20Table/Vrbo.png" alt="Logo Vrbo"></th>
-            <th><img src="Resources/Competitors%20Table/Booking.png" alt="Logo Vrbo"></th>
+            <th>NutriControl</th>
+            <th><img src="Resources/Chapter%2002/Competitors%20Table/Netafim.png" alt="Logo NeatBeat"></th>
+            <th><img src="Resources/Chapter%2002/Competitors%20Table/AgroSmart.png" alt="Logo AgroSmart"></th>
+            <th><img src="Resources/Chapter%2002/Competitors%20Table/Taranis.png" alt="Logo Taranis"></th>
         </tr>
     </thead>
     <tbody>
