@@ -252,9 +252,8 @@ Además, con el fin de comunicar con mayor claridad el valor y alcance de nuestr
 
 ***Who***
 
-* A pequeños y medianos agricultores, quienes tienen menor acceso a tecnología.
-* A cooperativas y asociaciones agrícolas, que buscan eficiencia pero no cuentan con datos.
-
+* A pequeños y medianos agricultores rurales, que gestionan sus cultivos con experiencia empírica y enfrentan limitaciones económicas, técnicas y climáticas para mejorar su productividad.
+* A agricultores de cultivos de alto valor orientados a la exportación, que requieren precisión en el manejo de insumos para mantener la calidad y rentabilidad de sus productos.
 
 ***Where***
 * Esta problemática se manifiesta en todo el territorio sudamericano, con especial gravedad en regiones agrícolas de Perú como Piura, Lambayeque o Ica, donde la disponibilidad de agua es crítica y los efectos del cambio climático agravan la variabilidad en las condiciones del suelo y el clima.
@@ -405,6 +404,7 @@ Además, con el fin de comunicar con mayor claridad el valor y alcance de nuestr
 1. **¿Quién es el usuario?**
 
     * Pequeños y medianos agricultores, principalmente de zonas rurales de Perú y otros países de Sudamérica, con acceso limitado a tecnología avanzada.
+    * Productores tecnificados de cultivos de alto valor (orientados al mercado de exportación).
 
 2. **¿Qué problemas tiene nuestro producto? ¿Resolver?**
 
