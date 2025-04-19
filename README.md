@@ -299,17 +299,15 @@ Además, con el fin de comunicar con mayor claridad el valor y alcance de nuestr
 
 **2. Customer Segments:**
 * Pequeños y medianos agricultores rurales:
-  * Con acceso limitado a tecnologías de monitoreo o automatización.
-  * Que toman decisiones empíricas basadas en la experiencia, no en datos.
-  * Con capacidad de inversión reducida y márgenes ajustados.
+  * Carecen de acceso a tecnologías de monitoreo o automatización.
+  * Toman decisiones basadas en experiencia empírica, no en datos.
+  * Tienen recursos económicos limitados y márgenes de ganancia estrechos.
+  * Viven en zonas rurales con estrés hídrico y condiciones climáticas adversas.
 
-* Agricultores de zonas con estrés hídrico (como costa peruana):
-  * Necesitan riego eficiente y no tienen herramientas de control.
-  * Alta dependencia de fuentes de agua cada vez más escasas.
-
-* Agricultores que cultivan productos de alto valor:
-  * Requieren precisión en nutrientes y riego para mantener calidad exportable.
-  * Un error en fertilización o humedad puede afectar directamente la rentabilidad.
+* Agricultores de cultivos de alto valor orientados a la exportación
+  * Necesitan precisión en la dosificación de nutrientes y riego para cumplir estándares de calidad.
+  * Pueden tener una mayor disposición a invertir si hay retorno claro.
+  * Su producción se ve muy afectada por errores en fertilización o riego.
 
 **3. Pain Points:**
 * **Desconocimiento del estado real del suelo y sus necesidades:** La mayoría de agricultores carece de herramientas para medir variables clave como humedad, pH o nutrientes, lo que lleva a aplicar insumos sin criterios técnicos.
