@@ -552,42 +552,43 @@ Agricultores o empresas agroindustriales que cultivan productos como arándanos,
 
 ## 2.1. Competidores
 
-![](Resources/cap2/competidores-baner.png)
-
 <div align="justify">
 
-
-
+Después de realizar una investigación de mercado, hemos identificado tres plataformas que ofrecen características similares a las de nuestra solución NutriControl. Estas son:
 </div>
 
 **Competidores:**
 
 <div align="justify">
 
-* ***:***
-  
+* ***NetBeat (Netafim):***
+NetBeat es una plataforma desarrollada por Netafim, líder global en soluciones de riego por goteo y agricultura de precisión. Es el primer sistema digital de gestión de riego que integra monitoreo, análisis y automatización en tiempo real. Permite a los agricultores controlar el riego y la fertilización desde un solo panel inteligente, tomando decisiones basadas en datos obtenidos de sensores de suelo, clima y cultivos. Aunque es una solución potente y muy consolidada, su implementación puede resultar costosa, especialmente para pequeños y medianos productores rurales.
 
 </div>
 
-  ![Imagen extraída de ([URL]())](Resources/cap2/)
+  ![Imagen extraída de NetBeat([URL]())](Resources/Competitors/Airbnb.png)
 
+<br>
 <div align="justify">
 
-* ***:***
-  
+* ***Agrosmart:***
+Agrosmart es una plataforma brasileña de agricultura digital diseñada para ayudar a los productores a tomar decisiones más informadas mediante el uso de datos climáticos, sensores de campo y análisis predictivo. Ofrece monitoreo remoto del suelo, clima y cultivos, además de generar alertas, reportes y recomendaciones personalizadas. Agrosmart ha logrado posicionarse fuertemente en América Latina gracias a su enfoque local y accesibilidad. Sin embargo, su oferta está más orientada al monitoreo y no a la automatización directa del riego y fertilización como lo hace NutriControl.
 
 </div>
 
-  ![Imagen extraída de ([URL]())](Resources/cap2/)
-
+  ![Imagen extraída de AgroSmart([URL]())](Resources/Competitors/Vrbo.png)
+<br><br>
 <div align="justify">
 
-* ***:***
-  
+* ***Taranis:***
+Taranis es una plataforma global de inteligencia agrícola que utiliza imágenes aéreas de alta resolución, sensores y algoritmos de inteligencia artificial para detectar problemas en los cultivos, como plagas, enfermedades y deficiencias nutricionales. Está orientada principalmente a grandes explotaciones agrícolas, ofreciendo reportes detallados y alertas tempranas sobre la salud del cultivo. Aunque es muy avanzada tecnológicamente, su enfoque se centra en el diagnóstico visual a gran escala más que en la automatización de procesos como el riego o la fertilización.
 
 </div>
 
-  ![Imagen extraída de ([URL]())](Resources/cap2/)
+  ![Imagen extraída de Taranis([URL]())](Resources/Competitors/Booking.png)
+
+<br>
+
 
 ### 2.1.1. Análisis competitivo
 
