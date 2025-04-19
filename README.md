@@ -566,7 +566,7 @@ NetBeat es una plataforma desarrollada por Netafim, líder global en soluciones 
 
 </div>
 
-  ![Imagen extraída de NetBeat([URL]())](Resources/Competitors/Airbnb.png)
+  ![Imagen extraída de NetBeat([URL]())](Resources/Chapter%2002/Competitors/Netafim.png)
 
 <br>
 <div align="justify">
@@ -576,7 +576,7 @@ Agrosmart es una plataforma brasileña de agricultura digital diseñada para ayu
 
 </div>
 
-  ![Imagen extraída de AgroSmart([URL]())](Resources/Competitors/Vrbo.png)
+  ![Imagen extraída de AgroSmart([URL]())](Resources/Chapter%2002/Competitors/AgroSmart.png)
 <br><br>
 <div align="justify">
 
@@ -585,7 +585,7 @@ Taranis es una plataforma global de inteligencia agrícola que utiliza imágenes
 
 </div>
 
-  ![Imagen extraída de Taranis([URL]())](Resources/Competitors/Booking.png)
+  ![Imagen extraída de Taranis([URL]())](Resources/Chapter%2002/Competitors/Taranis.png)
 
 <br>
 
