@@ -501,9 +501,50 @@ Además, con el fin de comunicar con mayor claridad el valor y alcance de nuestr
 
 ## 1.3. Segmentos objetivo
 
-![Tabla del segmento 1](Resources/cap1/segmento-1.png)
+<div align="justify">
 
-![Tabla del segmento 2](Resources/cap1/segmento-2.png)
+En esta sección, identificamos los segmentos de clientes específicos a los que se dirige NutriControl, basándonos en sus características productivas, comportamientos agrícolas y necesidades comunes frente a los desafíos del sector agropecuario.
+<br>
+
+**Productores rurales tradicionales (pequeños y medianos agricultores)**
+
+**Descripción:**  
+Agricultores que trabajan en zonas rurales, generalmente con acceso limitado a tecnologías agrícolas modernas y que gestionan sus cultivos con base en experiencia empírica. Representan la mayoría de productores en regiones como la sierra y costa peruana, donde existe una alta vulnerabilidad ante el cambio climático y la escasez hídrica.
+
+**Características:**  
+- Bajos niveles de tecnificación.  
+- Recursos económicos limitados.  
+- Alta dependencia de factores climáticos.  
+- Cultivos de subsistencia o producción local.
+
+**Necesidades:**  
+- Acceder a herramientas asequibles para monitorear el suelo y el riego.  
+- Optimizar el uso de agua y fertilizantes sin conocimientos técnicos complejos.  
+- Recibir alertas y recomendaciones simples para mejorar la toma de decisiones.  
+- Acceder a programas de financiamiento o subsidios que faciliten la adopción tecnológica.
+
+<br>
+
+**Productores tecnificados de cultivos de alto valor (orientados al mercado de exportación)**
+
+**Descripción:**  
+Agricultores o empresas agroindustriales que cultivan productos como arándanos, uvas, palta o espárragos, destinados a mercados nacionales e internacionales. Estos productores buscan optimizar sus procesos para garantizar calidad, trazabilidad y sostenibilidad en sus cultivos.
+
+**Características:**  
+- Mayor nivel de inversión y disposición tecnológica.  
+- Necesidad de control preciso de variables agrícolas.  
+- Alta exigencia en calidad y cumplimiento de estándares de exportación.  
+- Operan en áreas donde incluso pequeñas variaciones pueden afectar la rentabilidad.
+
+**Necesidades:**  
+- Monitoreo avanzado en tiempo real de humedad, pH y nutrientes del suelo.  
+- Automatización del riego y fertilización para mejorar la eficiencia operativa.  
+- Análisis predictivo y reportes históricos para planificación estratégica.  
+- Recomendaciones personalizadas para cada tipo de cultivo y terreno.
+
+</div>
+
+
 
 <div style="page-break-after: always;"></div>
 
