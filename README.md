@@ -216,16 +216,33 @@ Ser líderes globales en innovación agroindustrial, reconocidos por transformar
 
 ## 1.2. Solution Profile
 
+**Product Name:** NutriControl
+
 <div align="justify">
-En el contexto agrícola de Sudamérica, y particularmente en Perú, los productores enfrentan una combinación de desafíos estructurales y emergentes que afectan profundamente la eficiencia y sostenibilidad del sector. Uno de los problemas más urgentes es la escasez de agua: según el Centro Nacional de Planeamiento Estratégico (Ceplan), se estima que para el año 2030 más del 58% de la población peruana vivirá en zonas con estrés hídrico, mientras regiones como Piura ya se encuentran en estado de emergencia por déficit hídrico. Esta crisis compromete gravemente la capacidad de riego de los cultivos y exige una gestión más eficiente del agua. A ello se suma el incremento sostenido en los precios de los fertilizantes, cuya importación anual en Perú supera el millón de toneladas y ha alcanzado un valor de más de 800 millones de dólares, impulsado por factores como la pandemia, los conflictos geopolíticos y las limitaciones en la cadena de suministro global. Este aumento ha afectado especialmente a pequeños y medianos productores, reduciendo sus márgenes de ganancia y dificultando el acceso a insumos esenciales. Por otro lado, la agricultura peruana aún presenta una marcada brecha tecnológica: mientras los grandes productores comienzan a incorporar tecnologías de precisión, la mayoría de agricultores no cuenta con herramientas que les permitan monitorear en tiempo real variables clave como la humedad, el pH del suelo o la disponibilidad de nutrientes, lo que limita su capacidad para tomar decisiones informadas frente a condiciones climáticas cada vez más impredecibles.
-<br><br>
-En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución tecnológica integral que automatiza el proceso de fertilización mediante sensores inteligentes capaces de medir en tiempo real variables críticas del suelo como el pH, la humedad y los niveles de nutrientes. A partir de estos datos, el sistema activa de forma autónoma el riego por goteo solo cuando el cultivo lo necesita, garantizando una aplicación precisa y oportuna de agua y fertilizantes. Esta tecnología no solo reduce el uso innecesario de insumos y agua, sino que también mejora significativamente el rendimiento de los cultivos. Con NutriControl, buscamos contribuir y ayudar a los agricultores peruanos y sudamericanos con herramientas accesibles e inteligentes que los ayuden a producir más con menos, adaptándose a las condiciones específicas de cada terreno y enfrentando con resiliencia los desafíos del cambio climático, la escasez hídrica y los altos costos productivos.
-<br><br>
+
+**Producto Descriptivo:**  
+NutriControl es una solución tecnológica integral desarrollada por AgroSense para optimizar el proceso de fertilización agrícola. Diseñada especialmente para pequeños y medianos productores en Sudamérica, esta plataforma combina sensores inteligentes con automatización de riego por goteo, permitiendo medir en tiempo real variables críticas del suelo como el pH, la humedad y los niveles de nutrientes. A partir de estos datos, NutriControl toma decisiones autónomas para activar el sistema de riego solo cuando el cultivo lo necesita, garantizando una aplicación precisa de agua y fertilizantes. La plataforma incluye una interfaz web y una aplicación móvil que ofrecen monitoreo en tiempo real, alertas personalizadas, reportes detallados y recomendaciones adaptadas a las condiciones de cada terreno. De esta forma, NutriControl mejora la eficiencia del uso de insumos, aumenta el rendimiento de los cultivos y contribuye a una agricultura más sostenible y resiliente frente al cambio climático y la escasez hídrica.
+
+**Monetización:**  
+NutriControl adoptará un modelo de monetización accesible y escalable, pensado especialmente para pequeños y medianos agricultores. La plataforma ofrecerá un modelo *freemium*, donde los usuarios podrán acceder gratuitamente a funciones básicas de monitoreo, alertas y visualización de datos desde la aplicación móvil o web. Para quienes deseen funcionalidades adicionales como reportes históricos, análisis predictivos y recomendaciones personalizadas, se ofrecerán planes de suscripción mensual de bajo costo, con tarifas ajustadas al tamaño del terreno o número de sensores instalados.
+
+Además, NutriControl generará ingresos mediante la venta directa o alquiler de kits de sensores inteligentes, con opciones de financiamiento o pago en cuotas para facilitar el acceso en zonas rurales. También se explorarán alianzas con cooperativas agrícolas, ONGs y programas estatales de apoyo al agro, permitiendo subsidiar la implementación en comunidades con menos recursos. Esta estrategia busca maximizar el impacto social y económico de la solución, promoviendo la adopción tecnológica sin representar una carga financiera significativa para los productores.
+
 </div>
+
 
 ![Solution Profile](Resources/Chapter%2001/Solution%20Profile/Reference.jpg)
 
 ### 1.2.1. Antecedentes y problemática
+
+<div align="justify">
+En el contexto agrícola de Sudamérica, y particularmente en Perú, los productores enfrentan una combinación de desafíos estructurales y emergentes que afectan profundamente la eficiencia y sostenibilidad del sector. Uno de los problemas más urgentes es la escasez de agua: según el Centro Nacional de Planeamiento Estratégico (Ceplan), se estima que para el año 2030 más del 58% de la población peruana vivirá en zonas con estrés hídrico, mientras regiones como Piura ya se encuentran en estado de emergencia por déficit hídrico. Esta crisis compromete gravemente la capacidad de riego de los cultivos y exige una gestión más eficiente del agua. A ello se suma el incremento sostenido en los precios de los fertilizantes, cuya importación anual en Perú supera el millón de toneladas y ha alcanzado un valor de más de 800 millones de dólares, impulsado por factores como la pandemia, los conflictos geopolíticos y las limitaciones en la cadena de suministro global. Este aumento ha afectado especialmente a pequeños y medianos productores, reduciendo sus márgenes de ganancia y dificultando el acceso a insumos esenciales. Por otro lado, la agricultura peruana aún presenta una marcada brecha tecnológica: mientras los grandes productores comienzan a incorporar tecnologías de precisión, la mayoría de agricultores no cuenta con herramientas que les permitan monitorear en tiempo real variables clave como la humedad, el pH del suelo o la disponibilidad de nutrientes, lo que limita su capacidad para tomar decisiones informadas frente a condiciones climáticas cada vez más impredecibles.
+<br><br>
+En respuesta a estos desafíos, AgroSense presenta NutriControl, una solución tecnológica integral que automatiza el proceso de fertilización mediante sensores inteligentes capaces de medir en tiempo real variables críticas del suelo como el pH, la humedad y los niveles de nutrientes. A partir de estos datos, el sistema activa de forma autónoma el riego por goteo solo cuando el cultivo lo necesita, garantizando una aplicación precisa y oportuna de agua y fertilizantes. Esta tecnología no solo reduce el uso innecesario de insumos y agua, sino que también mejora significativamente el rendimiento de los cultivos. <br><br>
+Además, con el fin de comunicar con mayor claridad el valor y alcance de nuestra solución, proponemos su descripción detallada utilizando el modelo 5W y 2H:
+<br><br>
+</div>
+
 
 <div align="justify">
 
