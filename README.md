@@ -2,7 +2,7 @@
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <br><img src="https://www.upc.edu.pe/static/img/logo_upc_red.png"></img><br>
     <br>
-    <strong>Ingeniería de Software - 2025-10</strong><br>
+    <strong>Ingeniería de Software - 2025-01</strong><br>
     <br>
     <strong>1ASI0572 - Desarrollo de Soluciones IoT - 2942</strong><br>  
     <br>
