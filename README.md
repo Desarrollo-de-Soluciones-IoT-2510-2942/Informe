@@ -703,74 +703,84 @@ Taranis es una plataforma global de inteligencia agrícola que utiliza imágenes
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 <div align="justify">
+Según Michael Porter, la estrategia competitiva define cómo una empresa se posiciona frente a sus competidores. Existen tres enfoques clave: liderazgo en costos, que busca ofrecer precios más bajos; diferenciación, centrada en brindar productos o servicios únicos; y enfoque, que consiste en atender segmentos específicos del mercado. Para implementar con éxito cualquiera de estas estrategias, es esencial comprender a fondo el mercado y la competencia, con el fin de construir una ventaja sostenible a largo plazo. En este contexto, y considerando el análisis SWOT de NutriControl, se proponen diversas estrategias competitivas alineadas a estas directrices.
+</div>
 
 
+<div align="justify">
 
-**Estrategias Competitivas para** ***:***
+**Estrategias Competitivas para** ***NutriControl:***
 
 1. **Liderazgo en Costos:**
 
-**Estrategia:** .
+**Estrategia:**  
+NutriControl puede ofrecer una solución tecnológica eficiente y accesible, orientada especialmente a pequeños y medianos productores, utilizando herramientas de bajo costo y estructuras operativas ágiles.
 
 **Tácticas:**
-* .
-* .
-* .
+* Desarrollar una plataforma ligera compatible con dispositivos de baja gama y conexión limitada.  
+* Ofrecer modelos de suscripción flexibles con precios diferenciados según el tamaño del productor.  
+* Establecer convenios con instituciones públicas y ONGs para subsidios o cofinanciamiento del servicio.
 
 2. **Diferenciación a través de la Innovación:**
 
-**Estrategia:** .
+**Estrategia:**  
+NutriControl puede diferenciarse ofreciendo funciones especializadas en nutrición vegetal y modelos predictivos personalizados que respondan a las condiciones locales y necesidades específicas de cultivos regionales.
 
 **Tácticas:**
-* .
-* .
-* .
-
+* Integrar análisis del suelo, clima y recomendaciones nutricionales en tiempo real.  
+* Invertir en el desarrollo de modelos predictivos con inteligencia artificial entrenados en datos locales.  
+* Crear una interfaz intuitiva con alertas prácticas y consejos fácilmente aplicables por los agricultores.
 
 3. **Enfoque en segmentos específicos del mercado:**
 
-**Estrategia:** .
+**Estrategia:**  
+NutriControl puede especializarse en atender sectores agrícolas con escasa penetración tecnológica, como cooperativas rurales, cultivos de exportación de pequeña escala y regiones con menor acceso a servicios de asesoramiento agronómico.
 
 **Tácticas:**
-* .
-* .
-* .
+* Diseñar soluciones específicas para cultivos como café, cacao, maíz y hortalizas en regiones tropicales.  
+* Ofrecer soporte técnico personalizado y recursos formativos en el idioma y contexto local.  
+* Establecer alianzas con asociaciones de productores para adaptar y distribuir la solución a gran escala.
 
-**Tácticas Específicas para** ***:***
+**Tácticas Específicas para** ***NutriControl:***
 
 1. **Monitoreo Competitivo Continuo:**
 
-**Táctica:** .
+**Táctica:**  
+Analizar de manera constante las estrategias y características de plataformas como NetBeat, Agrosmart y Taranis para identificar ventajas diferenciales y vacíos de mercado.
 
 **Acciones:**
-* .
-* .
+* Realizar benchmarking de funcionalidades, modelos de precios y tecnologías utilizadas por los competidores.  
+* Evaluar las debilidades en su adaptabilidad a productores pequeños o a contextos locales complejos.
 
 2. **Estrategias de Precios y Paquetes Competitivos:**
 
-**Táctica:** .
+**Táctica:**  
+Diseñar paquetes de servicios adaptados a diferentes perfiles de usuario, con una estructura de precios transparente y accesible.
 
 **Acciones:**
-* .
-* .
+* Ofrecer un modelo freemium o versiones básicas con posibilidad de expansión mediante módulos adicionales.  
+* Crear planes de precios por grupo, región o tipo de cultivo, facilitando el acceso colectivo.
 
 3. **Inversión en Marketing Diferenciado:**
 
-**Táctica:** .
+**Táctica:**  
+Posicionar a NutriControl como una solución local, accesible y centrada en el productor, enfocándose en mostrar beneficios concretos y medibles.
 
 **Acciones:**
-* .
-* .
+* Publicar estudios de caso, testimonios y datos de impacto en productividad agrícola.  
+* Utilizar canales de comunicación directa como redes sociales, ferias del agro y alianzas con radios comunitarias.
 
 4. **Alianzas Estratégicas y Colaboraciones:**
 
-**Táctica:** .
+**Táctica:**  
+Aprovechar colaboraciones con entidades del ecosistema agrícola para ampliar el alcance, la credibilidad y la distribución de la solución.
 
 **Acciones:**
-* .
-* .
+* Establecer convenios con gobiernos, universidades agrícolas y centros de extensión rural.  
+* Integrar NutriControl en programas de asistencia técnica, formación agronómica y financiamiento agrícola.
 
 </div>
+
 
 ## 2.2. Entrevistas
 
