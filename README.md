@@ -207,7 +207,7 @@ Ser líderes globales en innovación agroindustrial, reconocidos por transformar
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
 | Criollo De La Cruz, Diego Anderson (U202219639) | Mi nombre es Diego Anderson Criollo de La Cruz, soy estudiante de 7mo ciclo de la carrera de Ingeniería de Software. Me gusta mucho emplear soluciones creativas y que busquen eficiencia para poder abordar de esta forma cualquier desafío de la mejor manera. Como miembro del grupo, pretendo aportar con todos mis conocimientos en el desarrollo web tanto como en el front-end y back-end, además de siempre colaborar con mis ideas y soluciones ante cualquier dificultad que se presente en el desarrollo. Espero poder aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del desarrollo del proyecto.                                                                                             | ![Diego Criollo](Resources/Chapter%2001/Team%20Members/Criollo-Diego.jpg)             |
 |  |                                                                                                                                                                                       | ![]()               |
-| Morales Calderón, Hernan Emilio (U202216263) | Soy Hernan Morales, tengo 19 años y actualmente estoy cursando el 7mo ciclo de Ingeniería de Software. Me considero una persona sumamente responsable y organizada, especialmente en trabajos universitarios. Mi objetivo es culminar exitosamente el curso y nuestro proyecto junto a mi equipo, asegurando que cada detalle se ejecute con precisión. Tengo conocimientos sólidos en lenguajes como C++, C#, y JavaScript, así como en frameworks como Angular y Vue, lo que me permite desarrollar interfaces dinámicas y adaptarme rápidamente a diferentes entornos de desarrollo. Además, manejo SQL para la gestión y optimización de bases de datos. Estoy convencido de que, con buena planificación y comunicación, entregaremos un proyecto de alta calidad que supere las expectativas. | ![Hernan Morales](Resources/Chapter%2001/Team%20Members/Morales-Hernan.png)             |
+| Morales Calderón, Hernan Emilio (U202216263) | Soy Hernan Morales, tengo 20 años y actualmente estoy cursando el 7mo ciclo de Ingeniería de Software. Me considero una persona sumamente responsable y organizada, especialmente en trabajos universitarios. Mi objetivo es culminar exitosamente el curso y nuestro proyecto junto a mi equipo, asegurando que cada detalle se ejecute con precisión. Tengo conocimientos sólidos en lenguajes como C++, C#, y JavaScript, así como en frameworks como Angular y Vue, lo que me permite desarrollar interfaces dinámicas y adaptarme rápidamente a diferentes entornos de desarrollo. Además, manejo SQL para la gestión y optimización de bases de datos. Estoy convencido de que, con buena planificación y comunicación, entregaremos un proyecto de alta calidad que supere las expectativas. | ![Hernan Morales](Resources/Chapter%2001/Team%20Members/Morales-Hernan.png)             |
 | Valle Zuta, Abel Andrés (U202210297) | Soy Abel Andrés Valle Zuta, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), tengo 20 años y actualmente estoy cursando el 7mo ciclo en la sede de Monterrico. Sé programar y editar videos. Además, sé resolver problemas, trabajar en equipo y lograr unir más al grupo. Mis hobbies son jugar básquet, fútbol, tenis, videojuegos, escuchar música, salir a pasear con mis amigos, ver películas, nadar, hacer ejercicio, pasear a mis mascotas y pasar tiempo con mi familia. Finalmente, siempre estoy dispuesto a trabajar y terminar a tiempo los deberes, esforzándome para aprender y comprender lo máximo posible y finalizar con éxito todos mis objetivos.                                                                     | ![Abel Valle](Resources/Chapter%2001/Team%20Members/Valle-Abel.jpg)               |
 
 </div>
@@ -790,72 +790,64 @@ Para acceder al video de las entrevistas, haga click en la ([URL]())
 
 ### 2.2.1. Diseño de entrevistas
 
-Entrevista a personas referentes a nuestro segmentos objetivo, las preguntas varían dependiendo del segmento debido a las diferentes situaciones:
+Se han diseñado entrevistas cualitativas dirigidas a personas representativas de nuestros segmentos objetivo. Las preguntas fueron adaptadas a cada segmento, considerando sus contextos, niveles de tecnificación y necesidades específicas. Esta diferenciación nos permite obtener información más precisa, relevante y alineada a las realidades particulares de cada perfil de usuario.
 
-**Segmento 1:** 
 
-**Preguntas de introducción:**
-
-1. ¿Cuántos años tiene?
-2. ¿En qué ciudad del Perú reside?
-3. ¿Cuál considera que es su estatus social limitando la descripción a Clase Baja, Clase Media, Clase Media-Alta y Clase Alta?
-4. ¿?
-5. ¿?
-6. ¿?
-
-**Preguntas principales:**
-
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
-21. 
-22. 
-
-**Segmento 2:** 
+**Segmento 1: Productores Rurales Tradicionales** 
 
 **Preguntas de introducción:**
 
-1. ¿Cuántos años tiene?
-2. ¿En qué ciudad del Perú reside?
-3. ¿Cuál es su ocupación principal?
-4. ¿?
-5. ¿?
-6. ¿?
-7. ¿?
-8. ¿?
-9. ¿?
-10. ¿?
+1. ¿Cuál es su nombre y cuántos años tiene?
+2. ¿En qué zona o distrito vive?
+3. ¿Cómo calificaría su situación económica? (Alta, media, media-baja o baja)
+4. ¿Cuántos años lleva trabajando en agricultura?
+5. ¿Qué cultivos tiene y en cuántas hectáreas?
+6. ¿Alguna vez ha usado tecnología o herramientas digitales para su trabajo en el campo?
 
 **Preguntas principales:**
 
-1. ¿?
-2. ¿?
-3. ¿?
-4. ¿?
-5. ¿?
-6. ¿?
-7. ¿?
-8. ¿?
-9. ¿?
-10. ¿?
-11. ¿?
+1. ¿Cómo realiza actualmente el riego y la fertilización de sus cultivos? ¿Sigue algún calendario o lo hace según la observación diaria?
+2. ¿Qué dificultades enfrenta al momento de decidir cuánto fertilizante o agua aplicar a sus plantas?
+3. ¿Con qué frecuencia monitorea el estado del suelo (humedad, pH, nutrientes)? ¿Utiliza algún método o herramienta para hacerlo?
+4. ¿Ha tenido pérdidas en sus cultivos por aplicar demasiada o muy poca agua/fertilizante?
+5. ¿Qué tan costoso representa para usted adquirir fertilizantes o insumos? ¿Ha notado que su precio ha cambiado en los últimos años?
+6. ¿Qué haría diferente si pudiera saber en tiempo real lo que su cultivo necesita?
+7. ¿Qué importancia tiene para usted el ahorro de agua en su actividad agrícola?
+8. ¿Cómo le afecta el cambio climático en su producción agrícola? ¿Ha cambiado algo en la forma en que trabaja?
+9. ¿Con qué frecuencia accede a internet o usa un celular durante su jornada en el campo?
+10. ¿Estaría dispuesto a utilizar una herramienta que le diga exactamente cuándo y cuánto fertilizante o agua aplicar?
+11. ¿Qué condiciones debería tener una herramienta tecnológica para que usted la use sin complicaciones?
+12. ¿Qué beneficios espera de una solución que automatice parte del riego o fertilización?
+13. ¿Desea agregar algo más que considere importante sobre su trabajo o sobre el uso de nuevas herramientas?
+
+
+**Segmento 2: Productores Tecnificados de Cultivos de Alto Valor** 
+
+**Preguntas de introducción:**
+
+1. ¿Cuál es su nombre, edad y cargo dentro de la empresa o predio agrícola?
+2. ¿Hace cuántos años están operando con este cultivo?
+3. ¿Qué cultivos producen principalmente y cuántas hectáreas manejan actualmente?
+4. ¿En qué región o zona se ubica su operación agrícola?
+5. ¿Actualmente cuentan con algún sistema de agricultura de precisión o monitoreo digital?
+6. ¿Qué herramientas o tecnologías utilizan para gestionar riego, fertilización o trazabilidad?
+
+
+**Preguntas principales:**
+
+1. ¿Cómo determinan actualmente la cantidad de agua y fertilizantes que necesita el cultivo?
+2. ¿Con qué frecuencia monitorean variables como humedad del suelo, pH o niveles de nutrientes?
+3. ¿Tienen sensores instalados actualmente? Si no, ¿por qué aún no los implementan?
+4. ¿Qué tan automatizado está su sistema de riego/fertilización? ¿Hay procesos manuales?
+5. ¿Qué impacto económico tiene el uso de fertilizantes en su operación? ¿Buscan optimizarlo?
+6. ¿Han tenido problemas por sobreuso o deficiencia de fertilizantes o agua en campañas pasadas?
+7. ¿Qué tan importante es para su empresa la trazabilidad de los insumos y el historial del cultivo?
+8. ¿Cómo gestionan actualmente la toma de decisiones en base a los datos del terreno o clima?
+9. ¿Qué tipo de reportes o métricas son más útiles en su gestión diaria o estratégica?
+10. ¿Qué valoraría más de una solución como NutriControl: automatización, precisión o ahorro?
+11. ¿Qué características o integraciones consideran imprescindibles en una plataforma tecnológica agrícola?
+12. ¿Estarían dispuestos a adoptar una solución modular que se adapte al tipo de cultivo, terreno o tamaño de operación?
+13. ¿Desea agregar algo más que considere importante sobre su trabajo o sobre el uso de nuevas herramientas?
 
 
 </div>
