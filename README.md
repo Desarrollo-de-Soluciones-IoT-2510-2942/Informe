@@ -1317,9 +1317,7 @@ User Persona 2 - Segmento de : Productores tecnificados de cultivos de alto valo
 
 User Task Matrix: 
 
-Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han considerado los dos segmentos objetivo, producto del análisis de entrevistas, es decir,  y .
-
-
+Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han considerado los dos segmentos objetivo, producto del análisis de entrevistas, es decir, productores rurales tradicionales y productores tecnificados de cultivos de alto valor.
 
 <b>Robinson Rojas (Productor rural tradicional)</b><br>
 
