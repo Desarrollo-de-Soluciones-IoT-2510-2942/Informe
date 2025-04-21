@@ -1302,7 +1302,7 @@ User Persona 1 - Segmento de : Productores rurales tradicionales (pequeños y me
 
 </div>
 
-![Artefacto creado en UXPressia](Resources/cap2/.png)
+![Artefacto creado en UXPressia](Resources/Chapter%2002/User%20Personas/RobinsonRojas.png)
 
 <div style="page-break-after: always;"></div>
 
