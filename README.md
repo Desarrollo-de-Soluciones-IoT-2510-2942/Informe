@@ -1321,22 +1321,21 @@ Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han consider
 
 
 
-<b>Usuario </b><br>
+<b>Robinson Rojas (Productor rural tradicional)</b><br>
 
 <div align="center">
 
 | **USER TASK**                               | **Frecuencia** | **Importancia** |
 |---------------------------------------------|----------------|-----------------|
-|  |           |            |
-|  |           |            |
-|  |           |            |
-|  |           |            |
-|  |           |            |
-|  |           |            |
-|  |           |            |
-|  |           |            |
-|  |           |            |
-|  |           |            |
+| Monitorear la humedad y nutrientes del suelo	 |     Media      |      Alta      |
+| Recibir alertas sobre cuándo regar	 |     Alta      |      Alta      |
+| Ajustar el sistema de riego manualmente	 |     Baja      |      Media      |
+| Consultar reportes básicos de su terreno	 |     Media      |      Media      |
+| Recibir recomendaciones simples	 |     Alta      |      Alta      |
+| Configurar sensores iniciales	 |     Baja      |      Media      |
+| Contactar soporte técnico	 |     Baja      |      Baja      |
+| Aprender a usar la aplicación móvil	 |     Media      |      Alta      |
+
 
 </div><br><br>
 
