@@ -10,8 +10,8 @@
     <br> <strong>INFORME DE TB1</strong> 
 </p>
 <p align="center">
-    <strong>Startup: </strong><br>
-    <strong>Producto:  </strong>
+    <strong>Startup: AgroSense</strong><br>
+    <strong>Producto: NutriControl</strong>
 </p>
 
 <h3 align="center" >Team Members:</h3>
