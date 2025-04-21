@@ -1337,11 +1337,20 @@ Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han consider
 
 </div><br><br>
 
-<b>Usuario </b><br>
+<b>Mariana Díaz (Productora tecnificada de cultivos de alto valor)</b><br>
 
 <div align="center">
 
-
+| **USER TASK**                               | **Frecuencia** | **Importancia** |
+|---------------------------------------------|----------------|-----------------|
+| Monitorear en tiempo real las variables del suelo	 |     Alta      |      Alta      |
+| Automatizar el sistema de riego y fertilización	 |     Alta      |      Alta      |
+| Consultar reportes históricos detallados	 |     Media      |      Alta      |
+| Analizar predicciones basadas en datos	 |     Media      |      Alta      |
+| Personalizar las alertas y notificaciones	 |     Baja      |      Media      |
+| Configurar y calibrar sensores avanzados	 |     Baja      |      Alta      |
+| Integrar NutriControl con otros sistemas de gestión agrícola	 |     Baja      |      Alta      |
+| Realizar capacitaciones a su equipo sobre la herramienta	 |     Baja      |      Media      |
 
 </div>
 
