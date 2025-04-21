@@ -1285,9 +1285,11 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 
 <div align="justify">
 
-Con el fin de desarrollar un producto que satisfaga las necesidades de un cliente en particular, AgroSense identificará los User persona, User Task Matrix, User Journey Maps y Empathy Mapping.
+
 
 </div>
+
+![Imagen extraída de Canva](Resources/cap2/needfind-baner.png)
 
 ### 2.3.1. *User Personas*
 
