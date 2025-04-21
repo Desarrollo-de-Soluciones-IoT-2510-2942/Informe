@@ -497,7 +497,7 @@ Además, con el fin de comunicar con mayor claridad el valor y alcance de nuestr
 
 #### 1.2.2.4. *Lean UX Canvas*
 
-![Artefacto creado en Figma ([URL](https))]()
+![image](https://github.com/user-attachments/assets/d95293d3-eed7-4c60-b3d7-4fb6a112f627)
 
 ## 1.3. Segmentos objetivo
 
