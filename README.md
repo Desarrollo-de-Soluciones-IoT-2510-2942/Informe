@@ -1308,7 +1308,7 @@ User Persona 1 - Segmento de : Productores rurales tradicionales (pequeños y me
 
 User Persona 2 - Segmento de : Productores tecnificados de cultivos de alto valor (orientados al mercado de exportación)
 
-![Artefacto creado en UXPressia](Resources/cap2/.png)
+![Artefacto creado en UXPressia](Resources/Chapter%2002/User%20Personas/Mariana%20Díaz.png)
 
 <div style="page-break-after: always;"></div>
 
