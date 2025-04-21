@@ -1297,7 +1297,7 @@ Presentaremos los User Persona por cada segmento objetivo, en los cuales nos bas
 
 <div style="page-break-after: always;"></div>
 
-User Persona 1 - Segmento de : 
+User Persona 1 - Segmento de : Productores rurales tradicionales (pequeños y medianos agricultores)
 
 </div>
 
@@ -1305,31 +1305,11 @@ User Persona 1 - Segmento de :
 
 <div style="page-break-after: always;"></div>
 
-Gráfico sobre la sistema operativo mas usado:
-![Creado en Excel](Resources/cap2/.png)
-
-Gráfico sobre dispositivo móvil mas usado:
-![Creado en Excel](Resources/cap2/.png)
-
-Gráfico sobre browser mas usado:
-![Creado en Excel](Resources/cap2/.png)
-
-<div style="page-break-after: always;"></div>
-
-User Persona 2 - Segmento de : 
+User Persona 2 - Segmento de : Productores tecnificados de cultivos de alto valor (orientados al mercado de exportación)
 
 ![Artefacto creado en UXPressia](Resources/cap2/.png)
 
 <div style="page-break-after: always;"></div>
-
-Gráfico sobre la sistema operativo mas usado:
-![Creado en Excel](Resources/cap2/.png)
-
-Gráfico sobre dispositivo móvil mas usado:
-![Creado en Excel](Resources/cap2/.png)
-
-Gráfico sobre browser mas usado:
-![Creado en Excel](Resources/cap2/.png)
 
 ### 2.3.2. *User Task Matrix*
 
