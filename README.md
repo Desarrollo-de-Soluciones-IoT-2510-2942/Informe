@@ -1387,9 +1387,9 @@ El As-Is Scenario Mapping es una herramienta para identificar los pensamientos q
 
 </div>
 
-***As-Is Scenario Map:*** **-**
+***As-Is Scenario Map:*** **Productores rurales tradicionales (pequeños y medianos agricultores)**
 
-![Recurso creado en Miro](Resources/cap2/.png)
+![Recurso creado en Miro](Resources/Chapter%2002/As-Is/AsIs_Segmento1.png)
 
 ***As-Is Scenario Map:*** **-**
 
