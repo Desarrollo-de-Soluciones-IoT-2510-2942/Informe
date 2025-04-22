@@ -30,8 +30,8 @@
             <td>U20201B312</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Espinoza Saenz, Christian Renato</td>
+            <td>U202213208</td>
         </tr>
         <tr>
             <td>Morales Calderón, Hernan Emilio</td>
@@ -61,7 +61,7 @@
 |:-------:|:----------:|:-----:|:----------------------------| 
 |TB1| //2025 |Criollo De La Cruz, Diego Anderson| |
 |TB1| //2025 || |
-|TB1| //2025 || |
+|TB1| //2025 |Espinoza Saenz, Christian Renato| |
 |TB1| //2025 |Morales Calderón, Hernan Emilio| |
 |TB1| //2025 |Valle Zuta, Abel Andrés| |
 
@@ -209,6 +209,7 @@ Ser líderes globales en innovación agroindustrial, reconocidos por transformar
 |  |                                                                                                                                                                                       | ![]()               |
 | Morales Calderón, Hernan Emilio (U202216263) | Soy Hernan Morales, tengo 20 años y actualmente estoy cursando el 7mo ciclo de Ingeniería de Software. Me considero una persona sumamente responsable y organizada, especialmente en trabajos universitarios. Mi objetivo es culminar exitosamente el curso y nuestro proyecto junto a mi equipo, asegurando que cada detalle se ejecute con precisión. Tengo conocimientos sólidos en lenguajes como C++, C#, y JavaScript, así como en frameworks como Angular y Vue, lo que me permite desarrollar interfaces dinámicas y adaptarme rápidamente a diferentes entornos de desarrollo. Además, manejo SQL para la gestión y optimización de bases de datos. Estoy convencido de que, con buena planificación y comunicación, entregaremos un proyecto de alta calidad que supere las expectativas. | ![Hernan Morales](Resources/Chapter%2001/Team%20Members/Morales-Hernan.png)             |
 | Valle Zuta, Abel Andrés (U202210297) | Soy Abel Andrés Valle Zuta, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), tengo 20 años y actualmente estoy cursando el 7mo ciclo en la sede de Monterrico. Sé programar y editar videos. Además, sé resolver problemas, trabajar en equipo y lograr unir más al grupo. Mis hobbies son jugar básquet, fútbol, tenis, videojuegos, escuchar música, salir a pasear con mis amigos, ver películas, nadar, hacer ejercicio, pasear a mis mascotas y pasar tiempo con mi familia. Finalmente, siempre estoy dispuesto a trabajar y terminar a tiempo los deberes, esforzándome para aprender y comprender lo máximo posible y finalizar con éxito todos mis objetivos.                                                                     | ![Abel Valle](Resources/Chapter%2001/Team%20Members/Valle-Abel.jpg)               |
+| Espinoza Saenz, Christian Renato (U202213208) | Mi nombre es Christian Espinoza, soy un estudiante de 20 años que cursa el 7mo ciclo de la carrera Ingeniería de Software. Poseo ideas únicas e innovadoras para que el trabajo logre sobresalir. Tengo experiencia en la creación de distintos tipos de diagramas, editar diferentes tipos de multimedia como videos, y un conocimiento general en programación de C++, HTML, CSS y SQL. Además, se me facilita desarrollar interfaces intuitivas en el frontend, lo cual será beneficioso para el proyecto.                                                                    | ![Christian Espinoza](Resources/Chapter%2001/Team%20Members/Christian-Espinoza.jpg)               |
 
 </div>
 
@@ -1404,9 +1405,20 @@ El As-Is Scenario Mapping es una herramienta para identificar los pensamientos q
 
 ## 2.4. *Ubiquitous Language*
 
+Los términos utilizados en el dominio del negocio son los siguientes:
 
-
-![Ubiquitous Language](Resources/cap2/ubiquitous-language.png)
+| **Término**              | **Definición**                                                                 |
+|-----------------------|--------------------------------------------------------------------------------|
+| **Crop**              | Conjunto de plantas cultivadas en una zona específica, monitoreadas mediante sensores. |
+| **Cultivation Zone**  | Área geográfica delimitada donde se desarrollan y controlan los cultivos.      |
+| **Environmental Variable** | Factor del entorno como temperatura, humedad, o radiación que impacta el crecimiento del cultivo. |
+| **Precision Agriculture** | Estrategia que emplea datos y tecnología para optimizar el uso de recursos en la producción agrícola. |
+| **Irrigation System** | Conjunto de tecnologías que permiten administrar de forma eficiente el riego de los cultivos en función de datos ambientales. |
+| **Real-time Monitoring** | Observación continua de datos del campo para permitir decisiones inmediatas. |
+| **Decision Support**  | Herramientas analíticas que ayudan al productor a tomar decisiones informadas basadas en datos. |
+| **Soil Moisture**     | Cantidad de agua presente en el suelo, factor clave para determinar las necesidades de riego. |
+| **Data-driven Agriculture** | Modelo agrícola donde las decisiones se basan completamente en análisis de datos recolectados. |
+| **Field Activity Log**| Registro cronológico de todas las acciones y eventos relacionados con un cultivo específico. |
 
 
 <div style="page-break-after: always;"></div>
