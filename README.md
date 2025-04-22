@@ -1298,7 +1298,7 @@ Presentaremos los User Persona por cada segmento objetivo, en los cuales nos bas
 
 <div style="page-break-after: always;"></div>
 
-User Persona 1 - Segmento de : Productores rurales tradicionales (pequeños y medianos agricultores)
+***User Persona 1 - Segmento de :*** **Productores rurales tradicionales (pequeños y medianos agricultores)**
 
 </div>
 
@@ -1306,7 +1306,7 @@ User Persona 1 - Segmento de : Productores rurales tradicionales (pequeños y me
 
 <div style="page-break-after: always;"></div>
 
-User Persona 2 - Segmento de : Productores tecnificados de cultivos de alto valor (orientados al mercado de exportación)
+***User Persona 2 - Segmento de :*** **Productores tecnificados de cultivos de alto valor (orientados al mercado de exportación)**
 
 ![Artefacto creado en UXPressia](Resources/Chapter%2002/User%20Personas/Mariana%20Díaz.png)
 
@@ -1357,13 +1357,13 @@ Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han consider
 
 ### 2.3.3. *User Journey Mapping*
 
-User Journey Mapping: Productores rurales tradicionales (pequeños y medianos agricultores)
+***User Journey Mapping:*** **Productores rurales tradicionales (pequeños y medianos agricultores)**
 
 ![Artefacto creado en UXPressia](Resources/Chapter%2002/Journey%20Map/Robinson%20Rojas.png)
 
 <div style="page-break-after: always;"></div>
 
-User Journey Mapping: Productores tecnificados de cultivos de alto valor (orientados al mercado de exportación)
+***User Journey Mapping:*** **Productores tecnificados de cultivos de alto valor (orientados al mercado de exportación)**
 
 ![Artefacto creado en UXPressia](Resources/Chapter%2002/Journey%20Map/Mariana%20Diaz.png)
 
@@ -1371,13 +1371,13 @@ User Journey Mapping: Productores tecnificados de cultivos de alto valor (orient
 
 ### 2.3.4. *Empathy Mapping*
 
-Empathy Mapping: Productores rurales tradicionales (pequeños y medianos agricultores)
+***Empathy Mapping:*** **Productores rurales tradicionales (pequeños y medianos agricultores)**
 
 ![Artefacto creado en UXPressia](Resources/Chapter%2002/Empathy%20Map/Robinson%20Rojas.png)
 
 <div style="page-break-after: always;"></div>
 
-Empathy Mapping: Productores tecnificados de cultivos de alto valor (orientados al mercado de exportación)
+***Empathy Mapping:*** **Productores tecnificados de cultivos de alto valor (orientados al mercado de exportación)**
 
 ![Artefacto creado en UXPressia](Resources/Chapter%2002/Empathy%20Map/Mariana%20Díaz.png)
 
