@@ -1373,13 +1373,16 @@ User Journey Mapping: Productores tecnificados de cultivos de alto valor (orient
 
 Empathy Mapping: Productores rurales tradicionales (pequeños y medianos agricultores)
 
-![Artefacto creado en UXPressia](Resources/cap2/.png)
+![Artefacto creado en UXPressia](Resources/chapter%2002/Empathy%20Map/Robinson%20Rojas.png)
 
 <div style="page-break-after: always;"></div>
 
 Empathy Mapping: Productores tecnificados de cultivos de alto valor (orientados al mercado de exportación)
 
-![Artefacto creado en UXPressia](Resources/cap2/.png)
+![Artefacto creado en UXPressia](Resources/chapter%2002/Empathy%20Map/Mariana%20Díaz.png)
+
+<div style="page-break-after: always;"></div>
+
 
 ### 2.3.5. *As-is Scenario Mapping*
 
