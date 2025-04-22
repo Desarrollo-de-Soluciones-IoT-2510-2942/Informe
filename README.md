@@ -609,7 +609,7 @@ Taranis es una plataforma global de inteligencia agrícola que utiliza imágenes
         </tr>
         <tr>
             <th colspan="2">Logo</th>
-            <th>NutriControl</th>
+            <th><img src="Resources/Chapter%2002/Competitors%20Table/NutriControl.jpeg" alt="Logo NutriControl"></th>
             <th><img src="Resources/Chapter%2002/Competitors%20Table/Netafim.png" alt="Logo NeatBeat"></th>
             <th><img src="Resources/Chapter%2002/Competitors%20Table/AgroSmart.png" alt="Logo AgroSmart"></th>
             <th><img src="Resources/Chapter%2002/Competitors%20Table/Taranis.png" alt="Logo Taranis"></th>
