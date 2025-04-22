@@ -1357,25 +1357,27 @@ Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han consider
 
 ### 2.3.3. *User Journey Mapping*
 
-User Journey Mapping: 
+User Journey Mapping: Productores rurales tradicionales (pequeños y medianos agricultores)
 
-![Artefacto creado en UXPressia](Resources/cap2/.png)
+![Artefacto creado en UXPressia](Resources/chapter%2002/Journey%20Map/Robinson%20Rojas.png)
 
-User Journey Mapping: 
+<div style="page-break-after: always;"></div>
 
-![Artefacto creado en UXPressia](Resources/cap2/.png)
+User Journey Mapping: Productores tecnificados de cultivos de alto valor (orientados al mercado de exportación)
+
+![Artefacto creado en UXPressia](Resources/chapter%2002/Journey%20Map/Mariana%20Diaz.png)
 
 <div style="page-break-after: always;"></div>
 
 ### 2.3.4. *Empathy Mapping*
 
-Empathy Mapping: 
+Empathy Mapping: Productores rurales tradicionales (pequeños y medianos agricultores)
 
 ![Artefacto creado en UXPressia](Resources/cap2/.png)
 
 <div style="page-break-after: always;"></div>
 
-Empathy Mapping: 
+Empathy Mapping: Productores tecnificados de cultivos de alto valor (orientados al mercado de exportación)
 
 ![Artefacto creado en UXPressia](Resources/cap2/.png)
 
