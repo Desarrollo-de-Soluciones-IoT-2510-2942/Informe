@@ -1438,13 +1438,61 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
 
 
 
-**User Stories**
+***User Stories***
+
+<table>
+  <tr>
+    <th>Epic / Story</th>
+    <th>ID</th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>Criterios de Aceptación</th>
+    <th>Relacionado con (Epic ID)</th>
+  </tr>
+  <tr>
+    <td>Epic</td>
+    <td>EP001</td>
+    <td>Registro de Usuarios</td>
+    <td>Permitir a los usuarios registrarse en la plataforma.</td>
+    <td>
+      - Validar campos obligatorios<br>
+      - Confirmación exitosa<br>
+      - Datos guardados correctamente
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Story</td>
+    <td>ST001</td>
+    <td>Formulario de Registro</td>
+    <td>Crear formulario con campos: nombre, correo, contraseña.</td>
+    <td>
+      - Todos los campos requeridos<br>
+      - Contraseñas coinciden<br>
+      - Diseño responsivo
+    </td>
+    <td>EP001</td>
+  </tr>
+  <tr>
+    <td>Story</td>
+    <td>ST002</td>
+    <td>Validación de Email</td>
+    <td>Validar que el correo electrónico tenga formato válido.</td>
+    <td>
+      - Detectar correos mal escritos<br>
+      - Mensaje de error claro
+    </td>
+    <td>EP001</td>
+  </tr>
+</table>
+
+
 
 <div align="justify">
 
 
 
-**Technical User Stories**
+***Technical User Stories***
 
 
 
