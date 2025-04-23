@@ -1442,47 +1442,61 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
 
 <table>
   <tr>
-    <th>Epic / Story</th>
-    <th>ID</th>
+    <th>Epic / Story ID</th>
     <th>Título</th>
     <th>Descripción</th>
     <th>Criterios de Aceptación</th>
     <th>Relacionado con (Epic ID)</th>
   </tr>
   <tr>
-    <td>Epic</td>
-    <td>EP001</td>
-    <td>Registro de Usuarios</td>
-    <td>Permitir a los usuarios registrarse en la plataforma.</td>
+    <td>US-01</td>
+    <td>Información de NutriControl</td>
+    <td>Como usuario potencial, cuando ingrese a la Landing Page de NutriControl, quiero poder visualizar información del funcionamiento de la solución y su propuesta de valor.</td>
     <td>
-      - Validar campos obligatorios<br>
-      - Confirmación exitosa<br>
-      - Datos guardados correctamente
     </td>
     <td>-</td>
   </tr>
   <tr>
-    <td>Story</td>
-    <td>ST001</td>
-    <td>Formulario de Registro</td>
-    <td>Crear formulario con campos: nombre, correo, contraseña.</td>
+    <td>US-02</td>
+    <td>Características de NutriControl</td>
+    <td>Como usuario potencial, cuando navegue dentro de las secciones de la Landing Page de NutriControl, quiero poder visualizar características específicas de lo que NutriControl ofrece y ver si se adecuan a mis necesidades.</td>
     <td>
-      - Todos los campos requeridos<br>
-      - Contraseñas coinciden<br>
-      - Diseño responsivo
     </td>
-    <td>EP001</td>
+    <td>-</td>
   </tr>
   <tr>
-    <td>Story</td>
-    <td>ST002</td>
-    <td>Validación de Email</td>
-    <td>Validar que el correo electrónico tenga formato válido.</td>
-    <td>
-      - Detectar correos mal escritos<br>
-      - Mensaje de error claro
+    <td>US-03</td>
+    <td>Sección de planes o membresías</td>
+    <td>Como usuario potencia, cuando navegue dentro de las secciones de la Landing Page de NutriControl, quiero poder visualizar una sección de planes en los cuales ver los beneficios adicionales que tendría fuera de un plan 
+     Freemium. 
     </td>
-    <td>EP001</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-04</td>
+    <td>Registro de Usuario</td>
+    <td>Como usuario, cuando ingrese a la App Web o descargue el App Móvil, quiero poder registrarme con un correo electrónico y contraseña para poder usar NutriControl.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-05</td>
+    <td>Inicio de Sesión</td>
+    <td>Como usuario, cuando ingrese a la App Web o descargue el App Móvil, quiero poder iniciar sesión con mis credenciales ya creadas en el registro de NutriControl.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-06</td>
+    <td>Recuperación de Contraseña</td>
+    <td>Como usuario, cuando ingrese a la App Web o descargue el App Móvil, quiero poder recuperar o cambiar mi contraseña en caso la haya olvidado.</td>
+    <td>
+    </td>
+    <td>-</td>
   </tr>
 </table>
 
