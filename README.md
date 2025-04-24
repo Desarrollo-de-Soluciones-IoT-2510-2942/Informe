@@ -1516,7 +1516,9 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
 
 El impact map es una herramienta estratégica que permite identificar de manera precisa las características de una aplicación que pueden ser utilizadas o mejoradas para cumplir con un objetivo empresarial específico. Al partir del objetivo clave, se desglosan los comportamientos necesarios de los usuarios, se definen las acciones que deben realizar en la aplicación, se identifican las características necesarias para habilitar esas acciones, se evalúa el impacto potencial de cada característica en el logro del objetivo, y finalmente se crea un plan de acción detallado que guía el desarrollo y mejora continua de la aplicación, alineando así las acciones de los usuarios con los objetivos estratégicos de la empresa.
 
-![Artefacto creado en UXPressia](Resources/cap2/impact-map.png)
+![Artefacto creado en UXPressia](Resources/Chapter%2002/Impact%20Map/ImpactMap.png)
+
+<div style="page-break-after: always;"></div>
 
 ### 3.4. *Product Backlog*
 
