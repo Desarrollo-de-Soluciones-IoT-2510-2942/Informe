@@ -1082,43 +1082,43 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Nicolle</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Gonzales</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td> años</td>
+    <td>25 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>La Tinguiña, Ica, Perú</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>Google Meets</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></td>
+    <td>Mejorar la gestión de su cultivo de arándanos con tecnología que le permita tomar decisiones más precisas, reducir el desperdicio de agua y fertilizantes, y lograr un mayor control sobre la producción.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td></td>
+    <td>No contar con una solución que le indique con claridad cuándo y cuánto fertilizar o regar, tener que depender de la observación visual, y no poder automatizar tareas clave.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td></td>
+    <td>Laptop y Computadora Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td></td>
+    <td>Google Chrome</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td></td>
+    <td>Hernan Morales</td>
   </tr>
   <tr>
     <td>Evidencia</td>
@@ -1151,43 +1151,43 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Italo</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Hurtado</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td> años</td>
+    <td>25 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>Chincha Alta, Ica, Perú</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>Google Meets</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></td>
+    <td>Optimizar los procesos de riego y fertilización para ahorrar insumos y mejorar la calidad del cultivo, apostando por tecnologías que faciliten la gestión sin necesidad de supervisión constante.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td></td>
+    <td>Falta de herramientas accesibles que ayuden a tomar decisiones precisas y en tiempo real. La variación climática lo obliga a improvisar y eso impacta en el rendimiento.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td></td>
+    <td>Laptop, Computadora Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td></td>
+    <td>Googlee Chrome</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td></td>
+    <td>Hernan Morales</td>
   </tr>
   <tr>
     <td>Evidencia</td>
