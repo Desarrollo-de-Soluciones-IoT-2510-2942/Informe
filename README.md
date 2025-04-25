@@ -859,7 +859,7 @@ Se han diseñado entrevistas cualitativas dirigidas a personas representativas d
 
 Para el registro de entrevistas se realizará una entrevista por segmento, dando un total de 6 entrevistas. Además, el formato de las entrevistas es mp4, cada entrevista es independiente debido a las diferentes preguntas y respuestas dadas por los entrevistados de cada segmento.
 
-**Segmento 1:**
+**Segmento 1: Productores Rurales Tradicionales**
 
 <table>
 <colgroup>
@@ -1009,47 +1009,47 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Magno Jesus</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Puma Ayasta</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td> años</td>
+    <td>28 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>Santo Tomás, Chumbivilcas, Cusco</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>Zoom</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></td>
+    <td>Mejorar la eficiencia de su trabajo agrícola, ahorrar recursos y aumentar la productividad de sus cultivos para garantizar una mejor calidad de vida.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td></td>
+    <td>Dificultades por la falta de acceso a herramientas precisas, los altos costos de insumos y el impacto del cambio climático, lo que complica su labor diaria.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td></td>
+    <td>Laptop y Computadora Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td></td>
+    <td>Brave</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td></td>
+    <td>Abel Andrés Valle Zuta</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt=""></div></td>
+    <td><div align="center"><img src="Resources/Chapter%2002/Interview%20Evidence/entrevista_andres_magno.PNG" alt="Magno Puma"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1062,12 +1062,13 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;"></td>
+    Magno Puma, agricultor de 28 años de Santo Tomás, Cusco, con una economía media-baja, ha trabajado en agricultura toda su vida, dedicándose principalmente al cultivo de papa y cebada en tres hectáreas. Su riego y fertilización se basan en observación tradicional y conocimiento empírico, enfrentando desafíos como la falta de precisión al aplicar insumos y el impacto del cambio climático en la producción. Aunque no utiliza herramientas tecnológicas avanzadas, está interesado en soluciones que le permitan ahorrar agua y fertilizantes, mejorar la salud de sus cultivos y aumentar su rendimiento. Considera esencial que estas herramientas sean simples, accesibles sin internet y adaptadas a su contexto, como incluir lenguaje quechua. Además, enfatiza la importancia de la capacitación para aprovechar al máximo cualquier innovación.
   </tr>
 </tbody>
 </table>
 
 
-**Segmento 2:**
+**Segmento 2: Productores Tecnificados de Cultivos de Alto Valor**
 
 <table>
 <colgroup>
