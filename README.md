@@ -980,7 +980,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src ="Resources\Chapter 02\Interview Evidence\Evidencia-DiegoCano.png"></div></td>
+    <td><div align="center"><img src="Resources/Chapter%2002/Interview%20Evidence/Evidencia-DiegoCano.png" alt="Diego Cano"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -992,7 +992,8 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;">Diego Cano, joven agricultor de 23 años, trabaja desde hace tres años en el cultivo de arándanos en unas 3 hectáreas que le fueron asignadas. Aunque no es propietario, está familiarizado con prácticas avanzadas en agricultura como el riego por goteo, fertirriego, uso de sensores y análisis de suelo. Resalta el impacto del cambio climático en su zona, con temperaturas elevadas y menor disponibilidad de agua. Usa tecnología en campo, pero limitada al uso por computadora, ya que la señal móvil es deficiente. Expresa interés en herramientas digitales que le proporcionen retroalimentación en tiempo real sobre el estado del cultivo, dosificación precisa de fertilizantes y alertas preventivas frente a plagas observadas por agricultores cercanos. Recalca la importancia de herramientas confiables, fáciles de usar y compartidas entre el personal.</td>
+    <td style="text-align: justify;">
+    Diego Cano, joven agricultor de 23 años, trabaja desde hace tres años en el cultivo de arándanos en unas 3 hectáreas que le fueron asignadas. Aunque no es propietario, está familiarizado con prácticas avanzadas en agricultura como el riego por goteo, fertirriego, uso de sensores y análisis de suelo. Resalta el impacto del cambio climático en su zona, con temperaturas elevadas y menor disponibilidad de agua. Usa tecnología en campo, pero limitada al uso por computadora, ya que la señal móvil es deficiente. Expresa interés en herramientas digitales que le proporcionen retroalimentación en tiempo real sobre el estado del cultivo, dosificación precisa de fertilizantes y alertas preventivas frente a plagas observadas por agricultores cercanos. Recalca la importancia de herramientas confiables, fáciles de usar y compartidas entre el personal.</td>
   </tr>
 </tbody>
 </table>
@@ -1061,8 +1062,8 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;"></td>
-    Magno Puma, agricultor de 28 años de Santo Tomás, Cusco, con una economía media-baja, ha trabajado en agricultura toda su vida, dedicándose principalmente al cultivo de papa y cebada en tres hectáreas. Su riego y fertilización se basan en observación tradicional y conocimiento empírico, enfrentando desafíos como la falta de precisión al aplicar insumos y el impacto del cambio climático en la producción. Aunque no utiliza herramientas tecnológicas avanzadas, está interesado en soluciones que le permitan ahorrar agua y fertilizantes, mejorar la salud de sus cultivos y aumentar su rendimiento. Considera esencial que estas herramientas sean simples, accesibles sin internet y adaptadas a su contexto, como incluir lenguaje quechua. Además, enfatiza la importancia de la capacitación para aprovechar al máximo cualquier innovación.
+    <td style="text-align: justify;">
+    Magno Puma, agricultor de 28 años de Santo Tomás, Cusco, con una economía media-baja, ha trabajado en agricultura toda su vida, dedicándose principalmente al cultivo de papa y cebada en tres hectáreas. Su riego y fertilización se basan en observación tradicional y conocimiento empírico, enfrentando desafíos como la falta de precisión al aplicar insumos y el impacto del cambio climático en la producción. Aunque no utiliza herramientas tecnológicas avanzadas, está interesado en soluciones que le permitan ahorrar agua y fertilizantes, mejorar la salud de sus cultivos y aumentar su rendimiento. Considera esencial que estas herramientas sean simples, accesibles sin internet y adaptadas a su contexto, como incluir lenguaje quechua. Además, enfatiza la importancia de la capacitación para aprovechar al máximo cualquier innovación.</td>
   </tr>
 </tbody>
 </table>
