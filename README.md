@@ -940,59 +940,59 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Diego</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Cano Acero</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td> años</td>
+    <td>23 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>La molina</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>Zoom</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></td>
+    <td>Mejorar la calidad del cultivo, optimizar el uso del agua y garantizar la producción de arándanos de alta calidad.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td></td>
+    <td>Enfrenta dificultades al aplicar teorías agrícolas que no siempre se ajustan a las condiciones reales del campo. El cambio climático ha afectado la calidad del cultivo por el exceso de calor y la pérdida de nutrientes. Además, la mala conectividad limita el uso de herramientas digitales en tiempo real y la falta de información compartida con otros agricultores dificulta la prevención de plagas.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td></td>
+    <td> celular, laptop , sensores de ph y Riego por goteo</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td></td>
+    <td>Google Chrome</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td></td>
+    <td>Christian Espinoza</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src=""></div></td>
+    <td><div align="center"><img src ="Resources\Chapter 02\Interview Evidence\Evidencia-DiegoCano.png"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/EfG8rT-fPO9Elb-usHmyvRMBYBDAB3Cro2b3cIwB-DOVMw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=x2cQT8" title="Title">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/EfG8rT-fPO9Elb-usHmyvRMBYBDAB3Cro2b3cIwB-DOVMw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=x2cQT8</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>: min - : min </td>
+    <td>11:04 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;"></td>
+    <td style="text-align: justify;">Diego Cano, joven agricultor de 23 años, trabaja desde hace tres años en el cultivo de arándanos en unas 3 hectáreas que le fueron asignadas. Aunque no es propietario, está familiarizado con prácticas avanzadas en agricultura como el riego por goteo, fertirriego, uso de sensores y análisis de suelo. Resalta el impacto del cambio climático en su zona, con temperaturas elevadas y menor disponibilidad de agua. Usa tecnología en campo, pero limitada al uso por computadora, ya que la señal móvil es deficiente. Expresa interés en herramientas digitales que le proporcionen retroalimentación en tiempo real sobre el estado del cultivo, dosificación precisa de fertilizantes y alertas preventivas frente a plagas observadas por agricultores cercanos. Recalca la importancia de herramientas confiables, fáciles de usar y compartidas entre el personal.</td>
   </tr>
 </tbody>
 </table>
