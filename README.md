@@ -1979,7 +1979,7 @@ Seleccionamos esta User Story como base de referencia para la valorización de l
 
 ## 4.1. *Strategic-Level Domain-Driven Design*
 
-
+En esta sección introduciremos y explicaremos el proceso realizado para las decisiones de nivel estratégico aplicando Domain-Driven Design. 
 
 ### 4.1.1. *EventStorming*
 
@@ -2170,7 +2170,7 @@ A continuación, se visualizarán los diagramas C4.
 
 ## 4.2. *Tactical-Level Domain-Driven Design*
 
-
+En este capítulo explicamos y presentamos nuestra propuesta para la perspectiva táctica del diseño de la solución de software.
 
 ### 4.2.1. *Bounded Context: <Bounded Context Name>*
 
