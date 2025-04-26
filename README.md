@@ -59,11 +59,11 @@
 
 | Versión |   Fecha    | Autor | Descripción de modificación | 
 |:-------:|:----------:|:-----:|:----------------------------| 
-|TB1| //2025 |Criollo De La Cruz, Diego Anderson| |
+|TB1| //2025 |Criollo De La Cruz, Diego Anderson| Capítulo I: Introducción, Capítulo II: Requirement Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
 |TB1| //2025 || |
-|TB1| //2025 |Espinoza Saenz, Christian Renato| |
-|TB1| //2025 |Morales Calderón, Hernan Emilio| |
-|TB1| //2025 |Valle Zuta, Abel Andrés| |
+|TB1| //2025 |Espinoza Saenz, Christian Renato| Capítulo I: Introducción, Capítulo II: Requirement Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
+|TB1| //2025 |Morales Calderón, Hernan Emilio| Capítulo I: Introducción, Capítulo II: Requirement Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
+|TB1| //2025 |Valle Zuta, Abel Andrés| Capítulo I: Introducción, Capítulo II: Requirement Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
 
 </div>
 
