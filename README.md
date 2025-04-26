@@ -939,19 +939,19 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Arturo</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Adrianzén Flores</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td> años</td>
+    <td>20 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>Huancayo</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -967,19 +967,19 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td></td>
+    <td>Zoom, Windows</td>
   </tr>
-	<tr>
+  <tr>
     <td>Browsers</td>
-    <td></td>
+    <td>Google Chrome</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td></td>
+    <td>Diego Criollo</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt="Entrevista "></div></td>
+    <td><div align="center"><img src="Resources/Chapter%2002/Interview%20Evidence/Evidencia-Arturo-Adrianzen.png" alt="Entrevista a Arturo Adrianzen"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -991,7 +991,9 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;"></td>
+    <td style="text-align: justify;">
+Arturo Adrianzen, joven agricultor e hijo de campesinos de la sierra peruana, realiza el riego y la fertilización de sus cultivos guiándose por la observación diaria y la experiencia familiar, sin herramientas técnicas ni un calendario fijo. Señala que le cuesta saber con exactitud cuánto fertilizante o agua aplicar, lo que a veces le ha generado pérdidas. No monitorea el suelo de forma regular y el alto costo de los insumos lo obliga a usarlos con cuidado. Considera que una herramienta que indique en tiempo real las necesidades del cultivo sería muy útil, especialmente para ahorrar agua y evitar errores. Reconoce que el cambio climático ha afectado su producción y ha tenido que adaptarse. Usa su celular con frecuencia para informarse y estaría dispuesto a usar tecnología agrícola, siempre que sea sencilla, funcione sin internet constante y venga acompañada de capacitación.
+    </td>
   </tr>
 </tbody>
 </table>
