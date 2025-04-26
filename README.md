@@ -1783,6 +1783,19 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Inicio de Sesión</td>
     <td>Como usuario, cuando ingrese a la App Web o descargue el App Móvil, quiero poder iniciar sesión con mis credenciales ya creadas en el registro de NutriControl.</td>
     <td>
+    Escenario 1: Inicio de sesión exitoso
+    <br><br>
+    Dado que un usuario registrado ingresa a la App Web o App Móvil,
+    Cuando proporcione un correo y contraseña correctos,
+    Entonces accederá a su cuenta
+    Y verá el dashboard principal.
+    <br><br>
+    Escenario 2: Error de inicio de sesión por credenciales incorrectas
+    <br><br>
+Dado que un usuario intente iniciar sesión,
+Cuando ingrese credenciales incorrectas,
+Entonces recibirá un mensaje de error
+Y podrá intentar ingresar nuevamente.
     </td>
     <td>EP-02</td>
   </tr>
@@ -1791,6 +1804,19 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Recuperación de Contraseña</td>
     <td>Como usuario, cuando ingrese a la App Web o descargue el App Móvil, quiero poder recuperar o cambiar mi contraseña en caso la haya olvidado.</td>
     <td>
+    Escenario 1: Solicitar recuperación de contraseña
+    <br><br>
+Dado que un usuario ha olvidado su contraseña,
+Cuando haga clic en "¿Olvidaste tu contraseña?",
+Entonces se le pedirá ingresar su correo electrónico
+Y recibirá instrucciones para cambiar su contraseña.
+    <br><br>
+    Escenario 2: Recuperación exitosa de contraseña
+    <br><br>
+Dado que un usuario haya solicitado recuperar su contraseña,
+Cuando ingrese una nueva contraseña válida a través del enlace recibido,
+Entonces el sistema actualizará su contraseña
+Y podrá iniciar sesión con la nueva clave.
     </td>
     <td>EP-02</td>
   </tr>
@@ -1799,6 +1825,26 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Adición de Campos Agrícolas</td>
     <td>Como productor agrícola, cuando ingrese al inicio de NutriControl, quiero poder agregar los Campos Agrícolas que deseo automatizar.</td>
     <td>
+    Escenario 1: Agregar un nuevo Campo Agrícola
+    <br><br>
+Dado que un productor agrícola haya iniciado sesión,
+Cuando seleccione la opción "Agregar Campo",
+Entonces podrá registrar un nuevo campo con nombre, ubicación y tamaño
+Y visualizarlo en la lista de campos.
+    <br><br>
+    Escenario 2: Validación de datos al registrar campo
+    <br><br>
+Dado que el productor quiera registrar un campo,
+Cuando deje algún campo obligatorio vacío,
+Entonces el sistema mostrará un mensaje de error
+Y no permitirá guardar el campo hasta completar los datos.
+    <br><br>
+    Escenario 3: Confirmación de campo agregado
+    <br><br>
+Dado que el productor haya agregado correctamente un nuevo campo,
+Cuando termine de registrar los datos,
+Entonces recibirá un mensaje de confirmación
+Y verá su campo reflejado en el mapa o lista de campos.
     </td>
     <td>EP-03</td>
   </tr>
@@ -1807,6 +1853,26 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Edición de Campos Agrícolas</td>
     <td>Como productor agrícola, cuando ingrese a ver mis Campos Agrícolas, quiero poder editar la información de los Campos que poseo.</td>
     <td>
+Escenario 1: Editar información de un campo existente
+    <br><br>
+Dado que el productor agrícola visualiza sus campos,
+Cuando seleccione un campo y haga clic en "Editar",
+Entonces podrá modificar la información como nombre, ubicación o tamaño
+Y guardar los cambios.
+    <br><br>
+Escenario 2: Validar cambios en el campo
+    <br><br>
+Dado que el productor modifique un campo,
+Cuando edite y guarde cambios inválidos (por ejemplo, nombre vacío),
+Entonces el sistema mostrará un mensaje de error
+Y no actualizará el campo hasta corregir los errores.
+    <br><br>
+Escenario 3: Confirmación de campo actualizado
+    <br><br>
+Dado que el productor termine de editar el campo,
+Cuando guarde los cambios,
+Entonces recibirá un mensaje de éxito
+Y verá los datos actualizados en la vista general.
     </td>
     <td>EP-03</td>
   </tr>
@@ -1815,6 +1881,19 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Eliminación de Campos Agrícolas</td>
     <td>Como productor agrícola, cuando ingrese a ver mis Campos Agrícolas, quiero poder eliminar cualquier Campo Agrícola que posea.</td>
     <td>
+Escenario 1: Eliminar un campo agrícola existente
+    <br><br>
+Dado que el productor visualiza la lista de sus campos,
+Cuando seleccione la opción "Eliminar" en un campo,
+Entonces se le pedirá una confirmación
+Y, si confirma, el campo será eliminado.
+    <br><br>
+Escenario 2: Cancelar la eliminación
+    <br><br>
+Dado que el productor haya presionado "Eliminar",
+Cuando vea el cuadro de confirmación,
+Entonces podrá cancelar la acción
+Y el campo permanecerá sin cambios.
     </td>
     <td>EP-03</td>
   </tr>
@@ -1823,6 +1902,26 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Registro de Cultivos</td>
     <td>Como productor agrícola, cuando ingrese a ver mis Campos Agrícolas, quiero poder agregar cultivos dentro de mis campos.</td>
     <td>
+Escenario 1: Agregar un cultivo a un campo
+    <br><br>
+Dado que el productor visualiza sus campos agrícolas,
+Cuando seleccione un campo y haga clic en "Agregar Cultivo",
+Entonces podrá registrar un cultivo con nombre, fecha de siembra y variedad
+Y visualizarlo dentro del campo.
+    <br><br>
+Escenario 2: Validación de datos en registro de cultivo
+    <br><br>
+Dado que el productor intente registrar un cultivo,
+Cuando deje campos obligatorios vacíos o ingrese datos inválidos,
+Entonces el sistema mostrará un mensaje de error
+Y no permitirá guardar hasta completar correctamente.
+    <br><br>
+Escenario 3: Confirmación de cultivo agregado
+    <br><br>
+Dado que el productor haya registrado un cultivo correctamente,
+Cuando envíe el formulario,
+Entonces verá un mensaje de éxito
+Y el cultivo aparecerá en la lista de cultivos del campo seleccionado.
     </td>
     <td>EP-04</td>
   </tr>
@@ -1831,6 +1930,26 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Edición de Cultivos</td>
     <td>Como productor agrícola, cuando ingrese a ver mis Cultivos de los Campos, quiero poder editar la información de mis Cultivos.</td>
     <td>
+Escenario 1: Editar un cultivo existente
+    <br><br>
+Dado que el productor visualiza los cultivos de sus campos,
+Cuando seleccione un cultivo y haga clic en "Editar",
+Entonces podrá modificar información como nombre, variedad o fecha de siembra
+Y guardar los cambios realizados.
+    <br><br>
+Escenario 2: Validar datos al editar un cultivo
+    <br><br>
+Dado que el productor edite un cultivo,
+Cuando ingrese información inválida o deje campos obligatorios vacíos,
+Entonces el sistema mostrará un mensaje de error
+Y no permitirá actualizar el cultivo hasta corregir los datos.
+    <br><br>
+Escenario 3: Confirmación de edición exitosa
+    <br><br>
+Dado que el productor haya realizado cambios en un cultivo,
+Cuando guarde los cambios,
+Entonces verá un mensaje de éxito
+Y los cambios se reflejarán en la lista de cultivos.
     </td>
     <td>EP-04</td>
   </tr>
@@ -1839,6 +1958,19 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Eliminación de Cultivos</td>
     <td>Como productor agrícola, cuando ingrese a ver mis Campos de los Campos, quiero poder eliminar ciertos cultivos dentor de mis Campos Agrícolas.</td>
     <td>
+Escenario 1: Eliminar un cultivo de un campo
+    <br><br>
+Dado que el productor visualiza los cultivos de sus campos,
+Cuando seleccione un cultivo y haga clic en "Eliminar",
+Entonces se le pedirá confirmar la eliminación
+Y al confirmar, el cultivo será eliminado del sistema.
+    <br><br>
+Escenario 2: Cancelar eliminación de cultivo
+    <br><br>
+Dado que el productor haya presionado "Eliminar" sobre un cultivo,
+Cuando vea el cuadro de confirmación,
+Entonces podrá cancelar la acción
+Y el cultivo permanecerá intacto.
     </td>
     <td>EP-04</td>
   </tr>
@@ -1847,6 +1979,26 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Conectar y Adicionar Dispositivos IOT a mis Cultivos</td>
     <td>Como productor agrícola, cuando ingrese a ver mis Campos Agrícolas, quiero registrar y adicionar a mis Campos los dispositivos IOT que están presentes en mis cultivos.</td>
     <td>
+Escenario 1: Conectar un nuevo dispositivo IoT
+    <br><br>
+Dado que el productor quiere mejorar el monitoreo de sus cultivos,
+Cuando acceda a la opción "Conectar Dispositivo" en un campo,
+Entonces podrá registrar un dispositivo IoT ingresando su ID y tipo
+Y asociarlo a un cultivo específico.
+    <br><br>
+Escenario 2: Validar conexión de dispositivo
+    <br><br>
+Dado que el productor intenta conectar un dispositivo IoT,
+Cuando ingrese datos inválidos o el dispositivo ya esté registrado,
+Entonces el sistema mostrará un mensaje de error
+Y no permitirá completar la conexión hasta corregir.
+    <br><br>
+Escenario 3: Confirmación de dispositivo conectado
+    <br><br>
+Dado que el productor haya conectado correctamente un dispositivo,
+Cuando finalice el registro,
+Entonces verá un mensaje de éxito
+Y el dispositivo aparecerá en la lista de dispositivos asociados.
     </td>
     <td>EP-05</td>
   </tr>
@@ -1855,6 +2007,19 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Desconectar Dispositivos IOT a mis Cultivos</td>
     <td>Como productor agrícola, cuando ingrese a ver mis Campos Agrícolas, quiero desactivar los dispositivos IOT que están presentes en mis cultivos.</td>
     <td>
+Escenario 1: Desconectar un dispositivo IoT
+    <br><br>
+Dado que el productor desea desconectar un dispositivo de un cultivo,
+Cuando seleccione el dispositivo y presione "Desconectar",
+Entonces verá una confirmación de acción
+Y al confirmar, el dispositivo será desvinculado del cultivo.
+    <br><br>
+Escenario 2: Cancelar desconexión de dispositivo
+    <br><br>
+Dado que el productor presione "Desconectar" sobre un dispositivo,
+Cuando vea la ventana de confirmación,
+Entonces podrá cancelar la acción
+Y el dispositivo seguirá vinculado al cultivo.
     </td>
     <td>EP-05</td>
   </tr>
@@ -1863,6 +2028,19 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Alertas del pH del Suelo</td>
     <td>Como agricultor rural, cuando no entiendo los niveles de pH del suelo, quiero recibir una alerta con una recomendación sencilla para saber qué hacer.</td>
     <td>
+Escenario 1: Recibir alerta de pH bajo o alto
+    <br><br>
+Dado que el agricultor tiene dispositivos IoT conectados,
+Cuando los sensores detecten un nivel de pH fuera del rango ideal,
+Entonces recibirá una alerta en la aplicación
+Y un mensaje sencillo con recomendaciones prácticas.
+    <br><br>
+Escenario 2: Visualizar recomendaciones de acción
+    <br><br>
+Dado que el agricultor recibe una alerta de pH,
+Cuando abra la alerta desde la app,
+Entonces podrá visualizar instrucciones claras sobre qué acciones tomar
+Y enlaces o recursos para apoyo adicional.
     </td>
     <td>EP-06</td>
   </tr>
@@ -1871,6 +2049,26 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Alertas y Configuración del Riego Automático</td>
     <td>Como agricultor rural, cuando necesito usar el riego automático, quiero recibir una alerta cuando el riego esté completado o necesite activar el riego en cierta determinada zona de mis cultivos.</td>
     <td>
+Escenario 1: Recibir alerta de riego completado
+    <br><br>
+Dado que el agricultor tiene configurado el riego automático,
+Cuando el sistema detecte que el riego ha finalizado,
+Entonces recibirá una notificación en la aplicación
+Y podrá consultar el resumen de la actividad de riego.
+    <br><br>
+Escenario 2: Recibir alerta de necesidad de riego
+    <br><br>
+Dado que el agricultor está monitoreando su cultivo,
+Cuando el sistema detecte que una zona necesita riego,
+Entonces recibirá una alerta con el nombre de la zona afectada
+Y un botón rápido para activar el riego desde la app.
+    <br><br>
+Escenario 3: Configurar programación de riego automático
+    <br><br>
+Dado que el agricultor quiere personalizar su riego,
+Cuando entre a la configuración del dispositivo,
+Entonces podrá definir horarios, frecuencia y cantidad de agua a suministrar
+Y guardar esos parámetros para su riego automático.
     </td>
     <td>EP-05</td>
   </tr>
@@ -1879,6 +2077,19 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Recomendaciones y Toma de decisón de los Cultivos</td>
     <td>Como agricultor rural, cuando necesito recomendaciones sobre la toma de decisiones, quiero recibir consejos sobre que hacer respecto al estado de cada cultivo.</td>
     <td>
+Escenario 1: Recibir recomendaciones de cuidado
+    <br><br>
+Dado que el agricultor revisa el estado de sus cultivos,
+Cuando un cultivo muestre signos de estrés o necesidad de intervención,
+Entonces el sistema mostrará recomendaciones específicas de acción
+Y podrá aplicar los consejos directamente desde la app.
+    <br><br>
+Escenario 2: Recomendaciones automáticas basadas en clima
+    <br><br>
+Dado que el agricultor tiene sensores climáticos conectados,
+Cuando se detecten cambios drásticos de temperatura o humedad,
+Entonces recibirá alertas de acción preventiva
+Y sugerencias para proteger sus cultivos.
     </td>
     <td>EP-06</td>
   </tr>
@@ -1887,6 +2098,26 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Gestión del Riego y Fertilización</td>
     <td>Como agricultor rural, cuando necesito gestionar el riego automático y fertilización, quiero poder entrar a manejar el estado de mis dispositivos de riego y fertilización para poder configurarlos según mis necesidades y recomendaciones.</td>
     <td>
+Escenario 1: Activar o desactivar dispositivos de riego y fertilización
+    <br><br>
+Dado que el agricultor necesita controlar su sistema,
+Cuando acceda a la gestión de dispositivos,
+Entonces podrá activar o desactivar manualmente el riego o fertilización
+Y visualizar el estado actualizado en tiempo real.
+    <br><br>
+Escenario 2: Configurar fertilización personalizada
+    <br><br>
+Dado que el agricultor quiere optimizar su fertilización,
+Cuando acceda a la sección de configuración de fertilizantes,
+Entonces podrá definir tipo de fertilizante, frecuencia y cantidad aplicada
+Y asignarlo a cultivos específicos.
+    <br><br>
+Escenario 3: Recibir alertas de fertilización necesaria
+    <br><br>
+Dado que el sistema detecte bajos niveles de nutrientes,
+Cuando esto ocurra,
+Entonces enviará una alerta recomendando fertilización
+Y sugerirá el tipo de fertilizante más adecuado.
     </td>
     <td>EP-05</td>
   </tr>
@@ -1895,6 +2126,26 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Ahorro de Recursos</td>
     <td>Como agricultor tecnificado, cuando necesito reducir o minimizar recursos, quiero poder recibir recomendaciones de uso de los recursos como el agua o fertilizanes en mis cultivos.</td>
     <td>
+Escenario 1: Recibir alertas de optimización de agua
+    <br><br>
+Dado que el agricultor desea minimizar el uso de agua,
+Cuando el sistema detecte un uso excesivo,
+Entonces enviará una alerta con recomendaciones de ahorro
+Y opciones de riego alternativo.
+    <br><br>
+Escenario 2: Recomendaciones de uso eficiente de fertilizantes
+    <br><br>
+Dado que el agricultor aplica fertilizantes a sus cultivos,
+Cuando el sistema analice los niveles de suelo,
+Entonces sugerirá ajustes de cantidad o frecuencia
+Y recomendará prácticas más eficientes.
+    <br><br>
+Escenario 3: Visualizar reportes de ahorro logrado
+    <br><br>
+Dado que el agricultor sigue las recomendaciones,
+Cuando consulte su historial de recursos,
+Entonces podrá visualizar cuánto agua y fertilizantes ha ahorrado
+Y compararlo con periodos anteriores.
     </td>
     <td>EP-06</td>
   </tr>
@@ -1903,6 +2154,19 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Análisis Predictivo de Cultivos</td>
     <td>Como agricultor tecnificado, cuando conocer información de ayuda a futuro sobre mis cultivos, quiero poder revisar en base al registro de mis cultivos y técnicas empleadas, datos predictivos sobre que hacer en diferentes ocasiones.</td>
     <td>
+Escenario 1: Visualizar predicciones de crecimiento de cultivos
+    <br><br>
+Dado que el agricultor tiene historial de cultivos registrado,
+Cuando consulte el módulo de predicción,
+Entonces verá estimaciones de producción y posibles fechas de cosecha
+Y sugerencias de cuidados preventivos.
+    <br><br>
+Escenario 2: Recibir predicciones basadas en técnicas agrícolas
+    <br><br>
+Dado que el agricultor aplica diferentes técnicas de cultivo,
+Cuando registre el tipo de técnica utilizada,
+Entonces el sistema ajustará las predicciones
+Y mostrará resultados proyectados basados en esas técnicas.
     </td>
     <td>EP-06</td>
   </tr>
@@ -1911,6 +2175,19 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Recomendaciones de Cultivos</td>
     <td>Como agricultor tecnificado, cuando necesito recibir recomendaciones sobre mis cultivos o técnicas, quiero poder visualizar información sobre recomendaciones para cada tipo de cultivo o terreno de campo agrícola.</td>
     <td>
+Escenario 1: Visualizar recomendaciones específicas para cada cultivo
+    <br><br>
+Dado que el agricultor tiene cultivos registrados en NutriControl,
+Cuando acceda a la sección de recomendaciones,
+Entonces verá consejos personalizados para cada tipo de cultivo registrado
+Y podrá aplicar sugerencias de manejo o mejora.
+    <br><br>
+Escenario 2: Recibir alertas de mejora según tipo de terreno
+    <br><br>
+Dado que el agricultor tiene distintos tipos de terreno,
+Cuando seleccione un cultivo y su terreno asociado,
+Entonces el sistema mostrará recomendaciones específicas según las características del terreno
+Y estrategias de optimización de recursos.
     </td>
     <td>EP-06</td>
   </tr>
@@ -1919,6 +2196,19 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Planes de Suscripción</td>
     <td>Como usuario, cuando necesito adquirir más beneficios o elegir un plan de suscripción de acuerdo a mis necesidades, quiero poder visualizar detalles sobre planes premium o freemium sobre NutriControl y elegir la mejor opción para mis necesidades.</td>
     <td>
+Escenario 1: Visualizar detalle de cada plan
+    <br><br>
+Dado que el usuario está en la sección de suscripción,
+Cuando vea los planes disponibles,
+Entonces podrá ver el detalle de beneficios, costos y condiciones de cada plan
+Y comparar entre diferentes opciones.
+    <br><br>
+Escenario 2: Seleccionar un plan para suscribirse
+    <br><br>
+Dado que el usuario quiere cambiar su suscripción,
+Cuando seleccione un plan premium o freemium,
+Entonces podrá confirmar su selección
+Y el sistema actualizará su cuenta al nuevo plan.
     </td>
     <td>EP-02</td>
   </tr>
@@ -1927,6 +2217,26 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Configuración de Cuenta</td>
     <td>Como usuario, cuando necesito cambiar información personal de mi cuenta o visualizar, quiero poder tener una sección de Perfil dentro de NutriControl para ver toda tipo de esa información.</td>
     <td>
+Escenario 1: Editar información personal
+    <br><br>
+Dado que el usuario desea actualizar su información,
+Cuando acceda a la sección de configuración de cuenta,
+Entonces podrá editar datos como nombre, correo y teléfono
+Y guardar los cambios.
+    <br><br>
+Escenario 2: Cambiar contraseña
+    <br><br>
+Dado que el usuario quiere aumentar la seguridad de su cuenta,
+Cuando ingrese a la opción de cambiar contraseña,
+Entonces podrá definir una nueva contraseña
+Y recibir confirmación de cambio exitoso.
+    <br><br>
+Escenario 3: Visualizar información de perfil
+    <br><br>
+Dado que el usuario quiere ver su información registrada,
+Cuando entre a su perfil,
+Entonces verá todos los datos asociados a su cuenta
+Y podrá verificar que estén correctos.
     </td>
     <td>EP-02</td>
   </tr>
