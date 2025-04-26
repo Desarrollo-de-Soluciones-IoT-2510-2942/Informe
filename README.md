@@ -2263,7 +2263,9 @@ Esta capa implementa los mecanismos técnicos para la persistencia de sensores y
 
 ##### 4.2.1.6.1. *Bounded Context Domain Layer Class Diagrams*
 
+Sensors and System Setup Domain Layer diagram:
 
+![Sensor layer diagram](Resources/Chapter%2004/DomainLayer/db1layer.png)
 
 ##### 4.2.1.6.2. *Bounded Context Database Design Diagram*
 
@@ -2310,13 +2312,19 @@ Esta capa se ocupa de la persistencia y de la integración con servicios externo
 
 
 
+
 #### 4.2.2.6. *Bounded Context Software Architecture Code Level Diagrams*
 ##### 4.2.2.6.1. *Bounded Context Domain Layer Class Diagrams*
 
+Plans and Memebership Domain Layer diagram:
 
+![Plans layer diagram](Resources/Chapter%2004/DomainLayer/db2layer.png)
 
 ##### 4.2.2.6.2. *Bounded Context Database Design Diagram*
-![Sensor databse diagram](Resources/Chapter%2004/DatabaseDesign/db2DatabaseDesign.png)
+
+Plans and Memebership database diagram:
+
+![Plans databse diagram](Resources/Chapter%2004/DatabaseDesign/db2DatabaseDesign.png)
 
 ### 4.2.3. *Bounded Context: <Bounded User Profile Management>User Profile Management*
 El contexto de User Management integra todo lo relacionado al registro de nuevos usuarios, autenticación en el sistema y gestión de los perfiles personales.  
@@ -2360,6 +2368,9 @@ Se ocupa de la persistencia de la información de usuarios y credenciales, adem�
 
 #### 4.2.3.6. *Bounded Context Software Architecture Code Level Diagrams*
 ##### 4.2.3.6.1. *Bounded Context Domain Layer Class Diagrams*
+User Profile Domain Layer diagram:
+
+![User layer diagram](Resources/Chapter%2004/DomainLayer/db3layer.png)
 
 
 
@@ -2415,6 +2426,9 @@ En esta capa se encuentran los componentes encargados de la persistencia de los 
 
 
 ##### 4.2.4.6.1. *Bounded Context Domain Layer Class Diagrams*
+Automated Irrigation Control Domain Layer diagram:
+
+![Irrigation layer diagram](Resources/Chapter%2004/DomainLayer/db4Layer.png)
 
 
 
@@ -2472,6 +2486,9 @@ Esta capa se encarga de los detalles técnicos relacionados con la persistencia 
 #### 4.2.5.6. *Bounded Context Software Architecture Code Level Diagrams*
 
 ##### 4.2.5.6.1. *Bounded Context Domain Layer Class Diagrams*
+Field Registartion and Management Domain Layer diagram:
+
+![Field layer diagram](Resources/Chapter%2004/DomainLayer/db5layer.png)
 
 
 
@@ -2527,7 +2544,9 @@ Esta capa incluye los componentes que gestionan la persistencia y el acceso a lo
 
 #### 4.2.6.6. *Bounded Context Software Architecture Code Level Diagrams*
 ##### 4.2.6.6.1. *Bounded Context Domain Layer Class Diagrams*
+Crop Monitoring & Field Data Management Domain Layer diagram:
 
+![Crops layer diagram](Resources/Chapter%2004/DomainLayer/db6Layer.png)
 
 ##### 4.2.6.6.2. *Bounded Context Database Design Diagram*
 
