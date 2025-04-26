@@ -1671,9 +1671,14 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     </td>
     <td>US-15, US-17, US-19, US-20, US-21</td>
   </tr>
+  <tr>
+    <td>EP-07</td>
+    <td>Implementación Técnica</td>
+    <td>Como equipo de desarrollo, cuando construyamos la solución NutriControl, quiero establecer toda la base técnica necesaria (infraestructura, autenticación, integración IoT, motor de alertas, y frontend responsive) para garantizar el correcto funcionamiento, escalabilidad y mantenimiento del sistema.
+    </td>
+    <td>TS-01, TS-02, TS-03, TS-04, TS-05</td>
+  </tr>
 </table>
-
-
 
 ***User Stories***
 
@@ -2250,7 +2255,135 @@ Y podrá verificar que estén correctos.
 
 ***Technical User Stories***
 
-
+<table>
+  <tr>
+    <th>Epic / Story ID</th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>Criterios de Aceptación</th>
+    <th>Relacionado con (Epic ID)</th>
+  </tr>
+<tr>
+    <td>TS-01</td>
+    <td>Configuración de Infraestructura y Base de Datos Inicial</td>
+    <td>Como equipo de desarrollo, cuando configuremos la infraestructura de NutriControl, quiero tener una base de datos organizada para almacenar usuarios, campos, cultivos, dispositivos IoT y sus configuraciones.</td>
+    <td>
+Escenario 1: Creación de base de datos con entidades principales
+    <br><br>
+Dado que estamos configurando el sistema,
+Cuando se cree la base de datos,
+Entonces deberá existir tablas para Usuarios, Campos Agrícolas, Cultivos, Dispositivos IoT y Suscripciones
+Y deben estar correctamente relacionadas.
+    <br><br>
+Escenario 2: Infraestructura lista para la aplicación
+    <br><br>
+Dado que el sistema debe ser escalable,
+Cuando termine la configuración de infraestructura,
+Entonces el backend estará desplegado en un servidor seguro
+Y será accesible mediante una API REST.
+    </td>
+    <td>EP-07</td>
+  </tr>
+  <tr>
+    <td>TS-02</td>
+    <td>Desarrollo del Módulo de Autenticación y Gestión de Cuenta</td>
+    <td>Como equipo técnico, cuando los usuarios deseen ingresar o gestionar sus cuentas, quiero contar con módulos para el registro, login, recuperación de contraseña y configuración de cuenta.</td>
+    <td>
+Escenario 1: Registro de nuevos usuarios
+    <br><br>
+Dado que los usuarios nuevos desean acceder,
+Cuando llenen su formulario de registro,
+Entonces se deberá guardar su información de manera segura
+Y el sistema enviará una confirmación de registro.
+    <br><br>
+Escenario 2: Inicio de sesión y recuperación de contraseña
+    <br><br>
+Dado que el usuario puede olvidar su clave,
+Cuando solicite una recuperación,
+Entonces se enviará un enlace seguro a su correo
+Y podrá cambiar su contraseña exitosamente.
+    <br><br>
+Escenario 3: Actualización de información personal
+    <br><br>
+Dado que el usuario desea modificar sus datos,
+Cuando entre a la configuración de su cuenta,
+Entonces podrá actualizar su nombre, correo, teléfono y contraseña
+Y recibirá un mensaje de éxito.
+    </td>
+    <td>EP-07</td>
+  </tr>
+  <tr>
+    <td>TS-03</td>
+    <td>Integración de Dispositivos IoT a Campos y Cultivos</td>
+    <td>Como equipo técnico, cuando los agricultores quieran asociar dispositivos IoT a sus campos, quiero que puedan registrar, visualizar, editar y eliminar dispositivos conectados a sus cultivos.
+    </td>
+    <td>
+Escenario 1: Asociación de dispositivos IoT a campos
+    <br><br>
+Dado que los dispositivos deben controlarse por campo,
+Cuando el agricultor registre un dispositivo,
+Entonces se asociará a un campo agrícola específico
+Y quedará visible en su panel de control.
+    <br><br>
+Escenario 2: Desactivación y eliminación de dispositivos
+    <br><br>
+Dado que el agricultor puede reemplazar un dispositivo,
+Cuando elimine o desactive un dispositivo,
+Entonces el sistema eliminará su relación con el campo
+Y actualizará la información en tiempo real.
+    </td>
+    <td>EP-07</td>
+  </tr>
+  <tr>
+    <td>TS-04</td>
+    <td>Implementación de Motor de Alertas y Recomendaciones</td>
+    <td>Como equipo de backend, cuando se detecten cambios importantes en el estado de cultivos o dispositivos, quiero generar alertas automáticas y enviar recomendaciones al agricultor.</td>
+    <td>
+Escenario 1: Generación de alertas automáticas
+    <br><br>
+Dado que el pH del suelo o el nivel de riego puede variar,
+Cuando un dispositivo IoT detecte un valor fuera del rango ideal,
+Entonces el sistema generará una alerta
+Y enviará una recomendación de acción al agricultor.
+    <br><br>
+Escenario 2: Motor de recomendaciones predictivas
+    <br><br>
+Dado que los agricultores necesitan apoyo en su toma de decisiones,
+Cuando se acumulen suficientes datos históricos,
+Entonces el sistema podrá recomendar acciones predictivas
+Y mostrarlas en el panel de control del agricultor.
+    </td>
+    <td>EP-07</td>
+  </tr>
+  <tr>
+    <td>TS-05</td>
+    <td>Desarrollo de Frontend Web y Móvil para Visualización y Gestión</td>
+    <td>Como equipo de frontend, cuando los usuarios accedan a NutriControl vía web o móvil, quiero que puedan navegar de forma intuitiva por sus campos, cultivos, dispositivos, suscripciones y perfil.</td>
+    <td>
+Escenario 1: Visualización clara de campos, cultivos y dispositivos
+    <br><br>
+Dado que el usuario necesita gestionar su producción,
+Cuando acceda a la aplicación,
+Entonces podrá ver una lista de campos y cultivos registrados
+Y detalles de los dispositivos asociados.
+    <br><br>
+Escenario 2: Acceso a planes de suscripción y perfil
+    <br><br>
+Dado que el usuario necesita administrar su cuenta,
+Cuando navegue a la sección de suscripción o perfil,
+Entonces podrá visualizar detalles de su plan actual
+Y editar su información personal de manera sencilla.
+    <br><br>
+Escenario 3: Aplicación responsive y amigable
+    <br><br>
+Dado que los usuarios utilizarán diversos dispositivos,
+Cuando accedan desde móvil, tablet o PC,
+Entonces la plataforma se adaptará correctamente
+Y ofrecerá una experiencia fluida y rápida.
+    </td>
+    <td>EP-07</td>
+  </tr>
+</table>
 
 </div>
 
