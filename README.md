@@ -1330,7 +1330,7 @@ Arturo Adrianzen, joven agricultor e hijo de campesinos de la sierra peruana, re
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt="Entrevista "></div></td>
+    <td><[div align="center"><img src="" alt="Entrevista](https://private-user-images.githubusercontent.com/83793319/437789903-fe4231e5-07fd-4009-8269-b3379357cad7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3MDI2MjIsIm5iZiI6MTc0NTcwMjMyMiwicGF0aCI6Ii84Mzc5MzMxOS80Mzc3ODk5MDMtZmU0MjMxZTUtMDdmZC00MDA5LTgyNjktYjMzNzkzNTdjYWQ3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI2VDIxMTg0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZiOGYxMzllZDM5YTk2ZTUzYWNmMDAyYzhjNzM1NzBiOTUyYWViNjI1YTMxNTkxZGE4MGFkODRiZGM3OGE5YzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.nnvQwAguwHfbFF2309y608DzPWGctYTLzaLpPnqL-Q0) "></div></td>
   </tr>
   <tr>
     <td>Link</td>
