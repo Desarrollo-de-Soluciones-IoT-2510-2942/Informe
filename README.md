@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/50f4c38b-6bf2-4ab3-8ca9-28d2a34d77ca)
-![image](https://github.com/user-attachments/assets/fe4231e5-07fd-4009-8269-b3379357cad7)
+
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <br><img src="https://www.upc.edu.pe/static/img/logo_upc_red.png"></img><br>
