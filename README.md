@@ -2261,15 +2261,15 @@ Esta capa implementa los mecanismos técnicos para la persistencia de sensores y
 
 #### 4.2.1.6. *Bounded Context Software Architecture Code Level Diagrams*
 
-
-
 ##### 4.2.1.6.1. *Bounded Context Domain Layer Class Diagrams*
 
 
 
 ##### 4.2.1.6.2. *Bounded Context Database Design Diagram*
 
+Sensors and System Setup database diagram:
 
+![Sensor databse diagram](Resources/Chapter%2004/DatabaseDesign/db1DatabaseDesign.png)
 
 
 ### 4.2.2. *Bounded Context: <Bounded Plans and Memembership Management>Plans & Membership Management*
@@ -2311,15 +2311,12 @@ Esta capa se ocupa de la persistencia y de la integración con servicios externo
 
 
 #### 4.2.2.6. *Bounded Context Software Architecture Code Level Diagrams*
-
-
-
 ##### 4.2.2.6.1. *Bounded Context Domain Layer Class Diagrams*
 
 
 
 ##### 4.2.2.6.2. *Bounded Context Database Design Diagram*
-
+![Sensor databse diagram](Resources/Chapter%2004/DatabaseDesign/db2DatabaseDesign.png)
 
 ### 4.2.3. *Bounded Context: <Bounded User Profile Management>User Profile Management*
 El contexto de User Management integra todo lo relacionado al registro de nuevos usuarios, autenticación en el sistema y gestión de los perfiles personales.  
@@ -2362,15 +2359,14 @@ Se ocupa de la persistencia de la información de usuarios y credenciales, adem�
 
 
 #### 4.2.3.6. *Bounded Context Software Architecture Code Level Diagrams*
-
-
-
 ##### 4.2.3.6.1. *Bounded Context Domain Layer Class Diagrams*
 
 
 
 ##### 4.2.3.6.2. *Bounded Context Database Design Diagram*
+User Profile database diagram:
 
+![User databse diagram](Resources/Chapter%2004/DatabaseDesign/db3DatabaseDesign.png)
 
 ### 4.2.4. *Bounded Context: <Bounded Automated Irrigation Control>Automated Irrigation Control*
 
@@ -2423,7 +2419,9 @@ En esta capa se encuentran los componentes encargados de la persistencia de los 
 
 
 ##### 4.2.4.6.2. *Bounded Context Database Design Diagram*
+Automated Irrigation Control database diagram:
 
+![Irrigation databse diagram](Resources/Chapter%2004/DatabaseDesign/db4DatabaseDesign.png)
 
 
 ### 4.2.5. *Bounded Context: <Bounded Field Registration and Management>Field Registration & Management*
@@ -2473,13 +2471,15 @@ Esta capa se encarga de los detalles técnicos relacionados con la persistencia 
 
 #### 4.2.5.6. *Bounded Context Software Architecture Code Level Diagrams*
 
-
-
 ##### 4.2.5.6.1. *Bounded Context Domain Layer Class Diagrams*
 
 
 
 ##### 4.2.5.6.2. *Bounded Context Database Design Diagram*
+Field Registration and Management database diagram:
+
+![Field databse diagram](Resources/Chapter%2004/DatabaseDesign/db5DatabaseDesign.png)
+
 
 ### 4.2.6. *Bounded Context: <Bounded Crop Monitoring and Field Data Managementl>Crop Monitoring & Field Data Management*
 Este contexto está encargado de la recopilación, monitoreo y análisis de los datos relacionados con los cultivos y las condiciones del terreno.  
@@ -2526,11 +2526,14 @@ Esta capa incluye los componentes que gestionan la persistencia y el acceso a lo
 
 
 #### 4.2.6.6. *Bounded Context Software Architecture Code Level Diagrams*
-
-
-
 ##### 4.2.6.6.1. *Bounded Context Domain Layer Class Diagrams*
 
+
+##### 4.2.6.6.2. *Bounded Context Database Design Diagram*
+
+Crop Monitoring & Field Data Management database diagram:
+
+![Crops databse diagram](Resources/Chapter%2004/DatabaseDesign/db6DatabaseDesign.png)
 
 
 # Conclusiones
