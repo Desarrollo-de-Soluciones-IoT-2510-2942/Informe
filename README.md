@@ -2257,6 +2257,9 @@ Esta capa implementa los mecanismos técnicos para la persistencia de sensores y
 
 #### 4.2.1.5. *Bounded Context Software Architecture Component Level Diagrams*
 
+Sensors and System Setup Component Diagram:
+
+![Sensor component diagram](Resources/Chapter%2004/Component-Diagrams/SensorsComponent.png)
 
 
 #### 4.2.1.6. *Bounded Context Software Architecture Code Level Diagrams*
@@ -2310,7 +2313,9 @@ Esta capa se ocupa de la persistencia y de la integración con servicios externo
 
 #### 4.2.2.5. *Bounded Context Software Architecture Component Level Diagrams*
 
+Plans and Memebership Component Diagram:
 
+![Plans component diagram](Resources/Chapter%2004/Component-Diagrams/PlansComponent.png)
 
 
 #### 4.2.2.6. *Bounded Context Software Architecture Code Level Diagrams*
@@ -2364,7 +2369,9 @@ Se ocupa de la persistencia de la información de usuarios y credenciales, adem�
 
 #### 4.2.3.5. *Bounded Context Software Architecture Component Level Diagrams*
 
+User Profile Component Diagram:
 
+![User Profile component diagram](Resources/Chapter%2004/Component-Diagrams/UserComponent.png)
 
 #### 4.2.3.6. *Bounded Context Software Architecture Code Level Diagrams*
 ##### 4.2.3.6.1. *Bounded Context Domain Layer Class Diagrams*
@@ -2419,12 +2426,11 @@ En esta capa se encuentran los componentes encargados de la persistencia de los 
 
 #### 4.2.4.5. *Bounded Context Software Architecture Component Level Diagrams*
 
+Automated Irrigation Control Component Diagram:
 
+![Irrigation component diagram](Resources/Chapter%2004/Component-Diagrams/IrrigationComponent.png)
 
 #### 4.2.4.6. *Bounded Context Software Architecture Code Level Diagrams*
-
-
-
 ##### 4.2.4.6.1. *Bounded Context Domain Layer Class Diagrams*
 Automated Irrigation Control Domain Layer diagram:
 
@@ -2481,6 +2487,9 @@ Esta capa se encarga de los detalles técnicos relacionados con la persistencia 
 
 #### 4.2.5.5. *Bounded Context Software Architecture Component Level Diagrams*
 
+Field Registartion and Management Component Diagram:
+
+![Field component diagram](Resources/Chapter%2004/Component-Diagrams/FieldComponent.png)
 
 
 #### 4.2.5.6. *Bounded Context Software Architecture Code Level Diagrams*
@@ -2540,6 +2549,9 @@ Esta capa incluye los componentes que gestionan la persistencia y el acceso a lo
 
 #### 4.2.6.5. *Bounded Context Software Architecture Component Level Diagrams*
 
+Crop Monitoring & Field Data Management Component Diagram:
+
+![Crop component diagram](Resources/Chapter%2004/Component-Diagrams/CropComponent.png)
 
 
 #### 4.2.6.6. *Bounded Context Software Architecture Code Level Diagrams*
