@@ -1330,11 +1330,7 @@ Arturo Adrianzen, joven agricultor e hijo de campesinos de la sierra peruana, re
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Chapter%2002/Interview%20Evidence/Evidencia-Italo.png" alt=""></div>![Image](https://github.com/user-attachments/assets/2b115383-7f54-4418-95c7-4d5b1ec4533f) </td>
-  </tr> 
-  <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Chapter%2002/Interview%20Evidence/Evidencia-Italo.png" alt=""></div></td>
+    <td><div align="center"><![Image](https://github.com/user-attachments/assets/2b115383-7f54-4418-95c7-4d5b1ec4533f)></div></td>
   </tr>
   <tr>
     <td>Link</td>
