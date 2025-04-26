@@ -959,11 +959,11 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></td>
+    <td>Mejorar el rendimiento de sus cultivos y aprender nuevas tecnologías que faciliten su trabajo.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td></td>
+    <td>No saber con precisión cuánto fertilizante o agua aplicar y enfrentar el alto costo de los insumos.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
