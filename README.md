@@ -158,7 +158,7 @@
 <div align="justify">
     Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
 juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
-establecen objetivos, planifican tareas y cumplen objetivos
+establecen objetivos, planifican tareas y cumplen objetivos.<br>
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
