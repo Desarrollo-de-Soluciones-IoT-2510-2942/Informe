@@ -1191,11 +1191,11 @@ Arturo Adrianzen, joven agricultor e hijo de campesinos de la sierra peruana, re
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt=""></div></td>
+    <td><div align="center"><img src="/Resources/Chapter%2002/Interview%20Evidence/Evidencia-Nicolle.png" alt=""></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216263_upc_edu_pe/EWhORUFcKbJFvkIqTgSUbgEBzBrjdJ2ZaSesRmqd4Jl3FQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bdwGMr" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
@@ -1204,6 +1204,8 @@ Arturo Adrianzen, joven agricultor e hijo de campesinos de la sierra peruana, re
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
+    Nicolle Gonzales, gerente de operaciones agrícolas de 25 años, lidera una finca de 45 hectáreas de arándanos en Ica. Si bien cuenta con sensores de humedad y riego tecnificado, aún depende de decisiones manuales para aplicar agua y fertilizantes, lo que genera imprecisiones y riesgos de salinidad o deficiencias nutricionales. La gestión actual combina registros en Excel, monitoreos manuales y análisis trimestrales de nutrientes, lo que limita la capacidad de respuesta y eficiencia. Nicolle valora la trazabilidad y requiere una solución que registre acciones automáticamente, funcione con poca conectividad y facilite la toma de decisiones en tiempo real. Considera que la precisión es clave para lograr ahorro, sostenibilidad y calidad de exportación. Está interesada en adoptar una plataforma modular, fácil de usar, que integre sensores, clima y recomendaciones prácticas para el campo.
+
 </td>
   </tr>
 </tbody>
@@ -1260,11 +1262,11 @@ Arturo Adrianzen, joven agricultor e hijo de campesinos de la sierra peruana, re
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt=""></div></td>
+    <td><div align="center"><img src="/Resources/Chapter%2002/Interview%20Evidence/Evidencia-Italo.png" alt=""></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216263_upc_edu_pe/EatICUR_XWFOjxJ8MkYTkXEB_Ok6EZhBUpPCymh9A8D_tg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XuyiaI" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
@@ -1272,7 +1274,9 @@ Arturo Adrianzen, joven agricultor e hijo de campesinos de la sierra peruana, re
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;"></td>
+    <td style="text-align: justify;">
+    Ítalo Hurtado, encargado de operaciones agrícolas de 25 años, trabaja en una finca de 60 hectáreas de palta Hass y uva Red Globe en Chincha, Ica. Aunque cuentan con sensores de humedad y estaciones meteorológicas, la toma de decisiones sigue siendo manual, lo que genera márgenes de error en el riego y fertilización. El control del suelo es diario, pero el monitoreo de nutrientes es trimestral, limitando la rapidez de reacción ante cambios. El costo de fertilizantes es alto y su mal manejo ha generado problemas de calidad en campañas anteriores. Ítalo destaca la importancia de la trazabilidad para exportar y considera urgente automatizar decisiones para mejorar eficiencia. Valora especialmente soluciones que ofrezcan automatización basada en datos en tiempo real, sean modulares y adaptables al crecimiento de la operación.
+    </td>
   </tr>
 </tbody>
 </table>
