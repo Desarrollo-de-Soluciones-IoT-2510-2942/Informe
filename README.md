@@ -1618,6 +1618,56 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
 
 ***Epics***
 
+<table>
+  <tr>
+    <th>Epic / Story ID</th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>Historias de usuario relacionadas</th>
+  </tr>
+  <tr>
+    <td>EP-01</td>
+    <td>Presentación de NutriControl</td>
+    <td>Como usuario potencial, cuando ingrese a la Landing Page de NutriControl, quiero poder ver una presentación clara de la solución, incluyendo su funcionamiento, características y opciones de planes, para poder decidir si la plataforma satisface mis necesidades y si quiero registrarme.
+    </td>
+    <td>US-01, US-02, US-03</td>
+  </tr>
+  <tr>
+    <td>EP-02</td>
+    <td>Gestión de Usuarios</td>
+    <td>Como usuario, cuando ingrese a la plataforma NutriControl, quiero poder registrarme, iniciar sesión y gestionar mi información personal, de modo que pueda acceder a todos los beneficios de la solución y mantener mis datos actualizados en todo momento.
+    </td>
+    <td>US-04, US-05, US-06, US-24, US-25</td>
+  </tr>
+  <tr>
+    <td>EP-03</td>
+    <td>Gestión de Campos Agrícolas</td>
+    <td>Como productor agrícola, cuando ingrese a NutriControl, quiero poder gestionar mis campos agrícolas, lo que incluye agregar, editar y eliminar campos, para poder automatizarlos y tener un control eficiente de los recursos y las tareas en mis cultivos.
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>EP-04</td>
+    <td>Gestión de Cultivos</td>
+    <td>Como productor agrícola, cuando acceda a la plataforma, quiero poder gestionar mis cultivos dentro de los campos agrícolas, permitiéndome agregar, editar y eliminar cultivos según mis necesidades, para optimizar el manejo de mis recursos agrícolas.
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>EP-05</td>
+    <td>Gestión de Dispositivos IOT y Automatización</td>
+    <td>Como productor agrícola, cuando acceda a mis campos agrícolas en NutriControl, quiero poder conectar y gestionar dispositivos IOT que automatizan tareas como el riego y la fertilización, y recibir alertas sobre su estado, de modo que pueda optimizar el monitoreo y control de mis cultivos.
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>EP-06</td>
+    <td>Inteligencia Agrícola y Optimización</td>
+    <td>Como agricultor, cuando necesite mejorar el rendimiento de mis cultivos, quiero recibir recomendaciones, alertas y análisis predictivos basados en datos inteligentes, para tomar decisiones más informadas sobre el riego, la fertilización y otros aspectos agrícolas, optimizando el uso de recursos y mejorando la producción.
+    </td>
+    <td>-</td>
+  </tr>
+</table>
 
 
 
@@ -1817,6 +1867,14 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     </td>
     <td>-</td>
   </tr>
+  <tr>
+    <td>US-25</td>
+    <td>Configuración de Cuenta</td>
+    <td>Como usuario, cuando necesito cambiar información personal de mi cuenta o visualizar, quiero poder tener una sección de Perfil dentro de NutriControl para ver toda tipo de esa información.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
 </table>
 
 
@@ -1838,6 +1896,9 @@ El impact map es una herramienta estratégica que permite identificar de manera 
 
 </div>
 
+<br>
+
+**Productores rurales tradicionales (pequeños y medianos agricultores) y Productores tecnificados de cultivos de alto valor (orientados al mercado de exportación):**
 
 ![Artefacto creado en UXPressia](Resources/Chapter%2002/Impact%20Map/ImpactMap.png)
 
@@ -1872,56 +1933,75 @@ Seleccionamos esta User Story como base de referencia para la valorización de l
 
 ### 4.1.1. *EventStorming*
 
+<div align = "justify">
 Esta es la técnica colaborativa utilizada para modelar sistemas complejos y entender el dominio del problema, donde explicamos y evidenciamos el proceso con el fin de plantear una primera aproximación al modelado general e identificando el mayor nivel de detalle posible. Este fue desarrollado en las siguientes fases:
 
-1. Unstructured Exploration:  
+1. **Unstructured Exploration:** 
+
+<br>
 En esta fase, el equipo exploró libremente el dominio del problema, compartiendo conocimientos y capturando ideas sin una estructura formal. El objetivo fue generar una visión amplia y completa del sistema, sentando las bases para las siguientes fases del modelado.
   ![Unstructured Exploration](Resources/Chapter%2002/EventStorming/Unstructured-Exploration.png)
 
-2. Timelines:  
+2. **Timelines:**  
+<br>
 En esta fase, el equipo organizó los eventos identificados en un flujo cronológico, visualizando su secuencia y las interacciones entre ellos. Esto ayudó a identificar dependencias y puntos críticos, facilitando la comprensión del sistema y la planificación de las siguientes etapas del modelado.
  ![Timelines](Resources/Chapter%2002/EventStorming/timelines.png)
 
-3. Pain Points:   
+3. **Pain Points:**   
+<br>
 En esta fase, el equipo identificó los problemas o desafíos clave dentro del dominio del sistema. Se enfocaron en los puntos críticos donde los usuarios o procesos pueden enfrentar dificultades o ineficiencias.
  ![Pain Points](Resources/Chapter%2002/EventStorming/Pain-points.png)
 
-4. Pivotal Points:  
+4. **Pivotal Points:**  
+<br>
 En esta fase, el equipo identificó los eventos clave que tienen un impacto significativo en el sistema y que podrían cambiar el curso de las decisiones o procesos. 
 ![Pivotal points](Resources/Chapter%2002/EventStorming/pivotal-points.png)
 
-5. Commands:   
+5. **Commands:**   
+<br>
 En esta fase, el equipo identificó las acciones  que deben ser ejecutados dentro del sistema para que los eventos ocurran o los procesos se inicien. Estos comandos son decisiones o instrucciones claras que desencadenan eventos específicos y ayudan a guiar el flujo de trabajo en el sistema.
 ![Commands](Resources/Chapter%2002/EventStorming/Commands.png)
 
 
+</div>
+
 
 #### 4.1.1.1. *Candidate Context Discovery*
 
+<div align = "justify">
+
 En esta sección, el equipo, a partir del dominio modelado con EventStorming, explicó y evidenció el proceso realizado durante la sesión de Candidate Context Discovery, cuyo objetivo fue identificar los bounded contexts.La sesión duró 1 hora con 50 minutos, y se utilizó la herramienta miro, complementando la explicación con capturas de los cambios progresivos en EventStorming.
 
-6. Policies:   
+6. **Policies:**   
+<br>
 En esta fase, el equipo identificó las reglas o políticas que rigen el comportamiento del sistema. Estas políticas son restricciones, normativas o criterios que deben ser seguidos para tomar decisiones dentro del proceso.
 ![Commands](Resources/Chapter%2002/EventStorming/policies.png)
 
-7. Read Models:   
+7. **Read Models:**   
+<br>
 En esta fase , el equipo se centró en identificar los modelos de lectura que permiten consultar y visualizar la información almacenada en el sistema. 
 ![Commands](Resources/Chapter%2002/EventStorming/Read-models.png)
 
-8. External Systems:   
+8. **External Systems:**   
+<br>
 En esta fase, el equipo identificó y analizó los sistemas externos con los que el sistema principal interactúa. Estos pueden incluir aplicaciones, bases de datos, servicios de terceros o plataformas externas que proporcionan o reciben información del sistema. 
 ![Commands](Resources/Chapter%2002/EventStorming/external-systems.png)
 
-9. Aggregates:    
+9. **Aggregates:**    
+<br>
 En esta fase, el equipo definió las entidades principales que agrupan y gestionan los datos relacionados como una unidad. Los Aggregates aseguran la consistencia de los datos y aplican las reglas de negocio dentro de sus límites.
 ![Commands](Resources/Chapter%2002/EventStorming/Aggregates.png)
 
-10. Bounded Contexts:
+10. **Bounded Contexts:**
+<br>
 En esta fase, el equipo identificó los límites dentro de los cuales un modelo específico es aplicable y coherente. Cada Bounded Context define un área del sistema con su propio conjunto de reglas, terminología y lógica de negocio.
 ![Commands](Resources/Chapter%2002/EventStorming/Bounded-Contexts.png)
 
-Para una mejor visualización este es enlace a los diagramas en miro : 
-[https://miro.com/app/board/uXjVI-UYdMU=/?share_link_id=788988253384](https://miro.com/app/board/uXjVI-UYdMU=/?share_link_id=788988253384)
+**Enlace a los diagramas en Miro:** [https://miro.com/app/board/uXjVI-UYdMU=/?share_link_id=788988253384](https://miro.com/app/board/uXjVI-UYdMU=/?share_link_id=788988253384)
+
+
+</div>
+
 
 
 #### 4.1.1.2. *Domain Message Flows Modeling*
