@@ -1551,10 +1551,56 @@ Seleccionamos esta User Story como base de referencia para la valorización de l
 
 ### 4.1.1. *EventStorming*
 
+Esta es la técnica colaborativa utilizada para modelar sistemas complejos y entender el dominio del problema, donde explicamos y evidenciamos el proceso con el fin de plantear una primera aproximación al modelado general e identificando el mayor nivel de detalle posible. Este fue desarrollado en las siguientes fases:
+
+1. Unstructured Exploration:  
+En esta fase, el equipo exploró libremente el dominio del problema, compartiendo conocimientos y capturando ideas sin una estructura formal. El objetivo fue generar una visión amplia y completa del sistema, sentando las bases para las siguientes fases del modelado.
+  ![Unstructured Exploration](Resources/Chapter%2002/EventStorming/Unstructured-Exploration.png)
+
+2. Timelines:  
+En esta fase, el equipo organizó los eventos identificados en un flujo cronológico, visualizando su secuencia y las interacciones entre ellos. Esto ayudó a identificar dependencias y puntos críticos, facilitando la comprensión del sistema y la planificación de las siguientes etapas del modelado.
+ ![Timelines](Resources/Chapter%2002/EventStorming/timelines.png)
+
+3. Pain Points:   
+En esta fase, el equipo identificó los problemas o desafíos clave dentro del dominio del sistema. Se enfocaron en los puntos críticos donde los usuarios o procesos pueden enfrentar dificultades o ineficiencias.
+ ![Pain Points](Resources/Chapter%2002/EventStorming/Pain-points.png)
+
+4. Pivotal Points:  
+En esta fase, el equipo identificó los eventos clave que tienen un impacto significativo en el sistema y que podrían cambiar el curso de las decisiones o procesos. 
+![Pivotal points](Resources/Chapter%2002/EventStorming/pivotal-points.png)
+
+5. Commands:   
+En esta fase, el equipo identificó las acciones  que deben ser ejecutados dentro del sistema para que los eventos ocurran o los procesos se inicien. Estos comandos son decisiones o instrucciones claras que desencadenan eventos específicos y ayudan a guiar el flujo de trabajo en el sistema.
+![Commands](Resources/Chapter%2002/EventStorming/Commands.png)
+
 
 
 #### 4.1.1.1. *Candidate Context Discovery*
 
+En esta sección, el equipo, a partir del dominio modelado con EventStorming, explicó y evidenció el proceso realizado durante la sesión de Candidate Context Discovery, cuyo objetivo fue identificar los bounded contexts.La sesión duró 1 hora con 50 minutos, y se utilizó la herramienta miro, complementando la explicación con capturas de los cambios progresivos en EventStorming.
+
+6. Policies:   
+En esta fase, el equipo identificó las reglas o políticas que rigen el comportamiento del sistema. Estas políticas son restricciones, normativas o criterios que deben ser seguidos para tomar decisiones dentro del proceso.
+![Commands](Resources/Chapter%2002/EventStorming/policies.png)
+
+7. Read Models:   
+En esta fase , el equipo se centró en identificar los modelos de lectura que permiten consultar y visualizar la información almacenada en el sistema. 
+![Commands](Resources/Chapter%2002/EventStorming/Read-models.png)
+
+8. External Systems:   
+En esta fase, el equipo identificó y analizó los sistemas externos con los que el sistema principal interactúa. Estos pueden incluir aplicaciones, bases de datos, servicios de terceros o plataformas externas que proporcionan o reciben información del sistema. 
+![Commands](Resources/Chapter%2002/EventStorming/external-systems.png)
+
+9. Aggregates:    
+En esta fase, el equipo definió las entidades principales que agrupan y gestionan los datos relacionados como una unidad. Los Aggregates aseguran la consistencia de los datos y aplican las reglas de negocio dentro de sus límites.
+![Commands](Resources/Chapter%2002/EventStorming/Aggregates.png)
+
+10. Bounded Contexts:
+En esta fase, el equipo identificó los límites dentro de los cuales un modelo específico es aplicable y coherente. Cada Bounded Context define un área del sistema con su propio conjunto de reglas, terminología y lógica de negocio.
+![Commands](Resources/Chapter%2002/EventStorming/Bounded-Contexts.png)
+
+Para una mejor visualización este es enlace a los diagramas en miro : 
+[https://miro.com/app/board/uXjVI-UYdMU=/?share_link_id=788988253384](https://miro.com/app/board/uXjVI-UYdMU=/?share_link_id=788988253384)
 
 
 #### 4.1.1.2. *Domain Message Flows Modeling*
