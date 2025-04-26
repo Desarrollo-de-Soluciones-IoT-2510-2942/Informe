@@ -2066,9 +2066,55 @@ En esta fase, el equipo identificó los límites dentro de los cuales un modelo 
 
 #### 4.1.1.2. *Domain Message Flows Modeling*
 
+<div align = "justify">
+Utilizamos el Domain Message Flows Modeling para mapear cómo los mensajes fluyen entre los componentes del sistema y los bounded contexts. Este enfoque nos permite identificar interacciones clave, optimizar la comunicación entre contextos y asegurar que el diseño esté alineado con los objetivos del negocio, mejorando la eficiencia y escalabilidad del sistema. <br></br>
+
+
+1. **Registro e instalación de sensores**  
+   </br>
+   ![Escenario1](Resources/Chapter%2004/Domain-Message-Flows-Modeling/Escenario1.png)
+
+2. **Activación del riego automatizado**  
+   </br>
+   ![Escenario2](Resources/Chapter%2004/Domain-Message-Flows-Modeling/Escenario2.png)
+
+3. **Recepción de alerta por condiciones críticas**  
+   </br>
+   ![Escenario3](Resources/Chapter%2004/Domain-Message-Flows-Modeling/Escenario3.png)
+
+4. **Visualización de reportes y análisis**  
+   </br>
+   ![Escenario4](Resources/Chapter%2004/Domain-Message-Flows-Modeling/Escenario4.png)
+
+
+
+</div>
 
 
 #### 4.1.1.3. *Bounded Context Canvases*
+
+<div align = "justify">
+En esta sección se describen los bounded contexts de AgroSense utilizando un proceso iterativo basado en el Bounded Context Canvas. Se documento el diseño de cada contexto, incluyendo su definición general y reglas de negocio principales.
+
+##### Proceso de Diseño Iterativo
+
+ - Context Overview Definition: Se definieron los límites de cada bounded context basándose en las áreas funcionales clave de AgroSense, garantizando que cada contexto conservara su enfoque y coherencia con su propósito.Los bounded context definidos fueron:  
+ *Plans & Membership Management*, *User Registration & Authentication**, *User Profile Management**, *Automated Irrigation Control*, *Field Registration & Management**, **Sensors and Systems Setup* y *Crop Monitoring & Farm Data Management*.
+
+ - Business Rules Distillation & Ubiquitous Language Capture: En cada bounded context se registraron las reglas de negocio y el lenguaje común utilizado por los usuarios. En Automated Irrigation Control se adoptaron términos como “irrigation cycle scheduling” y “automatic sensor activation”; en Crop Monitoring & Farm Data Management se estandarizó el uso de conceptos como “harvest record” y “field data analysis”; y en Sensors and Systems Setup se definieron términos como “sensor calibration” y “device registration”.
+
+ - Capability Analysis: Se evaluaron las capacidades requeridas en cada bounded context, resaltando cómo cada uno aporta al funcionamiento global de la plataforma. Automated Irrigation Control permite programar y ejecutar ciclos de riego de manera automática basados en datos de sensores; Crop Monitoring & Farm Data Management facilita la recopilación, análisis y visualización de información crítica sobre los cultivos; Sensors and Systems Setup habilita la instalación, calibración y gestión de sensores y sistemas de monitoreo; y Field Registration & Management ofrece las herramientas para registrar, organizar y administrar los campos agrícolas dentro de la aplicación.
+
+ - Capability Layering (si aplica): No se implementó una segmentación adicional por capas en cada contexto, ya que la estructura actual de los contextos es lo suficientemente clara y coherente como para no requerir una división adicional.
+
+ - Dependencies Capture: Se identificaron dependencias clave entre los distintos bounded contexts. Automated Irrigation Control depende de Sensors and Systems Setup para recibir los datos en tiempo real que permiten activar los sistemas de riego, mientras que Crop Monitoring & Farm Data Management utiliza la información almacenada en Field Registration & Management para organizar los datos por campo o parcela.
+
+ - Design Critique : Se llevaron a cabo revisiones internas exhaustivas del diseño para garantizar que cada contexto tuviera la autonomía necesaria y que sus interdependencias estuvieran claramente justificadas. Durante estas evaluaciones, se analizó cuidadosamente si las decisiones de diseño promovían la flexibilidad operativa, la escalabilidad y la facilidad de mantenimiento a largo plazo, con el objetivo de asegurar una solución sostenible y adaptable a futuras necesidades.
+
+Se identificaron varias relaciones clave entre los distintos bounded contexts. La relación entre Field Registration & Management y Crop Monitoring & Farm Data Management sigue el patrón Customer/Supplier, donde Field Registration & Management actúa como proveedor al registrar cultivos y campos agrícolas, y Crop Monitoring & Farm Data Management consume esta información para asociar datos de monitoreo y análisis a campos específicos. Por otro lado, Sensors and Systems Setup se comporta como un Conformist respecto a Automated Irrigation Control, proporcionando datos críticos que deben ser utilizados tal como se generan para activar el riego automático. Además, Sensors and Systems Setup y Crop Monitoring & Farm Data Management comparten un Shared Kernel, ya que ambos necesitan sincronizar datos de sensores (como temperatura, humedad y luminosidad) para sus respectivos procesos de activación de riego y monitoreo de cultivos. Finalmente, la interacción entre Automated Irrigation Control y Field Registration & Management se maneja mediante un Anti-Corruption Layer, lo que permite traducir los datos de cultivos o zonas registradas en instrucciones claras para los sistemas de riego, sin que las complejidades del modelo de registro de campo interfieran en la lógica de automatización del riego.
+
+</div>
+
 
 
 
