@@ -1291,33 +1291,33 @@ Arturo Adrianzen, joven agricultor e hijo de campesinos de la sierra peruana, re
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Leonel </td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Alfaro Cumba</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td> años</td>
+    <td> 25 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>Chincha Ica</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>Microsoft Stream</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></tr>
+    <td>mplementar soluciones tecnológicas accesibles para optimizar el manejo de cultivos, reducir costos operativos y mejorar la calidad de la producción mediante el uso de herramientas digitales.</tr>
   <tr>
     <td>Frustración</td>
-    <td></tr>
+    <td>Dificultad para acceder a sistemas de monitoreo agrícola asequibles y fáciles de usar. La falta de datos en tiempo real lo obliga a depender de métodos tradicionales, lo que genera ineficiencias en riego y fertilización.</tr>
   <tr>
     <td>Tecnologías</td>
-    <td></td>
+    <td>Android, Laptop con Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
@@ -1325,7 +1325,7 @@ Arturo Adrianzen, joven agricultor e hijo de campesinos de la sierra peruana, re
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td></td>
+    <td><Google Chrome/td>
   </tr>
   <tr>
     <td>Evidencia</td>
