@@ -1707,6 +1707,19 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Características de NutriControl</td>
     <td>Como usuario potencial, cuando navegue dentro de las secciones de la Landing Page de NutriControl, quiero poder visualizar características específicas de lo que NutriControl ofrece y ver si se adecuan a mis necesidades.</td>
     <td>
+    Escenario 1: Visualizar las características principales
+    <br><br>
+    Dado que el usuario potencial navega por la Landing Page,
+    Cuando llegue a la sección de características,
+    Entonces podrá visualizar una lista de funcionalidades destacadas de NutriControl
+    Y entender para qué sirve cada una.
+    <br><br>
+    Escenario 2: Información expandida de características
+    <br><br>
+    Dado que el usuario esté interesado en una funcionalidad específica,
+    Cuando haga clic en "Más información" de una característica,
+    Entonces se desplegará una descripción detallada
+    Y podrá cerrar esa información para seguir navegando.
     </td>
     <td>EP-01</td>
   </tr>
@@ -1717,6 +1730,19 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
      Freemium. 
     </td>
     <td>
+    Escenario 1: Visualizar todos los tipos de planes
+    <br><br>
+    Dado que el usuario potencial está navegando por la Landing Page,
+    Cuando acceda a la sección de planes,
+    Entonces podrá visualizar todos los tipos de planes disponibles
+    Y comparar sus beneficios.
+    <br><br>
+    Escenario 2: Diferenciación clara entre planes
+    <br><br>
+    Dado que el usuario potencial observa los planes,
+    Cuando revise las características,
+    Entonces podrá identificar las diferencias entre el plan Freemium y los planes Premium
+    Y entender qué beneficios adicionales ofrece cada uno.
     </td>
     <td>EP-01</td>
   </tr>
@@ -1725,6 +1751,26 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Registro de Usuario</td>
     <td>Como usuario, cuando ingrese a la App Web o descargue el App Móvil, quiero poder registrarme con un correo electrónico y contraseña para poder usar NutriControl.</td>
     <td>
+    Escenario 1: Registro exitoso
+    <br><br>
+    Dado que un usuario nuevo quiere registrarse,
+    Cuando ingrese un correo electrónico válido y una contraseña segura,
+    Entonces podrá completar el registro
+    Y recibirá una confirmación de creación de cuenta.
+    <br><br>
+    Escenario 2: Error en el registro por datos inválidos
+    <br><br>
+    Dado que un usuario quiere registrarse,
+    Cuando ingrese un correo inválido o una contraseña débil,
+    Entonces el sistema mostrará un mensaje de error
+    Y le pedirá corregir los datos antes de continuar.
+    <br><br>
+    Escenario 3: Confirmación visual del registro
+    <br><br>
+    Dado que el usuario haya terminado el registro,
+    Cuando se envíe el formulario correctamente,
+    Entonces verá una pantalla de "Registro exitoso"
+    Y se le ofrecerá iniciar sesión de inmediato.
     </td>
     <td>EP-02</td>
   </tr>
