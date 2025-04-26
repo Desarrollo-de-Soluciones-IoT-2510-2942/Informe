@@ -2000,12 +2000,12 @@ Los bounded contexts diseñados muestran relaciones claras:
 
 # Anexos
 
-+ Repositorio GitHub de la Organización: [Ver Organización]()<br><br>
-+ Repositorio GitHub del Informe: [Ver Repositorio]()<br><br>
-+ Repositorio GitHub del Backend: [Ver Repositorio]()<br><br>
-+ Repositorio GitHub de la Aplicación Móvil: [Ver Repositorio]()<br><br>
-+ Enlace de la Landing Page: [Ver Landing Page]()<br><br>
-+ Enlace del Backend deployado: [Ver Backend]()<br><br>
++ Repositorio GitHub de la Organización: [Ver Organización](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942)<br><br>
++ Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Informe)<br><br>
++ Repositorio GitHub del Backend: [Ver Repositorio](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/BackEnd)<br><br>
++ Repositorio GitHub de la Aplicación Web: [Ver Repositorio](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/FrontEnd)<br><br>
++ Repositorio GitHub de la Aplicación Móvil: [Ver Repositorio](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/MobileApp)<br><br>
++ Repositorio GitHub de la Landing Page: [Ver Repositorio](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/LandingPage)<br><br>
 
 ## Needfinding Interviews
 
