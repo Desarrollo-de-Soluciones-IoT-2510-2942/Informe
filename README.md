@@ -1281,6 +1281,10 @@ Arturo Adrianzen, joven agricultor e hijo de campesinos de la sierra peruana, re
 </tbody>
 </table>
 
+
+
+
+
 <table>
 <colgroup>
 </colgroup>
@@ -1292,19 +1296,19 @@ Arturo Adrianzen, joven agricultor e hijo de campesinos de la sierra peruana, re
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Leonel </td>
+    <td>Leonel</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Alfaro Cumba</td>
+    <td>Alfaro</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td> 25 años</td>
+    <td>25 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Chincha Ica</td>
+    <td>Chincha Alta, Ica, Perú</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -1312,37 +1316,41 @@ Arturo Adrianzen, joven agricultor e hijo de campesinos de la sierra peruana, re
   </tr>
   <tr>
     <td>Motivación</td>
-    <td>Implementar soluciones tecnológicas accesibles para optimizar el manejo de cultivos, reducir costos operativos y mejorar la calidad de la producción mediante el uso de herramientas digitales.</tr>
+    <td>Implementar soluciones tecnológicas accesibles para optimizar el manejo de cultivos, reducir costos operativos y mejorar la calidad de la producción mediante el uso de herramientas digitales.</td>
+  </tr>
   <tr>
     <td>Frustración</td>
-    <td>Dificultad para acceder a sistemas de monitoreo agrícola asequibles y fáciles de usar. La falta de datos en tiempo real lo obliga a depender de métodos tradicionales, lo que genera ineficiencias en riego y fertilización.</tr>
+    <td>Dificultad para acceder a sistemas de monitoreo agrícola asequibles y fáciles de usar. La falta de datos en tiempo real lo obliga a depender de métodos tradicionales, lo que genera ineficiencias en riego y fertilización.</td>
+  </tr>
   <tr>
     <td>Tecnologías</td>
-    <td>Android, Laptop con Windows</td>
+    <td>Laptop, Computadora Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td>Google</td>
+    <td>Googlee Chrome</td>
   </tr>
   <tr>
-    <<td>Entrevistador</td>
-    <td>Hernan Morales</td>
+    <td>Entrevistador</td>
+    <td>Jhan Clinton</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><![Image](https://github.com/user-attachments/assets/2b115383-7f54-4418-95c7-4d5b1ec4533f)></div></td>
+    <td><div align="center"><img src="/Resources/Chapter%2002/Interview%20Evidence/Evidencia-Leonel%20Alfaro.jpg" alt=""></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216263_upc_edu_pe/EatICUR_XWFOjxJ8MkYTkXEB_Ok6EZhBUpPCymh9A8D_tg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XuyiaI" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>:: min  - :: min  </td>
+    <td>:: min - :: min </td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;"></td>
+    <td style="text-align: justify;">
+    Aunque no es agricultor directo, su enfoque está en desarrollar herramientas tecnológicas que simplifiquen la gestión agrícola para pequeños y medianos productores. Reconoce que muchos agricultores, como Leonel Alfaro, enfrentan desafíos por la falta de acceso a sistemas de monitoreo automatizados y asequibles.  Su motivación es cerrar la brecha entre el conocimiento técnico y las necesidades reales del agricultor, priorizando funcionalidades como alertas tempranas, recomendaciones basadas en datos y compatibilidad con dispositivos móviles. Considera clave que estas herramientas sean accesibles incluso con conexiones limitadas, ya que muchos campos en Chincha tienen acceso irregular a internet.
+    </td>
   </tr>
 </tbody>
 </table>
