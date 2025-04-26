@@ -153,8 +153,75 @@
 
 # Student Outcome
 
-<div align="justify">
+**ABET – EAC – Student Outcome 5**
 
+<div align="justify">
+    Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
+juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
+establecen objetivos, planifican tareas y cumplen objetivos
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 5.
+</div>    
+
+<div align="justify">
+</div>    
+
+<div align="justify">
+<table>
+  <tr>
+    <th>Criterio Específico</th>
+    <th>Acciones Realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
+    <td>
+      <strong>TB1:</strong><br><br>
+      Criollo de la Cruz, Diego Anderson<br>
+      En el desarrollo del TB1, asumí un rol activo dentro del equipo encargándome principalmente de la elaboración de la documentación técnica y la corrección de errores en el desarrollo general del proyecto. Estas tareas me permitieron no solo aportar a la     
+      organización y claridad del trabajo en grupo, sino también apoyar a mis compañeros identificando y solucionando problemas técnicos de manera colaborativa. Considero que, a través de estas acciones, contribuí al liderazgo conjunto del equipo, asegurando que 
+      avanzáramos de forma coordinada hacia los objetivos planteados.
+      <br><br>
+      Espinoza Saenz, Christian Renato<br>
+      Durante la implementación del software como propuesta de solución para la problemática encontrada, asumí la responsabilidad de coordinar las sesiones de trabajo y distribuir tareas equitativamente. Esto incluyó planificar reuniones, moderar discusiones y asegurar que cada integrante tuviera claridad sobre sus objetivos. Esta experiencia no solo fortaleció el liderazgo compartido, sino que también promovió un ambiente de trabajo inclusivo y eficiente.
+      <br><br>
+      Morales Calderón, Hernan Emilio<br>
+      Durante este TB1, desempeñé un rol de liderazgo rotativo, donde alterné responsabilidades con mis compañeros para garantizar una toma de decisiones equitativa. Mi enfoque se centró en la gestión del tiempo y la priorización de tareas críticas, lo que permitió al equipo completar con éxito el primer alcance del proyecto dentro del plazo establecido, fomentando la confianza mutua y la colaboración.
+      <br><br>
+      Valle Zuta, Abel Andrés<br>
+      En la primera entrega del presente proyecto, lideré la organización de un cronograma semanal que permitió al equipo balancear sus responsabilidades. También proporcioné retroalimentación sobre avances individuales, promoviendo una dinámica de aprendizaje grupal y asegurando que el liderazgo se ejerciera de manera conjunta, enfocándonos siempre en cumplir los objetivos establecidos.
+    </td>
+    <td>
+      <strong>TB1:</strong><br><br>
+      La experiencia acumulada durante el desarrollo del TB1 refleja un compromiso sólido con el liderazgo compartido y el trabajo en equipo. A través de roles diversos como la documentación técnica, la coordinación de tareas, la moderación de discusiones, y la gestión del tiempo, se promovió un ambiente de colaboración inclusivo y eficiente. Estas acciones no solo garantizaron el cumplimiento de los objetivos del proyecto dentro de los plazos establecidos, sino que también fortalecieron la comunicación, la confianza mutua y el aprovechamiento de las fortalezas individuales de los integrantes. En conjunto, estas contribuciones destacaron la importancia de un liderazgo rotativo y equitativo para alcanzar resultados exitosos.
+    </td>
+  </tr>
+  <tr>
+    <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+    <td>
+      <strong>TB1:</strong><br><br>
+      Criollo de la Cruz, Diego Anderson<br>
+      Durante el desarrollo del TB1, me encargué de redactar la documentación del proyecto, asegurándome de que la información técnica estuviera presentada de forma clara, ordenada y objetiva. Me enfoqué en que los resultados y decisiones del equipo pudieran ser 
+      comprendidos tanto por personas con formación técnica como por aquellas de otras áreas. Esta experiencia me permitió mejorar mi capacidad de comunicar ideas por escrito de manera efectiva, adaptando el lenguaje según el público y manteniendo siempre un enfoque 
+      profesional y comprensible para todos los niveles jerárquicos involucrados.
+      <br><br>
+      Espinoza Saenz, Christian Renato<br>
+      Durante este primer avance, elaboré un informe técnico que resumía los avances y resultados del proyecto. Este documento estaba estructurado para ser comprensible tanto para los miembros técnicos del equipo como para la dirección general. Me enfoqué en utilizar un lenguaje preciso y acompañar la explicación con gráficos y tablas que facilitaran la comprensión, asegurando que el mensaje fuera claro para todos los destinatarios.
+      <br><br>
+      Morales Calderón, Hernan Emilio<br>
+      Como parte de esta primera entrega, preparé una presentación escrita para los stakeholders del proyecto, detallando las metodologías empleadas, los resultados obtenidos y las recomendaciones futuras. Adapté el contenido según las necesidades del público, utilizando un lenguaje accesible para personas sin conocimientos técnicos y terminología especializada para quienes requerían un mayor nivel de detalle técnico.
+      <br><br>
+      Valle Zuta, Abel Andrés<br>
+      Durante la primera entrega del presente proyecto, lideré la elaboración del reporte del proyecto que contiene los puntos clave del proyecto, la arquitectura que este tendrá y el alcance que planeamos para el software. Utilicé diagramas y esquemas para complementar el texto, garantizando que tanto aspectos técnicos como estratégicos fueran entendidos por audiencias con diferentes especialidades y roles jerárquicos.
+    </td>
+    <td>
+      <strong>TB1:</strong><br><br>
+      En este primer avance del proyecto, logramos trabajar en diferentes entornos colaborativos e inclusivos, elaborando diversos documentos técnicos y presentaciones adaptadas a diferentes audiencias con el fin de cumplir las metas establecidas. Nos aseguramos de que la información estuviera estructurada de manera clara, utilizando gráficos, tablas y esquemas para facilitar la comprensión de los aspectos técnicos y estratégicos. Esta experiencia no solo fortaleció nuestra capacidad para redactar contenidos accesibles tanto para especialistas como para personas de otras áreas, sino que también consolidó la habilidad para transmitir ideas complejas de manera profesional y efectiva, asegurando que todos los niveles jerárquicos involucrados comprendieran el alcance, las metodologías y los resultados del proyecto.
+    </td>
+  </tr>
+</table>
 
 
 </div>
