@@ -1830,6 +1830,81 @@ Para una mejor visualización este es enlace a los diagramas en miro :
 
 ### 4.1.2. *Context Mapping*
 
+Para AgroSense, utilizamos un enfoque iterativo para diseñar y visualizar los bounded contexts, con base en las funcionalidades propuestas para resolver los problemas del segmento objetivo. El proceso incluyó:
+
+1. **Identificación de Capacidades Clave:**  
+   Se mapearon las capacidades necesarias para que AgroSense proporcione valor a los agricultores y técnicos agrícolas. Estas capacidades incluyen monitoreo y gestión de cultivos, generación de reportes y análisis de datos de sensores.
+
+2. **Revisión de Dependencias y Problemas Actuales:**  
+   Basándonos en los retos identificados en el As-Is, como la falta de integración y duplicación de esfuerzos, evaluamos cómo diseñar contexts que minimicen dependencias entre módulos y optimicen el uso compartido de datos.
+
+3. **Generación de Diseños Candidatos:**  
+   Se propusieron alternativas de bounded contexts, cada una evaluada con preguntas clave para maximizar la eficiencia, escalabilidad y alineación con los objetivos del proyecto.
+
+---
+
+**Preguntas Consideradas en el Proceso**
+
+Se exploraron los siguientes escenarios para guiar la configuración óptima:
+
+- **¿Qué pasaría si movemos la funcionalidad de análisis de sensores a otro bounded context?**  
+   Evaluamos la posibilidad de separar "Análisis de Cultivos" en su propio context, liberando al módulo principal de "Gestión de Cultivos" de procesos computacionales intensos.
+
+- **¿Qué pasaría si partimos el bounded context de monitoreo de cultivos en múltiples bounded contexts?**  
+   Propuesta para dividir en "Gestión de Sensores" y "Visualización de Datos de Cultivos", permitiendo enfoques más especializados.
+
+- **¿Qué pasaría si creamos un shared service para datos de sensores?**  
+   Analizamos centralizar la recolección y procesamiento de datos de sensores en un "Servicio Compartido de Sensores", reduciendo duplicación entre contexts.
+
+- **¿Qué pasaría si creamos un Anti-Corruption Layer para integraciones externas?**  
+   Propusimos una capa que aísle AgroSense de sistemas externos, como plataformas de análisis climático o APIs de terceros.
+
+---
+
+**Discusión de Alternativas de Context Mapping**
+
+1. **Alternativa 1: Contextos Mínimos Monolíticos**
+   - **Ventajas:** Diseño inicial simple.
+   - **Desventajas:** Falta de modularidad, dificultad para escalar funcionalidades específicas.
+
+2. **Alternativa 2: Contextos Especializados con Shared Kernel**
+   - **Ventajas:** Permite centralizar capacidades compartidas (p. ej., autenticación, datos de sensores).
+   - **Desventajas:** Aumenta la complejidad inicial de configuración.
+
+3. **Alternativa 3: Customer/Supplier con Anti-Corruption Layer**
+   - **Ventajas:** Ideal para manejar dependencias externas y mantener integridad interna.
+   - **Desventajas:** Requiere mayor esfuerzo en la implementación de la capa de integración.
+
+4. **Alternativa 4: División por Sub-capacidades**
+   - **Ventajas:** Reduce la complejidad de contexts individuales.
+   - **Desventajas:** Podría fragmentar demasiado el sistema, complicando el mantenimiento.
+
+---
+
+## **Diseño Final Seleccionado**
+
+El equipo optó por un enfoque híbrido que combina las alternativas 2 y 3:
+
+- **Contextos Especializados:**  
+   - **Monitoreo y Gestión de Cultivos:** Gestión de datos provenientes de sensores.  
+   - **Análisis de Datos de Sensores:** Proceso de recolección de datos obtenidos de los sensores.  
+   - **Generación de Reportes:** Consolidación de datos en informes descargables.
+
+- **Shared Kernel:**  
+   - Autenticación y gestión básica de usuarios.  
+   - Datos históricos y almacenamiento centralizado de datos de sensores.  
+
+- **Anti-Corruption Layer:**  
+   - Manejo de interacciones con APIs externas (clima, fertilizantes, etc.).
+
+---
+
+## **Visualización Final**
+
+Los bounded contexts diseñados muestran relaciones claras:  
+- **Relación Customer/Supplier** entre "Monitoreo y Gestión de Cultivos" y "Análisis de Datos de Sensores".  
+- Uso de un **Shared Kernel** para servicios compartidos como autenticación.  
+- Integración externa a través de un **Anti-Corruption Layer**, asegurando robustez frente a cambios en servicios externos.
 
 
 ### 4.1.3. *Software Architecture*
