@@ -1353,6 +1353,106 @@ Arturo Adrianzen, joven agricultor e hijo de campesinos de la sierra peruana, re
 
 <div align="justify">
 
+**Segmento de Productores Rurales Tradicionales**
+
+**Perfil Demográfico**
+
+* Edades: Promedio de 23 años.
+* Ubicación Geográfica: Principalmente zonas rurales de Perú como Huancayo (Junín), La Molina (Lima) y Santo Tomás (Cusco).
+* Actividad Principal: Agricultura de pequeña escala, principalmente cultivos de papa, cebada y arándanos.
+* Tamaño de parcelas: Entre 3 a 5 hectáreas aproximadamente.
+
+**Experiencia y Conocimientos en Agricultura**
+
+* Todos los entrevistados tienen experiencia práctica basada en la observación diaria y el conocimiento familiar tradicional.
+* Algunos, como Diego Cano, han tenido contacto con tecnologías básicas de agricultura de precisión (riego por goteo, fertirriego y sensores de humedad), aunque su uso aún no es integrado o automatizado.
+* Existe un interés generalizado en modernizar sus prácticas agrícolas, pero requieren herramientas simples y accesibles.
+
+**Herramientas y Tecnologías Utilizadas**
+
+El uso de tecnología es limitado o parcial:
+
+- Todos usan smartphones para comunicación y búsqueda de información agrícola básica.
+- Algunos utilizan computadoras de escritorio para análisis de datos cuando hay disponibilidad.
+- El acceso a internet es intermitente o limitado en zonas rurales.
+- No cuentan con plataformas integradas para la toma de decisiones agrícolas en tiempo real.
+
+**Intereses y Necesidades en Soluciones Agrícolas**
+
+- **Optimización de recursos**: Buscan soluciones que les ayuden a aplicar agua y fertilizantes solo cuando es necesario, para ahorrar insumos costosos.
+- **Automatización de decisiones**: Consideran útil una plataforma que indique en tiempo real las necesidades de riego y fertilización del cultivo.
+- **Accesibilidad**: Necesitan herramientas que funcionen offline o con baja conectividad y que sean fáciles de usar, incluso en zonas remotas.
+- **Adaptabilidad cultural**: Se valora que la solución incluya un lenguaje sencillo o, en algunos casos como en Cusco, compatibilidad cultural como lenguaje quechua.
+- **Capacitación**: Todos los entrevistados señalan que la capacitación es clave para adoptar nuevas tecnologías de forma efectiva.
+
+**Preferencias y Comportamientos**
+- Los productores rurales tradicionales tienen un enfoque empírico y práctico.
+- Valoran las soluciones que mejoren la productividad y reduzcan costos operativos.
+- Prefieren herramientas que sean sencillas, visuales, y que no dependan completamente de internet.
+- Se muestran abiertos a la adopción tecnológica si se demuestra un beneficio económico claro y rápido.
+- Valoran altamente la experiencia compartida con otros agricultores para validar nuevas herramientas.
+
+**Estadísticas y Porcentajes**
+- El 100% de los entrevistados mostró interés en una herramienta que indique en tiempo real las necesidades de su cultivo.
+- El 100% manifestó que la falta de precisión en el riego y fertilización les ha generado pérdidas económicas.
+- El 100% utiliza celular para tareas básicas de comunicación agrícola, pero no plataformas especializadas.
+- El 100% considera importante que la tecnología funcione offline o en lugares con señal deficiente.
+- El 100% cree que el cambio climático ha afectado su producción y reconocen la necesidad de adaptarse con nuevas herramientas.
+- El 100% valoraría soluciones que, además de ser efectivas, incluyan capacitación práctica para su uso.
+
+
+Con base en estas entrevistas, se puede concluir que los productores rurales tradicionales entrevistados tienen una fuerte disposición a adoptar soluciones tecnológicas que les permitan optimizar el uso de recursos como agua y fertilizantes, mejorar su productividad y adaptarse al cambio climático. Sin embargo, las herramientas deben ser accesibles, intuitivas, funcionar en condiciones de baja conectividad, y venir acompañadas de procesos de capacitación prácticos. Existe una clara oportunidad para NutriControl de posicionarse como una solución transformadora en este segmento si se atienden estas necesidades fundamentales.
+
+**Segmento de Productores Tecnificados de Cultivos de Alto Valor**
+
+**Perfil Demográfico**
+
+Edades: Promedio de 25 años.
+Ubicación Geográfica: Regiones agrícolas de alta producción como Ica (La Tinguiña y Chincha).
+Actividad Principal: Producción de cultivos de exportación como arándano, palta Hass y uva Red Globe.
+Tamaño de operación: Predios entre 45 a 60 hectáreas, orientados a mercado internacional.
+
+**Experiencia y Conocimientos en Agricultura**
+
+* Todos los entrevistados tienen experiencia directa en agricultura tecnificada.
+
+* Manejan cultivos de alta rentabilidad, aplicando técnicas como fertirriego, uso de sensores de humedad, estaciones meteorológicas y software de trazabilidad.
+
+* Aunque utilizan tecnología, muchos procesos todavía dependen de la interpretación manual de datos, lo que genera brechas de eficiencia.
+
+**Herramientas y Tecnologías Utilizadas**
+
+- Uso extendido de sensores de humedad y estaciones meteorológicas.
+- Sistemas básicos de control de riego y fertirriego gestionados desde consolas.
+- Hojas de Excel y plataformas digitales simples para registro y trazabilidad de insumos.
+- Acceso a laptops y smartphones; en algunos casos con conectividad limitada en campo.
+
+**Intereses y Necesidades en Soluciones Agrícolas**
+
+- **Automatización inteligente**: Buscan soluciones que permitan tomar decisiones autónomas basadas en datos en tiempo real (riego y fertilización automática sin intervención manual).
+- **Optimización de recursos**: Desean reducir el desperdicio de agua y fertilizantes, mejorando su rentabilidad sin sacrificar calidad.
+- **Trazabilidad automática**: Valoran enormemente que cada acción de riego o fertilización quede registrada automáticamente para cumplir estándares de exportación.
+- **Interfaz integrada y modular**: Quieren plataformas que integren clima, suelo y gestión de cultivos, adaptables al crecimiento de sus operaciones.
+
+**Preferencias y Comportamientos**
+
+- Son usuarios que priorizan precisión, rentabilidad y cumplimiento de estándares de calidad de exportación.
+- Prefieren tecnologías confiables, predictivas y fáciles de integrar con sistemas actuales.
+- Demandan soluciones que no requieran alta intervención técnica para su operación diaria.
+- Están dispuestos a invertir en tecnología siempre que el retorno en ahorro de recursos y mejora de calidad sea tangible y rápido.
+- Valoran las plataformas escalables que crecen según la necesidad de la finca.
+
+**Estadísticas y Porcentajes**
+
+- El 100% de los entrevistados valora altamente la automatización de riego y fertilización basada en datos reales.
+- El 100% ha experimentado pérdidas o problemas de calidad por falta de control preciso de fertilizantes o agua.
+- El 100% gestiona actualmente reportes de riego y fertilización de manera manual o semimanual.
+- El 100% considera crítica la trazabilidad de insumos para poder exportar sus productos.
+- El 100% prefiere una solución modular que se adapte al crecimiento de su operación.
+- El 100% considera la baja conectividad en campo como un reto a superar mediante herramientas que funcionen offline o en modo híbrido.
+
+
+Con base en estas entrevistas, se puede concluir que los productores tecnificados de cultivos de alto valor tienen una alta disposición a adoptar tecnologías que automaticen decisiones críticas como riego y fertilización, mejoren la trazabilidad y optimicen el uso de recursos. Su prioridad es asegurar la calidad de exportación mientras reducen costos operativos. NutriControl tiene una gran oportunidad de posicionarse en este segmento si ofrece soluciones inteligentes, modulares, fáciles de integrar y capaces de operar bajo condiciones de conectividad limitada.
 
 
 </div>
