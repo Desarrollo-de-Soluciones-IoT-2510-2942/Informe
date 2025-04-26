@@ -1687,14 +1687,14 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como usuario potencial, cuando ingrese a la Landing Page de NutriControl, quiero poder visualizar información del funcionamiento de la solución y su propuesta de valor.</td>
     <td>
     Escenario 1: Visualizar la descripción general de NutriControl
-    <br>
+    <br><br>
     Dado que el usuario potencial ingresa a la Landing Page,
     Cuando acceda a la sección principal,
     Entonces podrá visualizar información sobre el funcionamiento de NutriControl
     Y entenderá su propuesta de valor.
-    <br>
+    <br><br>
     Escenario 2: Navegación fluida a la sección de información
-    <br>
+    <br><br>
     Dado que el usuario está en la Landing Page,
     Cuando haga clic en el botón "¿Qué es NutriControl?",
     Entonces deberá ser dirigido de forma fluida a la sección informativa
