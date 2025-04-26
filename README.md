@@ -1569,6 +1569,142 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     </td>
     <td>-</td>
   </tr>
+  <tr>
+    <td>US-07</td>
+    <td>Adición de Campos Agrícolas</td>
+    <td>Como productor agrícola, cuando ingrese al inicio de NutriControl, quiero poder agregar los Campos Agrícolas que deseo automatizar.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-09</td>
+    <td>Edición de Campos Agrícolas</td>
+    <td>Como productor agrícola, cuando ingrese a ver mis Campos Agrícolas, quiero poder editar la información de los Campos que poseo.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-10</td>
+    <td>Eliminación de Campos Agrícolas</td>
+    <td>Como productor agrícola, cuando ingrese a ver mis Campos Agrícolas, quiero poder eliminar cualquier Campo Agrícola que posea.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-11</td>
+    <td>Eliminación de Campos Agrícolas</td>
+    <td>Como productor agrícola, cuando ingrese a ver mis Campos Agrícolas, quiero poder eliminar cualquier Campo Agrícola que posea.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-12</td>
+    <td>Registro de Cultivos</td>
+    <td>Como productor agrícola, cuando ingrese a ver mis Campos Agrícolas, quiero poder agregar cultivos dentro de mis campos.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-13</td>
+    <td>Edición de Cultivos</td>
+    <td>Como productor agrícola, cuando ingrese a ver mis Cultivos de los Campos, quiero poder editar la información de mis Cultivos.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-14</td>
+    <td>Eliminación de Cultivos</td>
+    <td>Como productor agrícola, cuando ingrese a ver mis Campos de los Campos, quiero poder eliminar ciertos cultivos dentor de mis Campos Agrícolas.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-15</td>
+    <td>Conectar y Adicionar Dispositivos IOT a mis Cultivos</td>
+    <td>Como productor agrícola, cuando ingrese a ver mis Campos Agrícolas, quiero registrar y adicionar a mis Campos los dispositivos IOT que están presentes en mis cultivos.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-16</td>
+    <td>Desconectar Dispositivos IOT a mis Cultivos</td>
+    <td>Como productor agrícola, cuando ingrese a ver mis Campos Agrícolas, quiero desactivar los dispositivos IOT que están presentes en mis cultivos.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-17</td>
+    <td>Alertas del pH del Suelo</td>
+    <td>Como agricultor rural, cuando no entiendo los niveles de pH del suelo, quiero recibir una alerta con una recomendación sencilla para saber qué hacer.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-18</td>
+    <td>Alertas y Configuración del Riego Automático</td>
+    <td>Como agricultor rural, cuando necesito usar el riego automático, quiero recibir una alerta cuando el riego esté completado o necesite activar el riego en cierta determinada zona de mis cultivos.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-19</td>
+    <td>Recomendaciones y Toma de decisón de los Cultivos</td>
+    <td>Como agricultor rural, cuando necesito recomendaciones sobre la toma de decisiones, quiero recibir consejos sobre que hacer respecto al estado de cada cultivo.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-20</td>
+    <td>Gestión del Riego y Fertilización</td>
+    <td>Como agricultor rural, cuando necesito gestionar el riego automático y fertilización, quiero poder entrar a manejar el estado de mis dispositivos de riego y fertilización para poder configurarlos según mis necesidades y recomendaciones.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-21</td>
+    <td>Ahorro de Recursos</td>
+    <td>Como agricultor tecnificado, cuando necesito reducir o minimizar recursos, quiero poder recibir recomendaciones de uso de los recursos como el agua o fertilizanes en mis cultivos.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-22</td>
+    <td>Análisis Predictivo de Cultivos</td>
+    <td>Como agricultor tecnificado, cuando conocer información de ayuda a futuro sobre mis cultivos, quiero poder revisar en base al registro de mis cultivos y técnicas empleadas, datos predictivos sobre que hacer en diferentes ocasiones.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-23</td>
+    <td>Recomendaciones de Cultivos</td>
+    <td>Como agricultor tecnificado, cuando necesito recibir recomendaciones sobre mis cultivos o técnicas, quiero poder visualizar información sobre recomendaciones para cada tipo de cultivo o terreno de campo agrícola.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>US-24</td>
+    <td>Planes de Suscripción</td>
+    <td>Como usuario, cuando necesito adquirir más beneficios o elegir un plan de suscripción de acuerdo a mis necesidades, quiero poder visualizar detalles sobre planes premium o freemium sobre NutriControl y elegir la mejor opción para mis necesidades.</td>
+    <td>
+    </td>
+    <td>-</td>
+  </tr>
 </table>
 
 
@@ -1585,7 +1721,11 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
 
 ### 3.3. *Impact Mapping*
 
+<div align="justify">
 El impact map es una herramienta estratégica que permite identificar de manera precisa las características de una aplicación que pueden ser utilizadas o mejoradas para cumplir con un objetivo empresarial específico. Al partir del objetivo clave, se desglosan los comportamientos necesarios de los usuarios, se definen las acciones que deben realizar en la aplicación, se identifican las características necesarias para habilitar esas acciones, se evalúa el impacto potencial de cada característica en el logro del objetivo, y finalmente se crea un plan de acción detallado que guía el desarrollo y mejora continua de la aplicación, alineando así las acciones de los usuarios con los objetivos estratégicos de la empresa.
+
+</div>
+
 
 ![Artefacto creado en UXPressia](Resources/Chapter%2002/Impact%20Map/ImpactMap.png)
 
