@@ -1500,7 +1500,15 @@ Los términos utilizados en el dominio del negocio son los siguientes:
 
 El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentirán los usuarios con los nuevos cambios que deberían haber solucionado los problemas planteados en los *As-Is scenario maps.*
 
-![Recurso creado en Miro](Resources/cap2/ToBeSM.png)
+***To-Be Scenario Map:*** **Productores rurales tradicionales (pequeños y medianos agricultores)**
+
+![Recurso creado en Miro](Resources/Chapter%2003/To-Be/ToBe1.PNG)
+
+***To-Be Scenario Map:*** **Productores tecnificados de cultivos de alto valor (orientados al mercado de exportación)**
+
+![Recurso creado en Miro](Resources/Chapter%2003/To-Be/ToBe2.PNG)
+
+<div style="page-break-after: always;"></div>
 
 ### 3.2. *User Stories:*
 
