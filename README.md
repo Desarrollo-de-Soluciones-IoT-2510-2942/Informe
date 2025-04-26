@@ -1614,11 +1614,15 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
 
 ***To-Be Scenario Map:*** **Productores rurales tradicionales (pequeños y medianos agricultores)**
 
-![Recurso creado en Miro](Resources/Chapter%2003/To-Be/ToBe1.PNG)
+<p align="center">
+  <img src="Resources/Chapter%2003/To-Be/ToBe1.PNG" alt="Recurso creado en Miro">
+</p>
 
 ***To-Be Scenario Map:*** **Productores tecnificados de cultivos de alto valor (orientados al mercado de exportación)**
 
-![Recurso creado en Miro](Resources/Chapter%2003/To-Be/ToBe2.PNG)
+<p align="center">
+  <img src="Resources/Chapter%2003/To-Be/ToBe2.PNG" alt="Recurso creado en Miro">
+</p>
 
 <div style="page-break-after: always;"></div>
 
@@ -2438,34 +2442,36 @@ En esta sección introduciremos y explicaremos el proceso realizado para las dec
 <div align = "justify">
 Esta es la técnica colaborativa utilizada para modelar sistemas complejos y entender el dominio del problema, donde explicamos y evidenciamos el proceso con el fin de plantear una primera aproximación al modelado general e identificando el mayor nivel de detalle posible. Este fue desarrollado en las siguientes fases:
 
+<br>
+
 1. **Unstructured Exploration:** 
 
-<br>
-En esta fase, el equipo exploró libremente el dominio del problema, compartiendo conocimientos y capturando ideas sin una estructura formal. El objetivo fue generar una visión amplia y completa del sistema, sentando las bases para las siguientes fases del modelado.
 
+En esta fase, el equipo exploró libremente el dominio del problema, compartiendo conocimientos y capturando ideas sin una estructura formal. El objetivo fue generar una visión amplia y completa del sistema, sentando las bases para las siguientes fases del modelado.
+<br>
   ![Unstructured Exploration](Resources/Chapter%2002/EventStorming/Unstructured-Exploration.png)
 
 2. **Timelines:**  
-<br>
 En esta fase, el equipo organizó los eventos identificados en un flujo cronológico, visualizando su secuencia y las interacciones entre ellos. Esto ayudó a identificar dependencias y puntos críticos, facilitando la comprensión del sistema y la planificación de las siguientes etapas del modelado.
- 
+<br>
+
  ![Timelines](Resources/Chapter%2002/EventStorming/timelines.png)
 
 3. **Pain Points:**   
-<br>
 En esta fase, el equipo identificó los problemas o desafíos clave dentro del dominio del sistema. Se enfocaron en los puntos críticos donde los usuarios o procesos pueden enfrentar dificultades o ineficiencias.
- 
+<br>
+
  ![Pain Points](Resources/Chapter%2002/EventStorming/Pain-points.png)
 
 4. **Pivotal Points:**  
-<br>
 En esta fase, el equipo identificó los eventos clave que tienen un impacto significativo en el sistema y que podrían cambiar el curso de las decisiones o procesos. 
+<br>
 
 ![Pivotal points](Resources/Chapter%2002/EventStorming/pivotal-points.png)
 
 5. **Commands:**   
-<br>
 En esta fase, el equipo identificó las acciones  que deben ser ejecutados dentro del sistema para que los eventos ocurran o los procesos se inicien. Estos comandos son decisiones o instrucciones claras que desencadenan eventos específicos y ayudan a guiar el flujo de trabajo en el sistema.
+<br>
 
 ![Commands](Resources/Chapter%2002/EventStorming/Commands.png)
 
@@ -2480,32 +2486,32 @@ En esta fase, el equipo identificó las acciones  que deben ser ejecutados dentr
 En esta sección, el equipo, a partir del dominio modelado con EventStorming, explicó y evidenció el proceso realizado durante la sesión de Candidate Context Discovery, cuyo objetivo fue identificar los bounded contexts.La sesión duró 1 hora con 50 minutos, y se utilizó la herramienta miro, complementando la explicación con capturas de los cambios progresivos en EventStorming.
 
 6. **Policies:**   
-<br>
 En esta fase, el equipo identificó las reglas o políticas que rigen el comportamiento del sistema. Estas políticas son restricciones, normativas o criterios que deben ser seguidos para tomar decisiones dentro del proceso.
+<br>
 
 ![Commands](Resources/Chapter%2002/EventStorming/policies.png)
 
 7. **Read Models:**   
-<br>
 En esta fase , el equipo se centró en identificar los modelos de lectura que permiten consultar y visualizar la información almacenada en el sistema. 
+<br>
 
 ![Commands](Resources/Chapter%2002/EventStorming/Read-models.png)
 
 8. **External Systems:**   
-<br>
 En esta fase, el equipo identificó y analizó los sistemas externos con los que el sistema principal interactúa. Estos pueden incluir aplicaciones, bases de datos, servicios de terceros o plataformas externas que proporcionan o reciben información del sistema. 
+<br>
 
 ![Commands](Resources/Chapter%2002/EventStorming/external-systems.png)
 
 9. **Aggregates:**    
-<br>
 En esta fase, el equipo definió las entidades principales que agrupan y gestionan los datos relacionados como una unidad. Los Aggregates aseguran la consistencia de los datos y aplican las reglas de negocio dentro de sus límites.
+<br>
 
 ![Commands](Resources/Chapter%2002/EventStorming/Aggregates.png)
 
 10. **Bounded Contexts:**
-<br>
 En esta fase, el equipo identificó los límites dentro de los cuales un modelo específico es aplicable y coherente. Cada Bounded Context define un área del sistema con su propio conjunto de reglas, terminología y lógica de negocio.
+<br>
 
 ![Commands](Resources/Chapter%2002/EventStorming/Bounded-Contexts.png)
 
@@ -2548,7 +2554,7 @@ Utilizamos el Domain Message Flows Modeling para mapear cómo los mensajes fluye
 <div align = "justify">
 En esta sección se describen los bounded contexts de AgroSense utilizando un proceso iterativo basado en el Bounded Context Canvas. Se documento el diseño de cada contexto, incluyendo su definición general y reglas de negocio principales.
 
-##### Proceso de Diseño Iterativo
+**Proceso de Diseño Iterativo**
 
  - Context Overview Definition: Se definieron los límites de cada bounded context basándose en las áreas funcionales clave de AgroSense, garantizando que cada contexto conservara su enfoque y coherencia con su propósito.Los bounded context definidos fueron:  
  *Plans & Membership Management*, *User Registration & Authentication**, *User Profile Management**, *Automated Irrigation Control*, *Field Registration & Management**, **Sensors and Systems Setup* y *Crop Monitoring & Field Data Management*.
@@ -2624,7 +2630,7 @@ Se exploraron los siguientes escenarios para guiar la configuración óptima:
 
 ---
 
-## **Diseño Final Seleccionado**
+**Diseño Final Seleccionado**
 
 El equipo optó por un enfoque híbrido que combina las alternativas 2 y 3:
 
@@ -2642,7 +2648,7 @@ El equipo optó por un enfoque híbrido que combina las alternativas 2 y 3:
 
 ---
 
-## **Visualización Final**
+**Visualización Final**
 
 Los bounded contexts diseñados muestran relaciones claras:  
 - **Relación Customer/Supplier** entre "Monitoreo y Gestión de Cultivos" y "Análisis de Datos de Sensores".  
@@ -2726,7 +2732,10 @@ Sensors and System Setup Domain Layer diagram:
 
 Sensors and System Setup database diagram:
 
-![Sensor databse diagram](Resources/Chapter%2004/DatabaseDesign/db1DatabaseDesign.png)
+<p align="center">
+  <img src="Resources/Chapter%2004/DatabaseDesign/db1DatabaseDesign.png" alt="Recurso creado en Miro">
+</p>
+
 
 
 ### 4.2.2. *Bounded Context: <Bounded Plans and Memembership Management>Plans & Membership Management*
@@ -2781,7 +2790,10 @@ Plans and Memebership Domain Layer diagram:
 
 Plans and Memebership database diagram:
 
-![Plans databse diagram](Resources/Chapter%2004/DatabaseDesign/db2DatabaseDesign.png)
+<p align="center">
+  <img src="Resources/Chapter%2004/DatabaseDesign/db2DatabaseDesign.png" alt="Recurso creado en Miro">
+</p>
+
 
 ### 4.2.3. *Bounded Context: <Bounded User Profile Management>User Profile Management*
 El contexto de User Management integra todo lo relacionado al registro de nuevos usuarios, autenticación en el sistema y gestión de los perfiles personales.  
@@ -2836,7 +2848,10 @@ User Profile Domain Layer diagram:
 ##### 4.2.3.6.2. *Bounded Context Database Design Diagram*
 User Profile database diagram:
 
-![User databse diagram](Resources/Chapter%2004/DatabaseDesign/db3DatabaseDesign.png)
+<p align="center">
+  <img src="Resources/Chapter%2004/DatabaseDesign/db3DatabaseDesign.png" alt="Recurso creado en Miro">
+</p>
+
 
 ### 4.2.4. *Bounded Context: <Bounded Automated Irrigation Control>Automated Irrigation Control*
 
@@ -2893,7 +2908,9 @@ Automated Irrigation Control Domain Layer diagram:
 ##### 4.2.4.6.2. *Bounded Context Database Design Diagram*
 Automated Irrigation Control database diagram:
 
-![Irrigation databse diagram](Resources/Chapter%2004/DatabaseDesign/db4DatabaseDesign.png)
+<p align="center">
+  <img src="Resources/Chapter%2004/DatabaseDesign/db4DatabaseDesign.png" alt="Recurso creado en Miro">
+</p>
 
 
 ### 4.2.5. *Bounded Context: <Bounded Field Registration and Management>Field Registration & Management*
@@ -2956,7 +2973,10 @@ Field Registartion and Management Domain Layer diagram:
 ##### 4.2.5.6.2. *Bounded Context Database Design Diagram*
 Field Registration and Management database diagram:
 
-![Field databse diagram](Resources/Chapter%2004/DatabaseDesign/db5DatabaseDesign.png)
+<p align="center">
+  <img src="Resources/Chapter%2004/DatabaseDesign/db5DatabaseDesign.png" alt="Recurso creado en Miro">
+</p>
+
 
 
 ### 4.2.6. *Bounded Context: <Bounded Crop Monitoring and Field Data Managementl>Crop Monitoring & Field Data Management*
@@ -3016,7 +3036,9 @@ Crop Monitoring & Field Data Management Domain Layer diagram:
 
 Crop Monitoring & Field Data Management database diagram:
 
-![Crops databse diagram](Resources/Chapter%2004/DatabaseDesign/db6DatabaseDesign.png)
+<p align="center">
+  <img src="Resources/Chapter%2004/DatabaseDesign/db6DatabaseDesign.png" alt="Recurso creado en Miro">
+</p>
 
 
 # Conclusiones
