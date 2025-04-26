@@ -1991,26 +1991,31 @@ Esta es la técnica colaborativa utilizada para modelar sistemas complejos y ent
 
 <br>
 En esta fase, el equipo exploró libremente el dominio del problema, compartiendo conocimientos y capturando ideas sin una estructura formal. El objetivo fue generar una visión amplia y completa del sistema, sentando las bases para las siguientes fases del modelado.
+
   ![Unstructured Exploration](Resources/Chapter%2002/EventStorming/Unstructured-Exploration.png)
 
 2. **Timelines:**  
 <br>
 En esta fase, el equipo organizó los eventos identificados en un flujo cronológico, visualizando su secuencia y las interacciones entre ellos. Esto ayudó a identificar dependencias y puntos críticos, facilitando la comprensión del sistema y la planificación de las siguientes etapas del modelado.
+ 
  ![Timelines](Resources/Chapter%2002/EventStorming/timelines.png)
 
 3. **Pain Points:**   
 <br>
 En esta fase, el equipo identificó los problemas o desafíos clave dentro del dominio del sistema. Se enfocaron en los puntos críticos donde los usuarios o procesos pueden enfrentar dificultades o ineficiencias.
+ 
  ![Pain Points](Resources/Chapter%2002/EventStorming/Pain-points.png)
 
 4. **Pivotal Points:**  
 <br>
 En esta fase, el equipo identificó los eventos clave que tienen un impacto significativo en el sistema y que podrían cambiar el curso de las decisiones o procesos. 
+
 ![Pivotal points](Resources/Chapter%2002/EventStorming/pivotal-points.png)
 
 5. **Commands:**   
 <br>
 En esta fase, el equipo identificó las acciones  que deben ser ejecutados dentro del sistema para que los eventos ocurran o los procesos se inicien. Estos comandos son decisiones o instrucciones claras que desencadenan eventos específicos y ayudan a guiar el flujo de trabajo en el sistema.
+
 ![Commands](Resources/Chapter%2002/EventStorming/Commands.png)
 
 
@@ -2026,26 +2031,31 @@ En esta sección, el equipo, a partir del dominio modelado con EventStorming, ex
 6. **Policies:**   
 <br>
 En esta fase, el equipo identificó las reglas o políticas que rigen el comportamiento del sistema. Estas políticas son restricciones, normativas o criterios que deben ser seguidos para tomar decisiones dentro del proceso.
+
 ![Commands](Resources/Chapter%2002/EventStorming/policies.png)
 
 7. **Read Models:**   
 <br>
 En esta fase , el equipo se centró en identificar los modelos de lectura que permiten consultar y visualizar la información almacenada en el sistema. 
+
 ![Commands](Resources/Chapter%2002/EventStorming/Read-models.png)
 
 8. **External Systems:**   
 <br>
 En esta fase, el equipo identificó y analizó los sistemas externos con los que el sistema principal interactúa. Estos pueden incluir aplicaciones, bases de datos, servicios de terceros o plataformas externas que proporcionan o reciben información del sistema. 
+
 ![Commands](Resources/Chapter%2002/EventStorming/external-systems.png)
 
 9. **Aggregates:**    
 <br>
 En esta fase, el equipo definió las entidades principales que agrupan y gestionan los datos relacionados como una unidad. Los Aggregates aseguran la consistencia de los datos y aplican las reglas de negocio dentro de sus límites.
+
 ![Commands](Resources/Chapter%2002/EventStorming/Aggregates.png)
 
 10. **Bounded Contexts:**
 <br>
 En esta fase, el equipo identificó los límites dentro de los cuales un modelo específico es aplicable y coherente. Cada Bounded Context define un área del sistema con su propio conjunto de reglas, terminología y lógica de negocio.
+
 ![Commands](Resources/Chapter%2002/EventStorming/Bounded-Contexts.png)
 
 **Enlace a los diagramas en Miro:** [https://miro.com/app/board/uXjVI-UYdMU=/?share_link_id=788988253384](https://miro.com/app/board/uXjVI-UYdMU=/?share_link_id=788988253384)
@@ -2065,6 +2075,7 @@ En esta fase, el equipo identificó los límites dentro de los cuales un modelo 
 
 ### 4.1.2. *Context Mapping*
 
+<div align = "justify">
 Para AgroSense, utilizamos un enfoque iterativo para diseñar y visualizar los bounded contexts, con base en las funcionalidades propuestas para resolver los problemas del segmento objetivo. El proceso incluyó:
 
 1. **Identificación de Capacidades Clave:**  
@@ -2140,7 +2151,7 @@ Los bounded contexts diseñados muestran relaciones claras:
 - **Relación Customer/Supplier** entre "Monitoreo y Gestión de Cultivos" y "Análisis de Datos de Sensores".  
 - Uso de un **Shared Kernel** para servicios compartidos como autenticación.  
 - Integración externa a través de un **Anti-Corruption Layer**, asegurando robustez frente a cambios en servicios externos.
-
+</div>
 
 ### 4.1.3. *Software Architecture*
 
