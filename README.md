@@ -2166,7 +2166,7 @@ A continuación, se visualizarán los diagramas C4.
 
 #### 4.1.3.3. *Software Architecture Components Level Diagrams*
 
-
+![Artefacto hecho en Structurizr](Resources/Chapter%2004/software-architecture/Software%20Architecture%20Components%20Diagrams.png)
 
 ## 4.2. *Tactical-Level Domain-Driven Design*
 
