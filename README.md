@@ -2155,7 +2155,7 @@ Los bounded contexts diseñados muestran relaciones claras:
 
 ### 4.1.3. *Software Architecture*
 
-
+A continuación, se visualizarán los diagramas C4.
 
 #### 4.1.3.1. *Software Architecture System Landscape Diagram*
 
