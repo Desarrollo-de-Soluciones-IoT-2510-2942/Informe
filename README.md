@@ -1687,7 +1687,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como usuario potencial, cuando ingrese a la Landing Page de NutriControl, quiero poder visualizar información del funcionamiento de la solución y su propuesta de valor.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-01</td>
   </tr>
   <tr>
     <td>US-02</td>
@@ -1695,7 +1695,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como usuario potencial, cuando navegue dentro de las secciones de la Landing Page de NutriControl, quiero poder visualizar características específicas de lo que NutriControl ofrece y ver si se adecuan a mis necesidades.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-01</td>
   </tr>
   <tr>
     <td>US-03</td>
@@ -1705,7 +1705,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     </td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-01</td>
   </tr>
   <tr>
     <td>US-04</td>
@@ -1713,7 +1713,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como usuario, cuando ingrese a la App Web o descargue el App Móvil, quiero poder registrarme con un correo electrónico y contraseña para poder usar NutriControl.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-02</td>
   </tr>
   <tr>
     <td>US-05</td>
@@ -1721,7 +1721,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como usuario, cuando ingrese a la App Web o descargue el App Móvil, quiero poder iniciar sesión con mis credenciales ya creadas en el registro de NutriControl.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-02</td>
   </tr>
   <tr>
     <td>US-06</td>
@@ -1729,7 +1729,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como usuario, cuando ingrese a la App Web o descargue el App Móvil, quiero poder recuperar o cambiar mi contraseña en caso la haya olvidado.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-02</td>
   </tr>
   <tr>
     <td>US-07</td>
@@ -1737,7 +1737,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como productor agrícola, cuando ingrese al inicio de NutriControl, quiero poder agregar los Campos Agrícolas que deseo automatizar.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-03</td>
   </tr>
   <tr>
     <td>US-08</td>
@@ -1745,7 +1745,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como productor agrícola, cuando ingrese a ver mis Campos Agrícolas, quiero poder editar la información de los Campos que poseo.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-03</td>
   </tr>
   <tr>
     <td>US-09</td>
@@ -1753,7 +1753,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como productor agrícola, cuando ingrese a ver mis Campos Agrícolas, quiero poder eliminar cualquier Campo Agrícola que posea.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-03</td>
   </tr>
   <tr>
     <td>US-10</td>
@@ -1761,7 +1761,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como productor agrícola, cuando ingrese a ver mis Campos Agrícolas, quiero poder agregar cultivos dentro de mis campos.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-04</td>
   </tr>
   <tr>
     <td>US-11</td>
@@ -1769,7 +1769,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como productor agrícola, cuando ingrese a ver mis Cultivos de los Campos, quiero poder editar la información de mis Cultivos.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-04</td>
   </tr>
   <tr>
     <td>US-12</td>
@@ -1777,7 +1777,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como productor agrícola, cuando ingrese a ver mis Campos de los Campos, quiero poder eliminar ciertos cultivos dentor de mis Campos Agrícolas.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-04</td>
   </tr>
   <tr>
     <td>US-13</td>
@@ -1785,7 +1785,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como productor agrícola, cuando ingrese a ver mis Campos Agrícolas, quiero registrar y adicionar a mis Campos los dispositivos IOT que están presentes en mis cultivos.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-05</td>
   </tr>
   <tr>
     <td>US-14</td>
@@ -1793,7 +1793,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como productor agrícola, cuando ingrese a ver mis Campos Agrícolas, quiero desactivar los dispositivos IOT que están presentes en mis cultivos.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-05</td>
   </tr>
   <tr>
     <td>US-15</td>
@@ -1801,7 +1801,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como agricultor rural, cuando no entiendo los niveles de pH del suelo, quiero recibir una alerta con una recomendación sencilla para saber qué hacer.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-06</td>
   </tr>
   <tr>
     <td>US-16</td>
@@ -1809,7 +1809,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como agricultor rural, cuando necesito usar el riego automático, quiero recibir una alerta cuando el riego esté completado o necesite activar el riego en cierta determinada zona de mis cultivos.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-05</td>
   </tr>
   <tr>
     <td>US-17</td>
@@ -1817,7 +1817,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como agricultor rural, cuando necesito recomendaciones sobre la toma de decisiones, quiero recibir consejos sobre que hacer respecto al estado de cada cultivo.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-06</td>
   </tr>
   <tr>
     <td>US-18</td>
@@ -1825,7 +1825,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como agricultor rural, cuando necesito gestionar el riego automático y fertilización, quiero poder entrar a manejar el estado de mis dispositivos de riego y fertilización para poder configurarlos según mis necesidades y recomendaciones.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-05</td>
   </tr>
   <tr>
     <td>US-19</td>
@@ -1833,7 +1833,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como agricultor tecnificado, cuando necesito reducir o minimizar recursos, quiero poder recibir recomendaciones de uso de los recursos como el agua o fertilizanes en mis cultivos.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-06</td>
   </tr>
   <tr>
     <td>US-20</td>
@@ -1841,7 +1841,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como agricultor tecnificado, cuando conocer información de ayuda a futuro sobre mis cultivos, quiero poder revisar en base al registro de mis cultivos y técnicas empleadas, datos predictivos sobre que hacer en diferentes ocasiones.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-06</td>
   </tr>
   <tr>
     <td>US-21</td>
@@ -1849,7 +1849,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como agricultor tecnificado, cuando necesito recibir recomendaciones sobre mis cultivos o técnicas, quiero poder visualizar información sobre recomendaciones para cada tipo de cultivo o terreno de campo agrícola.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-06</td>
   </tr>
   <tr>
     <td>US-22</td>
@@ -1857,7 +1857,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como usuario, cuando necesito adquirir más beneficios o elegir un plan de suscripción de acuerdo a mis necesidades, quiero poder visualizar detalles sobre planes premium o freemium sobre NutriControl y elegir la mejor opción para mis necesidades.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-02</td>
   </tr>
   <tr>
     <td>US-23</td>
@@ -1865,7 +1865,7 @@ El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentir�
     <td>Como usuario, cuando necesito cambiar información personal de mi cuenta o visualizar, quiero poder tener una sección de Perfil dentro de NutriControl para ver toda tipo de esa información.</td>
     <td>
     </td>
-    <td>-</td>
+    <td>EP-02</td>
   </tr>
 </table>
 
