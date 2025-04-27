@@ -2442,7 +2442,7 @@ Seleccionamos esta User Story como base de referencia para la valorización de l
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td>13</td>
       <td>US-13</td>
       <td style="text-align: justify;">Conectar y Adicionar Dispositivos IOT a mis Cultivos</td>
       <td style="text-align: justify;">Como productor agrícola, cuando ingrese a ver mis Campos Agrícolas, quiero registrar y adicionar a mis Campos los dispositivos IOT que están presentes en mis cultivos para poder automatizar el monitoreo y control de mis cultivos.</td>
