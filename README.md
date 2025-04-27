@@ -3172,7 +3172,7 @@ Crop Monitoring & Field Data Management database diagram:
 ## Needfinding Interviews
 
   <div align="center">
-    <img src="">
+    <img src="Resources/Chapter%2002/Interview%20Evidence/needfinding.PNG">
  </div>
 
 
