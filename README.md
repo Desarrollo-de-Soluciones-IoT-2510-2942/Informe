@@ -76,7 +76,19 @@
 
 <div align="justify">
 
+**TB1:**
 
+<div align="center">
+
+  ![Insights](Resources/Chapter%2001/Insights/insights1.PNG)
+
+</div>
+
+<div align="center">
+
+  ![Insights](Resources/Chapter%2001/Insights/insights2.PNG)
+
+</div>
 
 </div>
 
