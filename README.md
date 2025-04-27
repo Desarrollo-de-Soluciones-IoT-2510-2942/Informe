@@ -2432,7 +2432,8 @@ Seleccionamos esta User Story como base de referencia para la valorización de l
 
 | **# Orden** | **User Story ID** | **Título**                                                      | **Descripción**                                                                                                                                                               | **Story Points (1 / 2 / 3 / 5 / 8 / 13 /…)** |
 |:-----------:|:-----------------:|:---------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|----------------------------------------------|
-| 1           | US-13             | Conectar y Adicionar Dispositivos IOT a mis Cultivos            | **Como** productor agrícola, **cuando** ingrese a ver mis Campos Agrícolas, **quiero** registrar y adicionar a mis Campos los dispositivos IOT que están presentes en mis cultivos **para** poder automatizar el monitoreo y control de mis cultivos. | 8                                            |
+| 13           | US-13             | Conectar y Adicionar Dispositivos IOT a mis Cultivos            | **Como** productor agrícola, **cuando** ingrese a ver mis Campos Agrícolas, **quiero** registrar y adicionar a mis Campos los dispositivos IOT que están presentes en mis cultivos **para** poder automatizar el monitoreo y control de mis cultivos. | 8                                            |
+
 
 
 </div>
