@@ -23,12 +23,12 @@
             <th style="text-align:center;">Código</th>
         </tr>
         <tr>
-            <td>Criollo De La Cruz, Diego Anderson</td>
-            <td>U202219639</td>
-        </tr>
-        <tr>
             <td>Antonio Salazar, Jhan Clinton</td>
             <td>U20201B312</td>
+        </tr>
+        <tr>
+            <td>Criollo De La Cruz, Diego Anderson</td>
+            <td>U202219639</td>
         </tr>
         <tr>
             <td>Espinoza Saenz, Christian Renato</td>
@@ -60,8 +60,8 @@
 
 | Versión |   Fecha    | Autor | Descripción de modificación | 
 |:-------:|:----------:|:-----:|:----------------------------| 
-|TB1| 20/04/2025 |Criollo De La Cruz, Diego Anderson| Capítulo I: Introducción, Capítulo II: Requirement Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
 |TB1| 20/04/2025 |Antonio Salazar Jhan Clinton|  Capítulo I: Introducción, Capítulo II: Requirement Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
+|TB1| 20/04/2025 |Criollo De La Cruz, Diego Anderson| Capítulo I: Introducción, Capítulo II: Requirement Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
 |TB1| 20/04/2025 |Espinoza Saenz, Christian Renato| Capítulo I: Introducción, Capítulo II: Requirement Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
 |TB1| 20/04/2025 |Morales Calderón, Hernan Emilio| Capítulo I: Introducción, Capítulo II: Requirement Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
 |TB1| 20/04/2025 |Valle Zuta, Abel Andrés| Capítulo I: Introducción, Capítulo II: Requirement Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
@@ -179,6 +179,11 @@ del ABET – EAC - Student Outcome 5.
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
     <td>
       <strong>TB1:</strong><br><br>
+      Antonio Salazar, Jhan Clinton<br>
+      En el desarrollo del TB1, asumí un rol activo dentro del equipo, participando principalmente en la realización de entrevistas y la elaboración de presentaciones en PowerPoint. Estas actividades me permitieron contribuir a la organización del trabajo y 
+      colaborar estrechamente con mis compañeros, asegurando que todas las perspectivas fueran tomadas en cuenta. Considero que, a través de estas acciones, apoyé al equipo en su liderazgo conjunto, ayudando a que todos los miembros trabajaran de manera coordinada 
+      para alcanzar los objetivos propuestos.
+      <br><br>
       Criollo de la Cruz, Diego Anderson<br>
       En el desarrollo del TB1, asumí un rol activo dentro del equipo encargándome principalmente de la elaboración de la documentación técnica y la corrección de errores en el desarrollo general del proyecto. Estas tareas me permitieron no solo aportar a la     
       organización y claridad del trabajo en grupo, sino también apoyar a mis compañeros identificando y solucionando problemas técnicos de manera colaborativa. Considero que, a través de estas acciones, contribuí al liderazgo conjunto del equipo, asegurando que 
@@ -202,6 +207,11 @@ del ABET – EAC - Student Outcome 5.
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
     <td>
       <strong>TB1:</strong><br><br>
+      Antonio Salazar, Jhan Clinton<br>
+      Durante el desarrollo del TB1, me enfoqué en crear un entorno colaborativo e inclusivo dentro del equipo, fomentando la comunicación abierta y el intercambio de ideas. Mi contribución se centró en establecer metas claras, planificar las tareas de manera 
+      eficiente y asegurarme de que cada miembro del equipo tuviera un rol bien definido. A través de un enfoque estructurado, ayudé a coordinar los esfuerzos del equipo, garantizando que todos cumplieran con los objetivos establecidos y se mantuvieran alineados con 
+      el progreso del proyecto.
+      <br><br>
       Criollo de la Cruz, Diego Anderson<br>
       Durante el desarrollo del TB1, me encargué de redactar la documentación del proyecto, asegurándome de que la información técnica estuviera presentada de forma clara, ordenada y objetiva. Me enfoqué en que los resultados y decisiones del equipo pudieran ser 
       comprendidos tanto por personas con formación técnica como por aquellas de otras áreas. Esta experiencia me permitió mejorar mi capacidad de comunicar ideas por escrito de manera efectiva, adaptando el lenguaje según el público y manteniendo siempre un enfoque 
@@ -272,8 +282,8 @@ Ser líderes globales en innovación agroindustrial, reconocidos por transformar
 
 | Integrante                | Perfil                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Foto                                                |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+| Jhan Clinton Antonio Salazar |   Soy Jhan Clinton, estudiante de Ingeniería de Software con gran pasión por el desarrollo tecnológico. En mi formación académica me enfoco en fortalecer mis habilidades en programación, diseño de sistemas y trabajo en equipo. Como estudiante, destaco por mi capacidad para aprender rápidamente, resolver problemas técnicos y colaborar activamente en proyectos grupales. Mi objetivo es seguir creciendo profesionalmente, aplicando mis conocimientos teóricos en desafíos prácticos y contribuyendo con soluciones innovadoras. ¡Siempre listo para asumir nuevos retos en el mundo del desarrollo de software!                                                                                                                                                                                     |  ![Image](Resources/Chapter%2001/Team%20Members/Clinton-Jhan.png)  |
 | Criollo De La Cruz, Diego Anderson (U202219639) | Mi nombre es Diego Anderson Criollo de La Cruz, soy estudiante de 7mo ciclo de la carrera de Ingeniería de Software. Me gusta mucho emplear soluciones creativas y que busquen eficiencia para poder abordar de esta forma cualquier desafío de la mejor manera. Como miembro del grupo, pretendo aportar con todos mis conocimientos en el desarrollo web tanto como en el front-end y back-end, además de siempre colaborar con mis ideas y soluciones ante cualquier dificultad que se presente en el desarrollo. Espero poder aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del desarrollo del proyecto.                                                                                             | ![Diego Criollo](Resources/Chapter%2001/Team%20Members/Criollo-Diego.jpg)             |
-| Jhan Clinton Antonio Salazar |   Soy Jhan Clinton, estudiante de Ingeniería de Software con gran pasión por el desarrollo tecnológico. En mi formación académica me enfoco en fortalecer mis habilidades en programación, diseño de sistemas y trabajo en equipo. Como estudiante, destaco por mi capacidad para aprender rápidamente, resolver problemas técnicos y colaborar activamente en proyectos grupales. Mi objetivo es seguir creciendo profesionalmente, aplicando mis conocimientos teóricos en desafíos prácticos y contribuyendo con soluciones innovadoras. ¡Siempre listo para asumir nuevos retos en el mundo del desarrollo de software!                                                                                                                                                                                     |  ![Image](https://github.com/user-attachments/assets/cb661b96-b6e6-4908-a148-9a34ec718192)  |
 | Morales Calderón, Hernan Emilio (U202216263) | Soy Hernan Morales, tengo 20 años y actualmente estoy cursando el 7mo ciclo de Ingeniería de Software. Me considero una persona sumamente responsable y organizada, especialmente en trabajos universitarios. Mi objetivo es culminar exitosamente el curso y nuestro proyecto junto a mi equipo, asegurando que cada detalle se ejecute con precisión. Tengo conocimientos sólidos en lenguajes como C++, C#, y JavaScript, así como en frameworks como Angular y Vue, lo que me permite desarrollar interfaces dinámicas y adaptarme rápidamente a diferentes entornos de desarrollo. Además, manejo SQL para la gestión y optimización de bases de datos. Estoy convencido de que, con buena planificación y comunicación, entregaremos un proyecto de alta calidad que supere las expectativas. | ![Hernan Morales](Resources/Chapter%2001/Team%20Members/Morales-Hernan.png)             |
 | Valle Zuta, Abel Andrés (U202210297) | Soy Abel Andrés Valle Zuta, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), tengo 20 años y actualmente estoy cursando el 7mo ciclo en la sede de Monterrico. Sé programar y editar videos. Además, sé resolver problemas, trabajar en equipo y lograr unir más al grupo. Mis hobbies son jugar básquet, fútbol, tenis, videojuegos, escuchar música, salir a pasear con mis amigos, ver películas, nadar, hacer ejercicio, pasear a mis mascotas y pasar tiempo con mi familia. Finalmente, siempre estoy dispuesto a trabajar y terminar a tiempo los deberes, esforzándome para aprender y comprender lo máximo posible y finalizar con éxito todos mis objetivos.                                                                     | ![Abel Valle](Resources/Chapter%2001/Team%20Members/Valle-Abel.jpg)               |
 | Espinoza Saenz, Christian Renato (U202213208) | Mi nombre es Christian Espinoza, soy un estudiante de 20 años que cursa el 7mo ciclo de la carrera Ingeniería de Software. Poseo ideas únicas e innovadoras para que el trabajo logre sobresalir. Tengo experiencia en la creación de distintos tipos de diagramas, editar diferentes tipos de multimedia como videos, y un conocimiento general en programación de C++, HTML, CSS y SQL. Además, se me facilita desarrollar interfaces intuitivas en el frontend, lo cual será beneficioso para el proyecto.                                                                    | ![Christian Espinoza](Resources/Chapter%2001/Team%20Members/Christian-Espinoza.jpg)               |
