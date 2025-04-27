@@ -3182,7 +3182,7 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022102
 ## Video Exposición del TB1
 
   <div align="center">
-    <img src="">
+    <img src="Resources/Annexes/expo-tb1.jpeg">
  </div>
 
 
