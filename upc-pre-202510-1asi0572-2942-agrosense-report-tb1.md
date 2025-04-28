@@ -1213,7 +1213,7 @@ Arturo Adrianzen, joven agricultor e hijo de campesinos de la sierra peruana, re
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td>![image](https://github.com/user-attachments/assets/684dc8c8-ba6a-4543-9776-d0b0bffe7461)</td>
+    <td><div align="center"><img src="/Resources/Chapter%2002/Interview%20Evidence/Evidencia-Nicolle.png" alt="Nicolle"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1284,7 +1284,7 @@ Arturo Adrianzen, joven agricultor e hijo de campesinos de la sierra peruana, re
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td>![image](https://github.com/user-attachments/assets/d9af8cee-a1df-4b46-96b8-f24c8c8d986c)</td>
+    <td><div align="center"><img src="/Resources/Chapter%2002/Interview%20Evidence/Evidencia-Italo.png" alt="Italo"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1358,7 +1358,7 @@ Arturo Adrianzen, joven agricultor e hijo de campesinos de la sierra peruana, re
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td>![image](https://github.com/user-attachments/assets/f66a0b1d-f54b-4b24-a35c-888ebffd974b)</td>
+    <td><div align="center"><img src="/Resources/Chapter%2002/Interview%20Evidence/Evidencia-Leonel%20Alfaro.jpg" alt="Jahn"></div></td>
   </tr>
   <tr>
     <td>Link</td>
