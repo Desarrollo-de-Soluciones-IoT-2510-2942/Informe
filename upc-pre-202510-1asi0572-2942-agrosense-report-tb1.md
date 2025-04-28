@@ -1163,232 +1163,221 @@ Arturo Adrianzen, joven agricultor e hijo de campesinos de la sierra peruana, re
 **Segmento 2: Productores Tecnificados de Cultivos de Alto Valor**
 
 <table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2"><div align="center">Entrevista #1<br></div></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Nicolle</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Gonzales</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>25 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>La Tinguiña, Ica, Perú</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Google Meets</td>
-  </tr>
-  <tr>
-    <td>Motivación</td>
-    <td>Mejorar la gestión de su cultivo de arándanos con tecnología que le permita tomar decisiones más precisas, reducir el desperdicio de agua y fertilizantes, y lograr un mayor control sobre la producción.</td>
-  </tr>
-  <tr>
-    <td>Frustración</td>
-    <td>No contar con una solución que le indique con claridad cuándo y cuánto fertilizar o regar, tener que depender de la observación visual, y no poder automatizar tareas clave.</td>
-  </tr>
-  <tr>
-    <td>Tecnologías</td>
-    <td>Laptop y Computadora Windows</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Google Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Hernan Morales</td>
-  </tr>
-  <tr>
-   <td>Evidencia</td>
-<td>
-  <div align="center">
-    <img src="Resources/Chapter%2002/Interview%20Evidence/Evidencia-Nicolle.PNG" alt="Nicolle">
-  </div>
-</td>
-
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EVe9zyPE2kRAr5_tAXckCn8BUuKVbU04Pw8xjXkNN28GKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tFnPPJ" title="Title">Microsoft Stream</a></p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>27:21 min - 35:27 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td style="text-align: justify;">
-    Nicolle Gonzales, gerente de operaciones agrícolas de 25 años, lidera una finca de 45 hectáreas de arándanos en Ica. Si bien cuenta con sensores de humedad y riego tecnificado, aún depende de decisiones manuales para aplicar agua y fertilizantes, lo que genera imprecisiones y riesgos de salinidad o deficiencias nutricionales. La gestión actual combina registros en Excel, monitoreos manuales y análisis trimestrales de nutrientes, lo que limita la capacidad de respuesta y eficiencia. Nicolle valora la trazabilidad y requiere una solución que registre acciones automáticamente, funcione con poca conectividad y facilite la toma de decisiones en tiempo real. Considera que la precisión es clave para lograr ahorro, sostenibilidad y calidad de exportación. Está interesada en adoptar una plataforma modular, fácil de usar, que integre sensores, clima y recomendaciones prácticas para el campo.
-
-</td>
-  </tr>
-</tbody>
+  <thead>
+    <tr>
+      <th colspan="2"><div align="center">Entrevista #1</div></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nombre</td>
+      <td>Nicolle</td>
+    </tr>
+    <tr>
+      <td>Apellidos</td>
+      <td>Gonzales</td>
+    </tr>
+    <tr>
+      <td>Edad</td>
+      <td>25 años</td>
+    </tr>
+    <tr>
+      <td>Distrito</td>
+      <td>La Tinguiña, Ica, Perú</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones Usadas</td>
+      <td>Google Meets</td>
+    </tr>
+    <tr>
+      <td>Motivación</td>
+      <td>Mejorar la gestión de su cultivo de arándanos con tecnología que le permita tomar decisiones más precisas, reducir el desperdicio de agua y fertilizantes, y lograr un mayor control sobre la producción.</td>
+    </tr>
+    <tr>
+      <td>Frustración</td>
+      <td>No contar con una solución que le indique con claridad cuándo y cuánto fertilizar o regar, tener que depender de la observación visual, y no poder automatizar tareas clave.</td>
+    </tr>
+    <tr>
+      <td>Tecnologías</td>
+      <td>Laptop y Computadora Windows</td>
+    </tr>
+    <tr>
+      <td>Browsers</td>
+      <td>Google Chrome</td>
+    </tr>
+    <tr>
+      <td>Entrevistador</td>
+      <td>Hernan Morales</td>
+    </tr>
+    <tr>
+      <td>Evidencia</td>
+      <td>
+        <div align="center">
+          <img src="Resources/Chapter%2002/Interview%20Evidence/Evidencia-Nicolle.PNG" alt="Nicolle">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>Link</td>
+      <td><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EVe9zyPE2kRAr5_tAXckCn8BUuKVbU04Pw8xjXkNN28GKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tFnPPJ" title="Microsoft Stream">Microsoft Stream</a></td>
+    </tr>
+    <tr>
+      <td>Duración</td>
+      <td>27:21 min - 35:27 min</td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td style="text-align: justify;">
+        Nicolle Gonzales, gerente de operaciones agrícolas de 25 años, lidera una finca de 45 hectáreas de arándanos en Ica. Si bien cuenta con sensores de humedad y riego tecnificado, aún depende de decisiones manuales para aplicar agua y fertilizantes, lo que genera imprecisiones y riesgos de salinidad o deficiencias nutricionales. La gestión actual combina registros en Excel, monitoreos manuales y análisis trimestrales de nutrientes, lo que limita la capacidad de respuesta y eficiencia. Nicolle valora la trazabilidad y requiere una solución que registre acciones automáticamente, funcione con poca conectividad y facilite la toma de decisiones en tiempo real. Considera que la precisión es clave para lograr ahorro, sostenibilidad y calidad de exportación. Está interesada en adoptar una plataforma modular, fácil de usar, que integre sensores, clima y recomendaciones prácticas para el campo.
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2"><div align="center">Entrevista #2<br></div></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Italo</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Hurtado</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>25 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Chincha Alta, Ica, Perú</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Google Meets</td>
-  </tr>
-  <tr>
-    <td>Motivación</td>
-    <td>Optimizar los procesos de riego y fertilización para ahorrar insumos y mejorar la calidad del cultivo, apostando por tecnologías que faciliten la gestión sin necesidad de supervisión constante.</td>
-  </tr>
-  <tr>
-    <td>Frustración</td>
-    <td>Falta de herramientas accesibles que ayuden a tomar decisiones precisas y en tiempo real. La variación climática lo obliga a improvisar y eso impacta en el rendimiento.</td>
-  </tr>
-  <tr>
-    <td>Tecnologías</td>
-    <td>Laptop, Computadora Windows</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Googlee Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Hernan Morales</td>
-  </tr>
-  <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Chapter%2002/Interview%20Evidence/Evidencia-Italo.PNG" alt="Italo"></div>
-    </td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EVe9zyPE2kRAr5_tAXckCn8BUuKVbU04Pw8xjXkNN28GKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tFnPPJ" title="Title">Microsoft Stream</a></p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>35:28 min - 39:23 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td style="text-align: justify;">
-    Ítalo Hurtado, encargado de operaciones agrícolas de 25 años, trabaja en una finca de 60 hectáreas de palta Hass y uva Red Globe en Chincha, Ica. Aunque cuentan con sensores de humedad y estaciones meteorológicas, la toma de decisiones sigue siendo manual, lo que genera márgenes de error en el riego y fertilización. El control del suelo es diario, pero el monitoreo de nutrientes es trimestral, limitando la rapidez de reacción ante cambios. El costo de fertilizantes es alto y su mal manejo ha generado problemas de calidad en campañas anteriores. Ítalo destaca la importancia de la trazabilidad para exportar y considera urgente automatizar decisiones para mejorar eficiencia. Valora especialmente soluciones que ofrezcan automatización basada en datos en tiempo real, sean modulares y adaptables al crecimiento de la operación.
-    </td>
-  </tr>
-</tbody>
+  <thead>
+    <tr>
+      <th colspan="2"><div align="center">Entrevista #2</div></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nombre</td>
+      <td>Italo</td>
+    </tr>
+    <tr>
+      <td>Apellidos</td>
+      <td>Hurtado</td>
+    </tr>
+    <tr>
+      <td>Edad</td>
+      <td>25 años</td>
+    </tr>
+    <tr>
+      <td>Distrito</td>
+      <td>Chincha Alta, Ica, Perú</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones Usadas</td>
+      <td>Google Meets</td>
+    </tr>
+    <tr>
+      <td>Motivación</td>
+      <td>Optimizar los procesos de riego y fertilización para ahorrar insumos y mejorar la calidad del cultivo, apostando por tecnologías que faciliten la gestión sin necesidad de supervisión constante.</td>
+    </tr>
+    <tr>
+      <td>Frustración</td>
+      <td>Falta de herramientas accesibles que ayuden a tomar decisiones precisas y en tiempo real. La variación climática lo obliga a improvisar y eso impacta en el rendimiento.</td>
+    </tr>
+    <tr>
+      <td>Tecnologías</td>
+      <td>Laptop, Computadora Windows</td>
+    </tr>
+    <tr>
+      <td>Browsers</td>
+      <td>Google Chrome</td>
+    </tr>
+    <tr>
+      <td>Entrevistador</td>
+      <td>Hernan Morales</td>
+    </tr>
+    <tr>
+      <td>Evidencia</td>
+      <td>
+        <div align="center">
+          <img src="Resources/Chapter%2002/Interview%20Evidence/Evidencia-Italo.PNG" alt="Italo">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>Link</td>
+      <td><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EVe9zyPE2kRAr5_tAXckCn8BUuKVbU04Pw8xjXkNN28GKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tFnPPJ" title="Microsoft Stream">Microsoft Stream</a></td>
+    </tr>
+    <tr>
+      <td>Duración</td>
+      <td>35:28 min - 39:23 min</td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td style="text-align: justify;">
+        Ítalo Hurtado, encargado de operaciones agrícolas de 25 años, trabaja en una finca de 60 hectáreas de palta Hass y uva Red Globe en Chincha, Ica. Aunque cuentan con sensores de humedad y estaciones meteorológicas, la toma de decisiones sigue siendo manual, lo que genera márgenes de error en el riego y fertilización. El control del suelo es diario, pero el monitoreo de nutrientes es trimestral, limitando la rapidez de reacción ante cambios. El costo de fertilizantes es alto y su mal manejo ha generado problemas de calidad en campañas anteriores. Ítalo destaca la importancia de la trazabilidad para exportar y considera urgente automatizar decisiones para mejorar eficiencia. Valora especialmente soluciones que ofrezcan automatización basada en datos en tiempo real, sean modulares y adaptables al crecimiento de la operación.
+      </td>
+    </tr>
+  </tbody>
 </table>
-
-
-
-
 
 <table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2"><div align="center">Entrevista #3<br></div></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Leonel</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Alfaro</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>25 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Chincha Alta, Ica, Perú</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Microsoft Stream</td>
-  </tr>
-  <tr>
-    <td>Motivación</td>
-    <td>Implementar soluciones tecnológicas accesibles para optimizar el manejo de cultivos, reducir costos operativos y mejorar la calidad de la producción mediante el uso de herramientas digitales.</td>
-  </tr>
-  <tr>
-    <td>Frustración</td>
-    <td>Dificultad para acceder a sistemas de monitoreo agrícola asequibles y fáciles de usar. La falta de datos en tiempo real lo obliga a depender de métodos tradicionales, lo que genera ineficiencias en riego y fertilización.</td>
-  </tr>
-  <tr>
-    <td>Tecnologías</td>
-    <td>Laptop, Computadora Windows</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Googlee Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Jhan Clinton</td>
-  </tr>
-  <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Chapter%2002/Interview%20Evidence/Evidencia-Leonel%20Alfaro.JPG" alt="Jahn"></div>
-    </td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EVe9zyPE2kRAr5_tAXckCn8BUuKVbU04Pw8xjXkNN28GKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tFnPPJ" title="Title">Microsoft Stream</a></p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>39:24 min - 43:32 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td style="text-align: justify;">
-    Aunque no es agricultor directo, su enfoque está en desarrollar herramientas tecnológicas que simplifiquen la gestión agrícola para pequeños y medianos productores. Reconoce que muchos agricultores, como Leonel Alfaro, enfrentan desafíos por la falta de acceso a sistemas de monitoreo automatizados y asequibles.  Su motivación es cerrar la brecha entre el conocimiento técnico y las necesidades reales del agricultor, priorizando funcionalidades como alertas tempranas, recomendaciones basadas en datos y compatibilidad con dispositivos móviles. Considera clave que estas herramientas sean accesibles incluso con conexiones limitadas, ya que muchos campos en Chincha tienen acceso irregular a internet.
-    </td>
-  </tr>
-</tbody>
+  <thead>
+    <tr>
+      <th colspan="2"><div align="center">Entrevista #3</div></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nombre</td>
+      <td>Leonel</td>
+    </tr>
+    <tr>
+      <td>Apellidos</td>
+      <td>Alfaro</td>
+    </tr>
+    <tr>
+      <td>Edad</td>
+      <td>25 años</td>
+    </tr>
+    <tr>
+      <td>Distrito</td>
+      <td>Chincha Alta, Ica, Perú</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones Usadas</td>
+      <td>Microsoft Stream</td>
+    </tr>
+    <tr>
+      <td>Motivación</td>
+      <td>Implementar soluciones tecnológicas accesibles para optimizar el manejo de cultivos, reducir costos operativos y mejorar la calidad de la producción mediante el uso de herramientas digitales.</td>
+    </tr>
+    <tr>
+      <td>Frustración</td>
+      <td>Dificultad para acceder a sistemas de monitoreo agrícola asequibles y fáciles de usar. La falta de datos en tiempo real lo obliga a depender de métodos tradicionales, lo que genera ineficiencias en riego y fertilización.</td>
+    </tr>
+    <tr>
+      <td>Tecnologías</td>
+      <td>Laptop, Computadora Windows</td>
+    </tr>
+    <tr>
+      <td>Browsers</td>
+      <td>Google Chrome</td>
+    </tr>
+    <tr>
+      <td>Entrevistador</td>
+      <td>Jhan Clinton</td>
+    </tr>
+    <tr>
+      <td>Evidencia</td>
+      <td>
+        <div align="center">
+          <img src="Resources/Chapter%2002/Interview%20Evidence/Evidencia-Leonel%20Alfaro.JPG" alt="Leonel Alfaro">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>Link</td>
+      <td><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EVe9zyPE2kRAr5_tAXckCn8BUuKVbU04Pw8xjXkNN28GKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tFnPPJ" title="Microsoft Stream">Microsoft Stream</a></td>
+    </tr>
+    <tr>
+      <td>Duración</td>
+      <td>39:24 min - 43:32 min</td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td style="text-align: justify;">
+        Aunque no es agricultor directo, su enfoque está en desarrollar herramientas tecnológicas que simplifiquen la gestión agrícola para pequeños y medianos productores. Reconoce que muchos agricultores enfrentan desafíos por la falta de acceso a sistemas de monitoreo automatizados y asequibles. Su motivación es cerrar la brecha entre el conocimiento técnico y las necesidades reales del agricultor, priorizando funcionalidades como alertas tempranas, recomendaciones basadas en datos y compatibilidad con dispositivos móviles. Considera clave que estas herramientas sean accesibles incluso con conexiones limitadas, ya que muchos campos en Chincha tienen acceso irregular a internet.
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-</div>
-
-### 2.2.3. Análisis de entrevistas
-
-<div align="justify">
 
 **Segmento de Productores Rurales Tradicionales**
 
