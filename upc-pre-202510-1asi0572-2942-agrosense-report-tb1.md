@@ -1212,9 +1212,13 @@ Arturo Adrianzen, joven agricultor e hijo de campesinos de la sierra peruana, re
     <td>Hernan Morales</td>
   </tr>
   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Chapter%2002/Interview%20Evidence/Evidencia-Nicolle.PNG" alt="Nicolle"></div>
-    </td>
+   <td>Evidencia</td>
+<td>
+  <div align="center">
+    <img src="Resources/Chapter%2002/Interview%20Evidence/Evidencia-Nicolle.PNG" alt="Nicolle">
+  </div>
+</td>
+
   </tr>
   <tr>
     <td>Link</td>
