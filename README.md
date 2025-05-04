@@ -876,7 +876,7 @@ Aprovechar colaboraciones con entidades del ecosistema agrícola para ampliar el
 
 <div align="justify">
 
-Para acceder al video de las entrevistas, haga click en la ([URL]())
+Para acceder al video de las entrevistas, haga click en la ([URL](https://upcedupe-my.sharepoint.com/personal/u202210297_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210297%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1ASI0572%2D2942%2DAgroSense%2Dentrevista%2Dtb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0=&ga=1))
 
 ### 2.2.1. Diseño de entrevistas
 
