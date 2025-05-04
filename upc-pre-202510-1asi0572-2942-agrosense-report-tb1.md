@@ -885,7 +885,7 @@ Se han diseñado entrevistas cualitativas dirigidas a personas representativas d
 
 **Segmento 1: Productores Rurales Tradicionales** 
 
-El objetivo de realizar las entrevistas es comprender a profundidad las necesidades, prácticas actuales y limitaciones de los productores rurales tradicionales, validar la propuesta de valor de NutriControl, y definir las funcionalidades prioritarias para garantizar que la solución sea relevante, accesible y efectiva en mejorar la productividad agrícola mientras se enfrentan desafíos como el cambio climático y la escasez hídrica.
+El objetivo de realizar estas entrevistas es comprender a profundidad las necesidades, prácticas actuales y limitaciones de los productores rurales tradicionales, validar la propuesta de valor de NutriControl, y definir las funcionalidades prioritarias para garantizar que la solución sea relevante, accesible y efectiva en mejorar la productividad agrícola mientras se enfrentan desafíos como el cambio climático y la escasez hídrica.
 
 
 **Preguntas de introducción:**
@@ -915,6 +915,8 @@ El objetivo de realizar las entrevistas es comprender a profundidad las necesida
 
 
 **Segmento 2: Productores Tecnificados de Cultivos de Alto Valor** 
+
+El objetivo es identificar las necesidades específicas y los retos operativos de este segmento avanzado, con el fin de personalizar la propuesta de NutriControl. Esto incluye entender los niveles actuales de tecnificación, el impacto económico de sus decisiones agrícolas, y las funcionalidades clave que una solución tecnológica debe ofrecer para optimizar la eficiencia, garantizar estándares de calidad y trazabilidad, y mejorar la rentabilidad en un entorno competitivo de exportación.
 
 **Preguntas de introducción:**
 
