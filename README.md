@@ -3241,8 +3241,13 @@ NutriControl permite a los productores gestionar sus campos agrícolas de forma 
 La interfaz organiza la información jerárquicamente, comenzando con los campos agrícolas generales y luego permitiendo la navegación a los cultivos específicos dentro de esos campos. Los usuarios pueden ver de un vistazo los cultivos más importantes y su estado, priorizando las tareas que requieren atención inmediata (como el riego o la fertilización).
 
 * ***Filtros y búsqueda por cultivos:***
-Los usuarios pueden filtrar campos y cultivos por diferentes criterios, como el tipo de cultivo, el estado de salud o las tareas pendientes. Esto permite que los productores encuentren rápidamente lo que necesitan y optimicen la gestión de sus recursos sin tener que navegar por pantallas complejas.
+    Los usuarios pueden filtrar campos y cultivos por diferentes criterios, como el tipo de cultivo, el estado de salud o las tareas pendientes. Esto permite que los productores encuentren rápidamente lo que necesitan y optimicen la gestión de sus recursos sin tener que navegar por pantallas complejas.
 
+* ***Visualización de tareas pendientes:***
+    Cada campo y cultivo tiene un listado visual de las tareas pendientes, como riego, fertilización o monitoreo de dispositivos IoT. Las tareas se presentan con indicadores de prioridad y fechas de vencimiento, lo que ayuda a los usuarios a organizar su jornada y tomar decisiones rápidas.
+
+* ***Dashboard de indicadores clave:***
+    NutriControl presenta un panel de control donde se visualizan los indicadores clave relacionados con los campos y cultivos, como el rendimiento de los cultivos, las tareas completadas y el estado general de los campos. Este tablero permite a los usuarios obtener una visión general rápida y tomar decisiones basadas en datos en tiempo real.
 </div>
 
 <br>
@@ -3258,19 +3263,74 @@ Los usuarios pueden filtrar campos y cultivos por diferentes criterios, como el 
 <div align="justify">
 
 * ***Etiquetas en campos y cultivos:***
-Cada campo y cultivo está etiquetado con su nombre, tipo y estado (por ejemplo, "Cultivo de maíz - Necesita riego"), lo que permite a los usuarios visualizar rápidamente la información clave sin tener que abrir cada sección individual.
+    Cada campo y cultivo está etiquetado con su nombre, tipo y estado (por ejemplo, "Cultivo de maíz - Necesita riego"), lo que permite a los usuarios visualizar rápidamente la información clave sin tener que abrir cada sección individual.
 
 * ***Iconos de estado de los cultivos:***
-Se utilizan iconos visuales para representar el estado de las tareas (como un ícono de gota para indicar riego o un icono de hoja para fertilización). Estos iconos se ubican estratégicamente junto a cada tarea para que los usuarios puedan identificar las necesidades de sus cultivos de un solo vistazo.
+    Se utilizan iconos visuales para representar el estado de las tareas (como un ícono de gota para indicar riego o un icono de hoja para fertilización). Estos iconos se ubican estratégicamente junto a cada tarea para que los usuarios puedan identificar las necesidades de sus cultivos de un solo vistazo.
 
 * ***Categorías de cultivos y tareas:***
-Los cultivos y las tareas relacionadas (riego, fertilización, monitoreo IoT) están organizados en categorías específicas. Estas categorías permiten a los usuarios navegar por las tareas según su tipo, lo que simplifica la toma de decisiones.
+    Los cultivos y las tareas relacionadas (riego, fertilización, monitoreo IoT) están organizados en categorías específicas. Estas categorías permiten a los usuarios navegar por las tareas según su tipo, lo que simplifica la toma de decisiones.
+
+* ***Etiquetas de prioridad en tareas:***
+    Las tareas pendientes como riego y fertilización están etiquetadas con un nivel de prioridad (alta, media, baja), lo que ayuda a los usuarios a tomar decisiones más rápidas y a gestionar sus cultivos de manera eficiente.
+
+* ***Etiquetas de rendimiento de los cultivos:***
+    Se emplean etiquetas que indican el rendimiento de los cultivos, como "Bajo rendimiento" o "Excelente rendimiento". Estas etiquetas ayudan a los usuarios a identificar qué cultivos necesitan más atención o cuáles están obteniendo buenos resultados, permitiendo una mejor toma de decisiones en cuanto a recursos.
+    
 
 </div>
 
 <br>
 
 ### 5.2.3. SEO Tags and Meta Tags
+
+<div align="justify">
+    NutriControl también implementa una estrategia de SEO para mejorar su visibilidad y posicionamiento en motores de búsqueda, ayudando a atraer a más usuarios interesados en la gestión agrícola. Las meta-etiquetas son fundamentales para optimizar la experiencia web y asegurar que los usuarios encuentren fácilmente la información relacionada con los cultivos y la gestión agrícola.
+</div>
+
+<br>
+
+<div align="justify">
+    
+* ***Título:***
+El título de la página de inicio de NutriControl refleja claramente la propuesta de valor de la plataforma, como en el siguiente ejemplo:
+
+```
+<title>NutriControl - Optimización y Gestión Inteligente de Cultivos Agrícolas</title>
+```
+
+* ***Descripción:***
+La meta-descripción proporciona un resumen breve sobre la solución de NutriControl, resaltando su capacidad para mejorar la eficiencia agrícola mediante la integración de tecnologías IoT y la optimización de recursos.
+
+```
+<meta name="description" content="NutriControl es la plataforma para la gestión inteligente de cultivos, que utiliza IoT y análisis predictivo para optimizar recursos como el riego y la fertilización."/>
+```
+
+
+* ***Palabras clave:***
+Las palabras clave se seleccionan para mejorar el SEO y ayudar a los usuarios a encontrar rápidamente información sobre la plataforma.
+
+```
+<meta name="keywords" content="gestión agrícola, optimización de cultivos, IoT, riego inteligente, fertilización agrícola, monitoreo de cultivos"/>
+```
+
+
+* ***Autor y derechos de autor:***
+El autor y los derechos de autor se especifican para proteger el contenido y la propiedad intelectual de la plataforma.
+
+
+```
+<meta name="author" content="NutriControl Team"/>
+<meta name="copyright" content="Copyright NutriControl 2025"/>
+
+```
+
+
+</div>
+
+<br>
+
+
 ### 5.2.4. Searching Systems
 
 <div align="justify"> 
@@ -3306,8 +3366,15 @@ Los cultivos y las tareas relacionadas (riego, fertilización, monitoreo IoT) es
 	
 * ***Barra de navegación superior:***
 La barra de navegación principal agrupa las funciones clave de NutriControl, como la gestión de campos, la visualización de cultivos, el acceso a dispositivos IoT y la configuración de alertas. Cada ícono es intuitivo, facilitando la navegación entre las 		secciones.
+
 * ***Navegación por niveles:***
 NutriControl implementa una navegación jerárquica en la que los usuarios comienzan por ver una visión general de sus campos y luego pueden profundizar en los cultivos y las tareas asociadas. La plataforma permite que los usuarios naveguen entre diferentes niveles de información sin perderse.
+
+* ***Navegación rápida a tareas pendientes:***
+    A través de un sistema de navegación rápida, los usuarios pueden acceder de forma directa a las tareas pendientes, como riego o fertilización. Esto se logra mediante un ícono flotante o una notificación en la barra de navegación, lo que facilita que los productores gestionen sus tareas de manera eficiente.
+
+* ***Menú lateral contextual:***
+    Además de la barra superior, NutriControl cuenta con un menú lateral que se adapta al contexto del usuario. Por ejemplo, si un productor está visualizando un campo específico, el menú lateral se actualizará para mostrar opciones relevantes como agregar cultivos, conectar dispositivos IoT o gestionar alertas relacionadas con ese campo en particular.
 </div>
 
 <br>
