@@ -3159,7 +3159,52 @@ Crop Monitoring & Field Data Management database diagram:
 
 # Capítulo V: Solution UI/UX Design
 
+<div align="justify">
+    Una guía de estilo es un documento que establece principios y lineamientos visuales, estructurales y de redacción para garantizar coherencia y uniformidad en el diseño y desarrollo de productos digitales o materiales comunicativos. A continuación, se presentan las especificaciones aplicadas en la estructura del proyecto.
+</div>
+
 ## 5.1. Style Guidelines
+
+**Overview:**
+<div align="justify">
+     Deseamos generar una conexión significativa con el usuario desde el primer momento, a través de una propuesta visual y conceptual que no solo comunique el valor del producto, sino que también provoque un impacto memorable y una identificación inmediata.
+</div>
+<br>
+
+**Brand Overview:**
+<div align="justify">
+         NutriControl es una solución tecnológica desarrollada por AgroSense en 2025 con el objetivo de transformar la agricultura tradicional mediante el uso de inteligencia ambiental y automatización. La plataforma está enfocada en apoyar a pequeños y medianos productores agrícolas en Sudamérica, brindándoles herramientas inteligentes para una fertilización más eficiente y sostenible. Gracias a su integración de sensores en campo, automatización de riego por goteo y una interfaz amigable, NutriControl permite tomar decisiones precisas basadas en datos en tiempo real, optimizando recursos y mejorando el rendimiento de los cultivos. Nuestra misión es empoderar al agricultor con tecnología accesible, promoviendo prácticas agrícolas resilientes frente al cambio climático y la escasez de agua.
+
+</div>
+<br>
+
+**Brand Name:**
+<div align="justify">
+	Considerando que la plataforma está diseñada para supervisar y optimizar el control de nutrientes y riego en cultivos agrícolas de manera inteligente y automatizada, se optó por el nombre “NutriControl”, ya que refleja con claridad su propósito central: ofrecer un control eficiente y preciso de la nutrición del suelo, facilitando así una gestión agrícola más efectiva y sostenible.
+</div>
+<br>
+
+![Artefacto creado en Canva](Resources/Chapter%2005/General%20Styles/Brand.png) 
+
+**Typography:**
+<div align="justify">
+     Se eligió la tipografía Kaisei Tokumin por su elegancia, legibilidad y estilo sobrio, cualidades que transmiten confianza y profesionalismo. Su diseño equilibrado la hace ideal para aplicaciones tecnológicas como NutriControl, donde la claridad en la presentación de datos y la accesibilidad visual son fundamentales.
+</div>
+<br>
+
+![Artefacto creado en Canva](Chapter%2005/General%20Styles/Fonts.png) 
+
+<br>
+
+**Colors:**
+<div align="justify">
+	La gama de colores seleccionada para NutriControl se compone de tonos que reflejan los valores fundamentales de la marca. El verde oscuro evoca la sostenibilidad y el crecimiento, mientras que el marrón cálido representa la conexión con la tierra y la fertilidad. El blanco y el negro se utilizan para proporcionar contraste, asegurando una experiencia visual clara, equilibrada y accesible en todos los elementos de la plataforma y materiales relacionados.
+</div>
+
+<br>
+
+![Artefacto creado en Canva](Resources/Chapter%2005/General%20Styles/Colors.png) 
+
 
 ### 5.1.1. General Style Guidelines
 ### 5.1.2. Web, Mobile and IoT Style Guidelines
