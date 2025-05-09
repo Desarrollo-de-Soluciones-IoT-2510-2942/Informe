@@ -65,11 +65,11 @@
 |TB1| 20/04/2025 |Espinoza Saenz, Christian Renato| Capítulo I: Introducción, Capítulo II: Requirement Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
 |TB1| 20/04/2025 |Morales Calderón, Hernan Emilio| Capítulo I: Introducción, Capítulo II: Requirement Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
 |TB1| 20/04/2025 |Valle Zuta, Abel Andrés| Capítulo I: Introducción, Capítulo II: Requirement Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
-|TP1| 08/05/2025 |Antonio Salazar Jhan Clinton|  Capítulo I: Introducción, Capítulo II: Requirement Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
-|TP1| 08/05/2025 |Criollo De La Cruz, Diego Anderson| Capítulo I: Introducción, Capítulo II: Requirement Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
-|TP1| 08/05/2025 |Espinoza Saenz, Christian Renato| Capítulo I: Introducción, Capítulo II: Requirement Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
-|TP1| 08/05/2025 |Morales Calderón, Hernan Emilio| Capítulo I: Introducción, Capítulo II: Requirement Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
-|TP1| 08/05/2025 |Valle Zuta, Abel Andrés| Capítulo I: Introducción, Capítulo II: Requirement Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
+|TP1| 08/05/2025 |Antonio Salazar Jhan Clinton|  Capítulo V: Solution UI/UX Design, Capítulo VI: Product Implementation, Validation & Deployment |
+|TP1| 08/05/2025 |Criollo De La Cruz, Diego Anderson|  Capítulo V: Solution UI/UX Design, Capítulo VI: Product Implementation, Validation & Deployment |
+|TP1| 08/05/2025 |Espinoza Saenz, Christian Renato|  Capítulo V: Solution UI/UX Design, Capítulo VI: Product Implementation, Validation & Deployment |
+|TP1| 08/05/2025 |Morales Calderón, Hernan Emilio|  Capítulo V: Solution UI/UX Design, Capítulo VI: Product Implementation, Validation & Deployment |
+|TP1| 08/05/2025 |Valle Zuta, Abel Andrés|  Capítulo V: Solution UI/UX Design, Capítulo VI: Product Implementation, Validation & Deployment |
 </div>
 
 ---
