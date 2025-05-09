@@ -3382,16 +3382,58 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 ## 5.3. Landing Page UI Design
 
 ### 5.3.1. Landing Page Wireframe
+
 ### 5.3.2. Landing Page Mock-up
+
+**Web version:**
+
+<br>
+
+![Artefacto creado en Figma](Resources/Chapter%2005/Landing%20Mockup/Landing-Mockup-Web-01.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/Landing%20Mockup/Landing-Mockup-Web-02.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/Landing%20Mockup/Landing-Mockup-Web-03.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/Landing%20Mockup/Landing-Mockup-Web-04.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/Landing%20Mockup/Landing-Mockup-Web-05.png) 
+
+<br>
+
+**Mobile version:**
 
 ## 5.4. Applications UX/UI Design
 
 ### 5.4.1. Applications Wireframes
+
+**App web:**
+
+**App mobile:**
+
 ### 5.4.2. Applications Wireflow Diagrams
+
+**App web:**
+
+**App mobile:**
+
 ### 5.4.3. Applications Mock-ups
+
+**App web:**
+
+**App mobile:**
+
 ### 5.4.4. Applications User Flow Diagrams
 
+**App web:**
+
+**App mobile:**
+
 ## 5.5. Applications Prototyping
+
+**App web:**
+
+**App mobile:**
 
 # Capítulo VI: Product Implementation, Validation & Deployment
 
