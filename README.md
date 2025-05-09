@@ -3157,6 +3157,58 @@ Crop Monitoring & Field Data Management database diagram:
 </p>
 
 
+# Capítulo V: Solution UI/UX Design
+
+## 5.1. Style Guidelines
+
+### 5.1.1. General Style Guidelines
+### 5.1.2. Web, Mobile and IoT Style Guidelines
+
+## 5.2. Information Architecture
+
+### 5.2.1. Organization Systems
+### 5.2.2. Labeling Systems
+### 5.2.3. SEO Tags and Meta Tags
+### 5.2.4. Searching Systems
+### 5.2.5. Navigation Systems
+
+## 5.3. Landing Page UI Design
+
+### 5.3.1. Landing Page Wireframe
+### 5.3.2. Landing Page Mock-up
+
+## 5.4. Applications UX/UI Design
+
+### 5.4.1. Applications Wireframes
+### 5.4.2. Applications Wireflow Diagrams
+### 5.4.3. Applications Mock-ups
+### 5.4.4. Applications User Flow Diagrams
+
+## 5.5. Applications Prototyping
+
+# Capítulo VI: Product Implementation, Validation & Deployment
+
+## 6.1. Software Configuration Management
+
+### 6.1.1. Software Development Environment Configuration
+### 6.1.2. Source Code Management
+### 6.1.3. Source Code Style Guide & Conventions
+### 6.1.4. Software Deployment Configuration
+
+## 6.2. Landing Page, Services & Applications Implementation
+
+### 6.2.1. Sprint 1
+
+#### 6.2.1.1. Sprint Planning 1
+#### 6.2.1.2. Aspect Leaders and Collaborators
+#### 6.2.1.3. Sprint Backlog 1
+#### 6.2.1.4. Development Evidence for Sprint Review
+#### 6.2.1.5. Testing Suite Evidence for Sprint Review
+#### 6.2.1.6. Execution Evidence for Sprint Review
+#### 6.2.1.7. Services Documentation Evidence for Sprint Review
+#### 6.2.1.8. Software Deployment Evidence for Sprint Review
+#### 6.2.1.9. Team Collaboration Insights during Sprint
+
 # Conclusiones
 
 <br>
