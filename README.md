@@ -3159,11 +3159,16 @@ Crop Monitoring & Field Data Management database diagram:
 
 # Capítulo V: Solution UI/UX Design
 
+
+
+## 5.1. Style Guidelines
+
 <div align="justify">
     Una guía de estilo es un documento que establece principios y lineamientos visuales, estructurales y de redacción para garantizar coherencia y uniformidad en el diseño y desarrollo de productos digitales o materiales comunicativos. A continuación, se presentan las especificaciones aplicadas en la estructura del proyecto.
 </div>
 
-## 5.1. Style Guidelines
+
+### 5.1.1. General Style Guidelines
 
 **Overview:**
 <div align="justify">
@@ -3206,16 +3211,104 @@ Crop Monitoring & Field Data Management database diagram:
 ![Artefacto creado en Canva](Resources/Chapter%2005/General%20Styles/Colors.png) 
 
 
-### 5.1.1. General Style Guidelines
 ### 5.1.2. Web, Mobile and IoT Style Guidelines
+
+**Web App:**
+
+**Mobile App**
+
 
 ## 5.2. Information Architecture
 
+<div align="justify">
+    En esta sección se describe la estructura organizacional del software, detallando cómo se agrupan y presentan los contenidos y funcionalidades según los diferentes segmentos de usuarios. Asimismo, se abordarán los elementos clave de navegación que facilitan una interacción fluida y eficiente dentro de la plataforma.
+</div>
+
 ### 5.2.1. Organization Systems
+
+<div align="justify">
+    En NutriControl, el sistema de organización está diseñado para facilitar la gestión eficiente de los campos agrícolas y los cultivos, ayudando a los usuarios a tomar decisiones informadas con un enfoque claro en la optimización de recursos. La organización de la información se basa en los siguientes componentes clave:
+</div>
+
+<br>
+
+<div align="justify">
+
+* ***Gestión de campos agrícolas y cultivos:***
+NutriControl permite a los productores gestionar sus campos agrícolas de forma sencilla y eficiente. Cada campo se presenta como una tarjeta visual con información clave como la ubicación, los cultivos activos y el estado del campo (ej. riego necesario, fertilización). Además, la plataforma permite a los usuarios agregar, editar y eliminar campos y cultivos con facilidad.
+  
+* ***Jerarquización de la información agrícola:***
+La interfaz organiza la información jerárquicamente, comenzando con los campos agrícolas generales y luego permitiendo la navegación a los cultivos específicos dentro de esos campos. Los usuarios pueden ver de un vistazo los cultivos más importantes y su estado, priorizando las tareas que requieren atención inmediata (como el riego o la fertilización).
+
+* ***Filtros y búsqueda por cultivos:***
+Los usuarios pueden filtrar campos y cultivos por diferentes criterios, como el tipo de cultivo, el estado de salud o las tareas pendientes. Esto permite que los productores encuentren rápidamente lo que necesitan y optimicen la gestión de sus recursos sin tener que navegar por pantallas complejas.
+
+</div>
+
+<br>
+
 ### 5.2.2. Labeling Systems
+
+<div align="justify">
+    El sistema de etiquetado de NutriControl está enfocado en proporcionar claridad y coherencia para facilitar la interacción con la plataforma. Utilizamos etiquetas tanto visuales como textuales para representar de manera eficiente los diferentes tipos de información agrícola y técnica. Este sistema facilita a los usuarios identificar rápidamente las acciones y recursos relevantes para sus cultivos.
+</div>
+
+<br>
+
+<div align="justify">
+
+* ***Etiquetas en campos y cultivos:***
+Cada campo y cultivo está etiquetado con su nombre, tipo y estado (por ejemplo, "Cultivo de maíz - Necesita riego"), lo que permite a los usuarios visualizar rápidamente la información clave sin tener que abrir cada sección individual.
+
+* ***Iconos de estado de los cultivos:***
+Se utilizan iconos visuales para representar el estado de las tareas (como un ícono de gota para indicar riego o un icono de hoja para fertilización). Estos iconos se ubican estratégicamente junto a cada tarea para que los usuarios puedan identificar las necesidades de sus cultivos de un solo vistazo.
+
+* ***Categorías de cultivos y tareas:***
+Los cultivos y las tareas relacionadas (riego, fertilización, monitoreo IoT) están organizados en categorías específicas. Estas categorías permiten a los usuarios navegar por las tareas según su tipo, lo que simplifica la toma de decisiones.
+
+</div>
+
+<br>
+
 ### 5.2.3. SEO Tags and Meta Tags
 ### 5.2.4. Searching Systems
+
+<div align="justify"> 
+    En NutriControl, el sistema de búsqueda es esencial para permitir a los usuarios encontrar rápidamente la información necesaria sobre sus cultivos, campos agrícolas y dispositivos IoT. La plataforma está diseñada para facilitar la búsqueda y mejorar la eficiencia de los productores en su gestión diaria. 
+</div> 
+
+<br> 
+
+<div align="justify">
+	
+***Características clave:***
+    * **Búsqueda por cultivo y campo agrícola:**
+        Los usuarios pueden buscar cultivos por nombre, tipo, o estado. Además, pueden buscar campos agrícolas según ubicación o recursos disponibles.
+    * **Búsqueda por tareas pendientes:**
+        Los usuarios pueden buscar tareas pendientes como el riego o la fertilización, filtradas por cultivos o campos agrícolas.
+    * **Filtros avanzados:**
+        Los filtros avanzados permiten a los usuarios afinar la búsqueda según criterios como el tipo de cultivo, la fecha de última tarea, o el nivel de prioridad de las tareas.
+    * **Resultados relevantes:**
+        El sistema de búsqueda presenta los resultados de manera jerárquica y clara, mostrando las tareas pendientes y el estado de los cultivos y campos agrícolas, facilitando el acceso directo a la información más relevante.
+</div> 
+
+<br> 
+
 ### 5.2.5. Navigation Systems
+
+<div align="justify"> 
+    El sistema de navegación de NutriControl está diseñado para guiar a los usuarios de manera eficiente a través de las diferentes funcionalidades de la plataforma. El objetivo es garantizar que los usuarios puedan gestionar sus campos y cultivos sin esfuerzo y con una experiencia de usuario fluida. 
+</div> 
+
+<br> 
+
+<div align="justify">
+	
+* ***Barra de navegación superior:***
+La barra de navegación principal agrupa las funciones clave de NutriControl, como la gestión de campos, la visualización de cultivos, el acceso a dispositivos IoT y la configuración de alertas. Cada ícono es intuitivo, facilitando la navegación entre las 		secciones.
+* ***Navegación por niveles:***
+NutriControl implementa una navegación jerárquica en la que los usuarios comienzan por ver una visión general de sus campos y luego pueden profundizar en los cultivos y las tareas asociadas. La plataforma permite que los usuarios naveguen entre diferentes niveles de información sin perderse.
+</div>
 
 ## 5.3. Landing Page UI Design
 
