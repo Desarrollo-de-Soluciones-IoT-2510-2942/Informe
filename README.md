@@ -3192,7 +3192,7 @@ Crop Monitoring & Field Data Management database diagram:
 </div>
 <br>
 
-![Artefacto creado en Canva](Chapter%2005/General%20Styles/Fonts.png) 
+![Artefacto creado en Canva](Resources/Chapter%2005/General%20Styles/Fonts.png) 
 
 <br>
 
