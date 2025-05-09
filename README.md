@@ -3586,50 +3586,50 @@ chore: Tareas de mantenimiento
         * **kebab-case**: para nombres de archivos, clases en HTML/CSS.
         * **UPPER_SNAKE_CASE**: para constantes.
 
-* **Evitar**: abreviaciones y nombres no descriptivos.
+    * **Evitar**: abreviaciones y nombres no descriptivos.
 
 
 2. **Mobile App (Kotlin con Android Studio)**
 
-* **Guide**: [Kotlin Style Guide](https://kotlinlang.org/docs/coding-conventions.html)
+    * **Guide**: [Kotlin Style Guide](https://kotlinlang.org/docs/coding-conventions.html)
 
-* **Convenciones:**
-    * Uso de **camelCase** para variables y funciones.
-    * Las clases deben usar **PascalCase**.
-    * Se debe evitar el uso de **var** innecesario; en su lugar, usar **val** cuando sea posible.
-    * Preferir **apply** y **let** para operaciones de extensión.
-    * Preferir las funciones de extensión sobre clases con métodos largos.
+    * **Convenciones:**
+        * Uso de **camelCase** para variables y funciones.
+        * Las clases deben usar **PascalCase**.
+        * Se debe evitar el uso de **var** innecesario; en su lugar, usar **val** cuando sea posible.
+        * Preferir **apply** y **let** para operaciones de extensión.
+        * Preferir las funciones de extensión sobre clases con métodos largos.
 
 
 3. **Frontend (Vue.js)**
 
-* **Guide**: [Vue 3 Style Guide](https://vuejs.org/style-guide/)
+    * **Guide**: [Vue 3 Style Guide](https://vuejs.org/style-guide/)
 
-* **Convenciones:**
-    * Los componentes deben estar en **PascalCase**.
-    * Propiedades y eventos: **camelCase** en script, **kebab-case** en templates.
-    * Los nombres de los archivos de componente deben ser **kebab-case.vue**.
+    * **Convenciones:**
+        * Los componentes deben estar en **PascalCase**.
+        * Propiedades y eventos: **camelCase** en script, **kebab-case** en templates.
+        * Los nombres de los archivos de componente deben ser **kebab-case.vue**.
 
 
 4. **Backend (C# con ASP.NET Core)**
 
-* **Guide**: [Microsoft C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+    * **Guide**: [Microsoft C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
 
-* **Convenciones:**
-    * Clases, métodos y propiedades deben usar **PascalCase**.
-    * Las variables locales y parámetros deben usar **camelCase**.
-    * Se debe emplear **async/await** para las operaciones asíncronas.
-    * Uso de **DI** (Dependency Injection) y evitar **"magic strings"**.
+    * **Convenciones:**
+        * Clases, métodos y propiedades deben usar **PascalCase**.
+        * Las variables locales y parámetros deben usar **camelCase**.
+        * Se debe emplear **async/await** para las operaciones asíncronas.
+        * Uso de **DI** (Dependency Injection) y evitar **"magic strings"**.
 
 
 5. **Gherkin (Archivos .feature)**
 
-* **Guide**: [Gherkin Conventions](https://cucumber.io/docs/gherkin/reference/)
+    * **Guide**: [Gherkin Conventions](https://cucumber.io/docs/gherkin/reference/)
 
-* **Convenciones:**
-    * Nombres de archivo en **snake_case.feature**.
-    * Uso de palabras clave como **Feature**, **Scenario**, **Given**, **When**, **Then**, **And**.
-    * Enfocar los escenarios en el comportamiento y no en detalles de implementación.
+    * **Convenciones:**
+        * Nombres de archivo en **snake_case.feature**.
+        * Uso de palabras clave como **Feature**, **Scenario**, **Given**, **When**, **Then**, **And**.
+        * Enfocar los escenarios en el comportamiento y no en detalles de implementación.
 
 </div> 
 
