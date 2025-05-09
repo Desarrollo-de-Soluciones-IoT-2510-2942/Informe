@@ -146,10 +146,12 @@
         - [4.1.1.2. Domain Message Flows Modeling](#4112-domain-message-flows-modeling)
         - [4.1.1.3. Bounded Context Canvases](#4113-bounded-context-canvases)
     - [4.1.2. Context Mapping](#412-context-mapping)
-    - [4.1.3. Software Architecture](#413-software-architecture)        
-        - [4.1.3.1. Software Architecture Context Level Diagrams](#4131-software-architecture-context-level-diagrams)
-        - [4.1.3.2. Software Architecture Container Level Diagrams](#4132-software-architecture-container-level-diagrams)
-        - [4.1.3.3. Software Architecture Components Level Diagrams](#4133-software-architecture-components-level-diagrams)
+    - [4.1.3. Software Architecture](#413-software-architecture)
+        - [4.1.3.1. Software Architecture System Landscape Diagram](#4131-software-architecture-system-landscape-diagram)        
+        - [4.1.3.2. Software Architecture Context Level Diagrams](#4132-software-architecture-context-level-diagrams)
+        - [4.1.3.3. Software Architecture Container Level Diagrams](#4133-software-architecture-container-level-diagrams)
+        - [4.1.3.4. Software Architecture Deployment Diagrams](#4134-software-architecture-deployment-diagrams)
+        - [4.1.3.5. Software Architecture Components Level Diagrams](#4135-software-architecture-components-level-diagrams)
 - [4.2. Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design)
     - [4.2.1. Bounded Context: <Bounded Context Name>](#421-bounded-context-1)
         - [4.2.1.1. Domain Layer](#4211-domain-layer)
@@ -2780,15 +2782,23 @@ Los bounded contexts diseñados muestran relaciones claras:
 
 A continuación, se visualizarán los diagramas C4.
 
-#### 4.1.3.1. *Software Architecture Context Level Diagrams*
+#### 4.1.3.1. *Software Architecture System Landscape Diagram*
+
+![Artefacto hecho en Structurizr](Resources/Chapter%2004/software-architecture/Software%20Architecture%20System%20Landscape%20Diagrams.png)
+
+#### 4.1.3.2. *Software Architecture Context Level Diagrams*
 
 ![Artefacto hecho en Structurizr](Resources/Chapter%2004/software-architecture/Software%20Architecture%20Context%20Diagram.png)
 
-#### 4.1.3.2. *Software Architecture Container Level Diagrams*
+#### 4.1.3.3. *Software Architecture Container Level Diagrams*
 
 ![Artefacto hecho en Structurizr](Resources/Chapter%2004/software-architecture/Software%20Architecture%20Container%20Diagrams.png)
 
-#### 4.1.3.3. *Software Architecture Components Level Diagrams*
+#### 4.1.3.4. *Software Architecture Deployment Diagrams*
+
+![Artefacto hecho en Structurizr](Resources/Chapter%2004/software-architecture/Software%20Architecture%20Deployment%20Diagrams.png)
+
+#### 4.1.3.5. *Software Architecture Components Level Diagrams*
 
 ![Artefacto hecho en Structurizr](Resources/Chapter%2004/software-architecture/Software%20Architecture%20Components%20Diagrams.png)
 
