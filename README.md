@@ -8,7 +8,7 @@
     <strong>1ASI0572 - Desarrollo de Soluciones IoT - 2942</strong><br>  
     <br>
     <strong>Profesor: Marco Antonio León Baca</strong><br>
-    <br> <strong>INFORME DE TB1</strong> 
+    <br> <strong>INFORME DE TP</strong> 
 </p>
 <p align="center">
     <strong>Startup: AgroSense</strong><br>
