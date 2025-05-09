@@ -3282,14 +3282,14 @@ Los cultivos y las tareas relacionadas (riego, fertilización, monitoreo IoT) es
 <div align="justify">
 	
 ***Características clave:***
-    * **Búsqueda por cultivo y campo agrícola:**
-        Los usuarios pueden buscar cultivos por nombre, tipo, o estado. Además, pueden buscar campos agrícolas según ubicación o recursos disponibles.
-    * **Búsqueda por tareas pendientes:**
-        Los usuarios pueden buscar tareas pendientes como el riego o la fertilización, filtradas por cultivos o campos agrícolas.
-    * **Filtros avanzados:**
-        Los filtros avanzados permiten a los usuarios afinar la búsqueda según criterios como el tipo de cultivo, la fecha de última tarea, o el nivel de prioridad de las tareas.
-    * **Resultados relevantes:**
-        El sistema de búsqueda presenta los resultados de manera jerárquica y clara, mostrando las tareas pendientes y el estado de los cultivos y campos agrícolas, facilitando el acceso directo a la información más relevante.
+* **Búsqueda por cultivo y campo agrícola:**
+  Los usuarios pueden buscar cultivos por nombre, tipo, o estado. Además, pueden buscar campos agrícolas según ubicación o recursos disponibles.
+* **Búsqueda por tareas pendientes:**
+  Los usuarios pueden buscar tareas pendientes como el riego o la fertilización, filtradas por cultivos o campos agrícolas.
+* **Filtros avanzados:**
+  Los filtros avanzados permiten a los usuarios afinar la búsqueda según criterios como el tipo de cultivo, la fecha de última tarea, o el nivel de prioridad de las tareas.
+* **Resultados relevantes:**
+  El sistema de búsqueda presenta los resultados de manera jerárquica y clara, mostrando las tareas pendientes y el estado de los cultivos y campos agrícolas, facilitando el acceso directo a la información más relevante.
 </div> 
 
 <br> 
@@ -3309,6 +3309,8 @@ La barra de navegación principal agrupa las funciones clave de NutriControl, co
 * ***Navegación por niveles:***
 NutriControl implementa una navegación jerárquica en la que los usuarios comienzan por ver una visión general de sus campos y luego pueden profundizar en los cultivos y las tareas asociadas. La plataforma permite que los usuarios naveguen entre diferentes niveles de información sin perderse.
 </div>
+
+<br>
 
 ## 5.3. Landing Page UI Design
 
