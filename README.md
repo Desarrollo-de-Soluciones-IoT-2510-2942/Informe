@@ -3578,13 +3578,13 @@ chore: Tareas de mantenimiento
 	
 1. **General Naming & Language Convention**
 
-* **Language**: Inglés
+    * **Language**: Inglés
 
-* **Case Styles:**
-    * **camelCase**: para variables, funciones y métodos.
-    * **PascalCase**: para clases, interfaces y componentes.
-    * **kebab-case**: para nombres de archivos, clases en HTML/CSS.
-    * **UPPER_SNAKE_CASE**: para constantes.
+    * **Case Styles:**
+        * **camelCase**: para variables, funciones y métodos.
+        * **PascalCase**: para clases, interfaces y componentes.
+        * **kebab-case**: para nombres de archivos, clases en HTML/CSS.
+        * **UPPER_SNAKE_CASE**: para constantes.
 
 * **Evitar**: abreviaciones y nombres no descriptivos.
 
