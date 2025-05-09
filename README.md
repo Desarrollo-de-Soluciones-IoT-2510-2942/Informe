@@ -3409,39 +3409,173 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 
 **App web:**
 
+<br>
+
 **App mobile:**
+
+<br>
 
 ### 5.4.2. Applications Wireflow Diagrams
 
 **App web:**
 
+<br>
+
 **App mobile:**
+
+<br>
 
 ### 5.4.3. Applications Mock-ups
 
 **App web:**
 
+<br>
+
 **App mobile:**
+
+<br>
 
 ### 5.4.4. Applications User Flow Diagrams
 
 **App web:**
 
+<br>
+
 **App mobile:**
+
+<br>
 
 ## 5.5. Applications Prototyping
 
 **App web:**
 
+<br>
+
 **App mobile:**
+
+<br>
 
 # Capítulo VI: Product Implementation, Validation & Deployment
 
 ## 6.1. Software Configuration Management
 
+<div align="justify">
+En esta sección, se describirán las herramientas, convenciones, referencias y configuraciones utilizadas durante el desarrollo del proyecto, las cuales jugaron un papel crucial en asegurar la coherencia y calidad en cada fase del trabajo realizado.
+</div>
+
+<br>
+
 ### 6.1.1. Software Development Environment Configuration
+
+<div align="justify">
+n esta sección, se detallan las herramientas de software utilizadas por el equipo de desarrollo para garantizar un flujo de trabajo eficiente y colaborativo durante el ciclo de vida del proyecto NutriControl. La configuración abarca la gestión de proyectos, diseño de interfaces, desarrollo de software, y documentación técnica, entre otras. 
+<br><br>
+
+**Project Management**
+
+* **Microsoft 365:** [https://www.office.com/](https://www.office.com/)  
+Se utilizó para la creación y edición colaborativa de documentos, gestión de tareas y establecimiento de plazos, con el fin de organizar eficientemente las actividades del equipo de trabajo.
+
+* **Google Meet:** [https://meet.google.com/](https://meet.google.com/)  
+Plataforma de videoconferencias para reuniones del equipo, permitiendo la coordinación en tiempo real de las actividades y la resolución de dudas durante el proceso de desarrollo.
+
+**Requirements Management**
+
+* **Trello:** [https://trello.com/](https://trello.com/)  
+Usado para gestionar el Product Backlog y organizar las tareas del proyecto, asignando prioridades y visualizando el progreso en tiempo real.
+
+**Product UX/UI Design**
+
+* **UXPressia:** [https://uxpressia.com/](https://uxpressia.com/)  
+Herramienta utilizada para la creación de mapas de empatía, mapas de viaje del usuario, y mapas de impacto, permitiendo al equipo comprender mejor las necesidades de los usuarios y su interacción con la plataforma.
+
+
+* **Figma:** [https://www.figma.com/](https://www.figma.com/)  
+Figma se utilizó para diseñar los wireframes, prototipos de interfaces y el diseño gráfico tanto para la versión web como para la app móvil, asegurando consistencia y usabilidad en la experiencia de usuario.
+
+* **Canva:** [https://www.canva.com/](https://www.canva.com/)  
+Se usó para crear gráficos visuales y elementos de diseño como banners, iconos, y otros materiales visuales que se incorporan a la interfaz del proyecto, mejorando la apariencia visual y la experiencia del usuario.
+
+**Software Development**
+
+* **Backend - .NET Framework (ASP.NET Core):**  
+El backend del proyecto se desarrolla utilizando .NET con ASP.NET Core para crear una API RESTful, garantizando la comunicación eficiente y segura entre la app móvil y el servidor.
+
+* **Mobile App - Android Studio (Kotlin):**  
+La app móvil de NutriControl se desarrolla utilizando Android Studio con Kotlin, ofreciendo una experiencia de usuario fluida y optimizando el rendimiento en dispositivos Android.
+
+**Software Documentation**
+
+* **Vertabelo:** [https://vertabelo.com/](https://vertabelo.com/)  
+Herramienta para el diseño colaborativo de bases de datos, utilizada en la creación de la base de datos para el backend del proyecto.
+
+
+* **LucidChart:** [https://lucid.app/](https://lucid.app/)  
+Se empleó para la creación de diagramas de clases UML, diagramas de flujo y wireflows que representan los procesos de la aplicación.
+
+
+* **Structurizr:** [https://www.structurizr.com/](https://www.structurizr.com/)  
+Utilizado para crear diagramas C4 que documentan la arquitectura del software de manera visual y estructurada.
+
+</div>
+
+<br>
+
 ### 6.1.2. Source Code Management
+
+<div align="justify"> El equipo utilizó **GitHub** como plataforma principal para la gestión de código fuente. Aquí se registra todas las modificaciones realizadas al código durante el ciclo de vida del proyecto, permitiendo una colaboración eficiente entre los miembros del equipo. Se implementó **GitFlow** como flujo de trabajo para gestionar las ramas y controlar los cambios. </div> 
+<br>
+
+<div align="justify">
+
+* **Organization:** [Ver Organización](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942)  
+* **Backend Repository:** [Ver Backend Repository](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/BackEnd)
+* **Report Repository:** [Ver Report Repository](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Informe)
+* **Frontend Repository:** [Ver Frontend Repository](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/FrontEnd)
+* **LandingPage Repository:** [Ver LandingPage Repository](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/LandingPage)
+* **MobileApp Repository:** [Ver MobileApp Repository](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/MobileApp)
+
+**GitFlow Workflow:**
+
+* **main:** Rama principal que contiene la versión estable del proyecto lista para producción.
+* **develop:** Rama donde se integran las nuevas características y mejoras del proyecto.
+
+**Ramas auxiliares:**
+
+* **feature:** Para desarrollar nuevas funcionalidades. Una vez completada, se fusiona con develop.
+* **release:** Para preparar nuevas versiones. Se realizan pruebas finales y correcciones antes de fusionar con main y develop.
+* **hotfix:** Para solucionar errores críticos en producción. Se fusiona directamente con main y luego con develop.
+
+**Convenciones de nomenclatura:**
+
+* **Ramas feature:** feature/nombre-de-la-caracteristica
+* **Ramas release:** release/vX.Y.Z
+* **Ramas hotfix:** hotfix/descripcion-del-error
+
+**Convenciones de commit:**
+
+Se utiliza el estándar de Conventional Commits para los mensajes de los commits, siguiendo la estructura:
+
+```
+feat: Nueva característica
+fix: Corrección de error
+docs: Documentación actualizada
+chore: Tareas de mantenimiento
+
+```
+
+ </div> 
+ 
+ <br>
+
 ### 6.1.3. Source Code Style Guide & Conventions
+
+<div align="justify"> El equipo de desarrollo sigue una serie de convenciones de estilo y buenas prácticas para el código fuente con el fin de garantizar la coherencia, legibilidad y calidad del código. Estas convenciones son aplicables a los diferentes lenguajes utilizados en el proyecto, como Kotlin para la app móvil, Vue.js para el frontend y C# para el backend. </div> 
+
+<br>
+
+
+
 ### 6.1.4. Software Deployment Configuration
 
 ## 6.2. Landing Page, Services & Applications Implementation
