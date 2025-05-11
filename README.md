@@ -3397,6 +3397,20 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 
 ### 5.3.1. Landing Page Wireframe
 
+<br>
+
+![Artefacto creado en Figma](Resources/Chapter%2005/Landing%20Wireframe/Landing%20Wireframe-1.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/Landing%20Wireframe/Landing%20Wireframe-2.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/Landing%20Wireframe/Landing%20Wireframe-3.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/Landing%20Wireframe/Landing%20Wireframe-4.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/Landing%20Wireframe/Landing%20Wireframe-5.png) 
+
+<br>
+
 ### 5.3.2. Landing Page Mock-up
 
 **Web version:**
@@ -3416,6 +3430,20 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 <br>
 
 **Mobile version:**
+
+<br>
+
+<p align="center">
+  <img src="Resources/Chapter%2005/Landing%20Mobile/LandingMobile-1.png" alt="Recurso creado en Figma">
+  <img src="Resources/Chapter%2005/Landing%20Mobile/LandingMobile-2.png" alt="Recurso creado en Figma">
+  <img src="Resources/Chapter%2005/Landing%20Mobile/LandingMobile-3.png" alt="Recurso creado en Figma">
+  <img src="Resources/Chapter%2005/Landing%20Mobile/LandingMobile-4.png" alt="Recurso creado en Figma">
+  <img src="Resources/Chapter%2005/Landing%20Mobile/LandingMobile-5.png" alt="Recurso creado en Figma">
+  <img src="Resources/Chapter%2005/Landing%20Mobile/LandingMobile-6.png" alt="Recurso creado en Figma">
+  <img src="Resources/Chapter%2005/Landing%20Mobile/LandingMobile-7.png" alt="Recurso creado en Figma">
+
+</p>
+<br>
 
 ## 5.4. Applications UX/UI Design
 
@@ -3445,6 +3473,18 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 
 <br>
 
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/MockupWeb-1.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/MockupWeb-2.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/MockupWeb-3.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/MockupWeb-4.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/MockupWeb-5.png) 
+
+<br>
+
 **App mobile:**
 
 <br>
@@ -3462,6 +3502,12 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 ## 5.5. Applications Prototyping
 
 **App web:**
+
+<br>
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/AppWeb-Prototyping.png) 
+
+**Enlace del Prototipo en Figma:** https://www.figma.com/proto/MIRlv95a1V86XWsO6RXOQe/NutriControl?node-id=240-4103&p=f&t=Qd7XjsL1SgQypE6c-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=240%3A4103
 
 <br>
 
