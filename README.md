@@ -3229,6 +3229,33 @@ Crop Monitoring & Field Data Management database diagram:
 
 **Web App:**
 
+<br>
+
+<div align="justify">
+
+* **Espaciado:**
+La versión web de NutriControl presenta un espaciado lateral más equilibrado para pantallas grandes, en comparación con la densidad típica de una app móvil. Esto permite una mejor distribución visual del contenido, sin sobrecargar al usuario, y facilita la lectura en monitores de escritorio.
+
+![Artefacto creado en Canva](Resources/Chapter%2005/Applications%20Styles/WebSpacing.png) 
+
+<br>
+
+* **Buttons:**
+Los botones en la versión web de NutriControl utilizan mayor padding y bordes más suaves, a diferencia de la versión móvil donde prima el aprovechamiento del espacio. Este diseño mejora la accesibilidad desde dispositivos como laptops o tablets y refuerza la jerarquía visual en cada vista.
+
+![Artefacto creado en Canva](Resources/Chapter%2005/Applications%20Styles/WebButtonsIcons.png) 
+
+<br>
+
+* **Navigation Bar:**
+La versión web de NutriControl incorpora una barra de navegación fija y más visible en la parte superior, a diferencia de la versión móvil donde el menú suele ser desplegable o inferior. Esto permite un acceso más directo a las secciones clave del sistema y mejora la navegación en pantallas amplias.
+
+![Artefacto creado en Canva](Resources/Chapter%2005/Applications%20Styles/WebNavigationBar.png) 
+
+</div>
+
+<br>
+
 **Mobile App**
 
 
