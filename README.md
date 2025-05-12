@@ -3552,7 +3552,7 @@ En esta sección, se describirán las herramientas, convenciones, referencias y 
 ### 6.1.1. Software Development Environment Configuration
 
 <div align="justify">
-n esta sección, se detallan las herramientas de software utilizadas por el equipo de desarrollo para garantizar un flujo de trabajo eficiente y colaborativo durante el ciclo de vida del proyecto NutriControl. La configuración abarca la gestión de proyectos, diseño de interfaces, desarrollo de software, y documentación técnica, entre otras. 
+En esta sección, se detallan las herramientas de software utilizadas por el equipo de desarrollo para garantizar un flujo de trabajo eficiente y colaborativo durante el ciclo de vida del proyecto NutriControl. La configuración abarca la gestión de proyectos, diseño de interfaces, desarrollo de software, y documentación técnica, entre otras. 
 <br><br>
 
 **Project Management**
@@ -3607,7 +3607,7 @@ Utilizado para crear diagramas C4 que documentan la arquitectura del software de
 
 ### 6.1.2. Source Code Management
 
-<div align="justify"> El equipo utilizó **GitHub** como plataforma principal para la gestión de código fuente. Aquí se registra todas las modificaciones realizadas al código durante el ciclo de vida del proyecto, permitiendo una colaboración eficiente entre los miembros del equipo. Se implementó GitFlow como flujo de trabajo para gestionar las ramas y controlar los cambios. </div> 
+<div align="justify"> El equipo utilizó GitHub como plataforma principal para la gestión de código fuente. Aquí se registra todas las modificaciones realizadas al código durante el ciclo de vida del proyecto, permitiendo una colaboración eficiente entre los miembros del equipo. Se implementó GitFlow como flujo de trabajo para gestionar las ramas y controlar los cambios. </div> 
 <br>
 
 <div align="justify">
