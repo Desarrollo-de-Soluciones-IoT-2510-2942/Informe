@@ -3477,6 +3477,20 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 
 <br>
 
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/Wireframe-1.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/Wireframe-2.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/Wireframe-3.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/Wireframe-4.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/Wireframe-5.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/Wireframe-6.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/Wireframe-7.png) 
+
 **App mobile:**
 
 <br>
@@ -3486,6 +3500,18 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 **App web:**
 
 <br>
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/WireFlow-1.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/WireFlow-2.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/WireFlow-3.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/WireFlow-4.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/WireFlow-5.png) 
+
+
 
 **App mobile:**
 
@@ -3518,6 +3544,16 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 **App web:**
 
 <br>
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/UserFlow-1.png)
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/UserFlow-2.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/UserFlow-3.png)
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/UserFlow-4.png)
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/UserFlow-5.png)
 
 **App mobile:**
 
