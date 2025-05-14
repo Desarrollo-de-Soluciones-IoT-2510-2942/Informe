@@ -2812,11 +2812,21 @@ Incluye desde el registro inicial de sensores hasta su asignación a zonas espec
 Este contexto es crítico, ya que asegura que los dispositivos estén correctamente configurados para recopilar datos de calidad, permitiendo que el resto de las operaciones del sistema funcionen de manera eficiente.
 
 #### 4.2.1.1. *Domain Layer*
-Esta capa define las entidades y objetos de valor fundamentales relacionados con la instalación y organización de sensores agrícolas. Aquí se representa la lógica central del negocio, encargada de modelar cómo se administran los dispositivos y las áreas de cultivo.
-- **Sensor**: La entidad principal que representa los dispositivos responsables de recopilar datos como temperatura, humedad o niveles de luz dentro del campo. Cada sensor tiene atributos como tipo, estado operativo y ubicación.
-- **Sensor Configuration**: Esta entidad gestiona los parámetros específicos de cada sensor, como la calibración y la frecuencia de medición. Asegura que el sensor esté configurado adecuadamente para su entorno.
-- **Sensor Zone**: Un objeto de valor que agrupa múltiples sensores dentro de la misma área geográfica, permitiendo la gestión colectiva de dispositivos en una zona específica del campo.
-- **Automated Irrigation System**: Esta entidad gestiona la conexión entre los sensores y los sistemas de riego. Recibe datos de los sensores y los utiliza para tomar decisiones automáticas sobre cuándo activar el riego, basándose en las condiciones del suelo.
+En esta capa se encuentran las entidades y objetos de valor esenciales que definen la configuración y operación de sensores y sistemas embebidos en campo.
+
+- **Sensor:** Representa un dispositivo físico instalado en el terreno agrícola. Incluye atributos como tipo (temperatura, humedad, pH), ubicación geográfica, estado operativo (activo, inactivo, con error), identificador único y su asociación con una zona específica del cultivo.
+
+- **SensorConfiguration:** Objeto de valor que contiene los parámetros operativos de un sensor, tales como frecuencia de lectura, umbrales de activación, unidades de medida y reglas de calibración. Es inmutable y puede ser aplicado individualmente o por zonas.
+
+- **SensorZone:** Objeto de valor que agrupa sensores dentro de una misma área geográfica o unidad de cultivo. Facilita la aplicación de configuraciones colectivas y permite el monitoreo organizado por zonas productivas.
+
+- **SensorTelemetry:** Entidad que representa una lectura tomada por un sensor en un momento específico. Incluye datos como el valor registrado, unidad, marca temporal, origen de la lectura y su estado de integridad.
+
+- **EmbeddedSystem:** Entidad que representa el sistema embebido instalado en campo, responsable de ejecutar lógica autónoma y decisiones locales. Está conectado a uno o varios sensores, y sus responsabilidades incluyen: aplicar configuraciones, programar lecturas, ejecutar diagnósticos, almacenar telemetría localmente y emitir alertas ante condiciones anómalas. Sus atributos incluyen identificador único, versión de firmware, estado operativo, sensores conectados, modo de operación y capacidad de almacenamiento.
+
+- **EdgeDatabase:** Objeto de valor que encapsula el almacenamiento local persistente dentro del sistema embebido. Permite guardar configuraciones, telemetría, eventos de error y estados del sistema en contextos donde no hay conexión con la nube. Es fundamental para garantizar resiliencia y sincronización posterior.
+
+- **EdgeAPI:** Objeto de valor que representa el punto de comunicación expuesto por el sistema embebido para recibir configuraciones, reportar estado y enviar telemetría hacia el sistema central o recibir comandos remotos. Define contratos claros de entrada/salida para la interoperabilidad con el backend o plataformas intermedias.
 
 
 #### 4.2.1.2. *Interface Layer*
