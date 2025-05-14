@@ -3495,6 +3495,16 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 
 <br>
 
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireframe-1.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireframe-2.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireframe-3.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireframe-4.png) 
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireframe-5.png) 
+
 ### 5.4.2. Applications Wireflow Diagrams
 
 **App web:**
@@ -3516,6 +3526,17 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 **App mobile:**
 
 <br>
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireflow-1.png)
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireflow-2.png)
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireflow-3.png)
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireflow-4.png)
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireflow-5.png)
+
 
 ### 5.4.3. Applications Mock-ups
 
@@ -3558,6 +3579,16 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 **App mobile:**
 
 <br>
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobUserFlow-1.png)
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobUserFlow-2.png)
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobUserFlow-3.png)
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobUserFlow-4.png)
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobUserFlow-5.png)
 
 ## 5.5. Applications Prototyping
 
