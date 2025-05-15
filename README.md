@@ -3248,11 +3248,14 @@ La versión web de NutriControl presenta un espaciado lateral más equilibrado p
 
 ![Artefacto creado en Canva](Resources/Chapter%2005/Applications%20Styles/WebSpacing.png) 
 
+<br>
 
 * **Buttons:**
 Los botones en la versión web de NutriControl utilizan mayor padding y bordes más suaves, a diferencia de la versión móvil donde prima el aprovechamiento del espacio. Este diseño mejora la accesibilidad desde dispositivos como laptops o tablets y refuerza la jerarquía visual en cada vista.
 
 ![Artefacto creado en Canva](Resources/Chapter%2005/Applications%20Styles/WebButtonsIcons.png) 
+
+<br>
 
 * **Navigation Bar:**
 La versión web de NutriControl incorpora una barra de navegación fija y más visible en la parte superior, a diferencia de la versión móvil donde el menú suele ser desplegable o inferior. Esto permite un acceso más directo a las secciones clave del sistema y mejora la navegación en pantallas amplias.
@@ -3274,11 +3277,15 @@ La versión móvil de NutriControl utiliza un espaciado lateral más reducido pa
 
 ![Artefacto creado en Canva](Resources/Chapter%2005/Applications%20Styles/MobileSpacing.png) 
 
+<br>
 
 * **Buttons:**
 En la versión móvil de NutriControl, los botones presentan un tamaño más compacto y un padding menor, priorizando el aprovechamiento eficiente del espacio en pantalla. Aun así, mantienen una superficie táctil adecuada para facilitar su uso con el dedo, asegurando una experiencia accesible e intuitiva desde dispositivos móviles.
 
 ![Artefacto creado en Canva](Resources/Chapter%2005/Applications%20Styles/MobileButtons.png) 
+
+<br>
+
 
 * **Navigation Bar:**
 La versión móvil de NutriControl posiciona la barra de navegación en la parte inferior de la pantalla, siguiendo los patrones de uso más comunes en aplicaciones móviles. Este diseño permite un acceso más cómodo con el pulgar a las secciones principales del sistema, mejorando la usabilidad en movimiento.
