@@ -3265,6 +3265,29 @@ La versión web de NutriControl incorpora una barra de navegación fija y más v
 
 **Mobile App**
 
+<br>
+
+<div align="justify">
+
+* **Espaciado:**
+La versión móvil de NutriControl utiliza un espaciado lateral más reducido para optimizar el uso del espacio disponible en pantallas pequeñas. Esta densidad permite mostrar más información de forma compacta sin comprometer la legibilidad, lo que resulta clave para una experiencia ágil desde smartphones.
+
+![Artefacto creado en Canva](Resources/Chapter%2005/Applications%20Styles/MobileSpacing.png) 
+
+
+* **Buttons:**
+En la versión móvil de NutriControl, los botones presentan un tamaño más compacto y un padding menor, priorizando el aprovechamiento eficiente del espacio en pantalla. Aun así, mantienen una superficie táctil adecuada para facilitar su uso con el dedo, asegurando una experiencia accesible e intuitiva desde dispositivos móviles.
+
+![Artefacto creado en Canva](Resources/Chapter%2005/Applications%20Styles/MobileButtons.png) 
+
+* **Navigation Bar:**
+La versión móvil de NutriControl posiciona la barra de navegación en la parte inferior de la pantalla, siguiendo los patrones de uso más comunes en aplicaciones móviles. Este diseño permite un acceso más cómodo con el pulgar a las secciones principales del sistema, mejorando la usabilidad en movimiento.
+
+![Artefacto creado en Canva](Resources/Chapter%2005/Applications%20Styles/MobileNavigationBar.png) 
+
+</div>
+
+<br>
 
 ## 5.2. Information Architecture
 
@@ -3604,6 +3627,16 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 
 <br>
 
+<p align="center">
+  <img src="Resources/Chapter%2005/App%20Mobile/MockupMobile-1.png" alt="Recurso creado en Figma">
+  <img src="Resources/Chapter%2005/App%20Mobile/MockupMobile-2.png" alt="Recurso creado en Figma">
+  <img src="Resources/Chapter%2005/App%20Mobile/MockupMobile-3.png" alt="Recurso creado en Figma">
+  <img src="Resources/Chapter%2005/App%20Mobile/MockupMobile-4.png" alt="Recurso creado en Figma">
+
+</p>
+
+<br>
+
 ### 5.4.4. Applications User Flow Diagrams
 
 **App web:**
@@ -3678,6 +3711,12 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 <br>
 
 **App mobile:**
+
+<br>
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/AppMobilePrototyping.png) 
+
+**Enlace del Prototipo en Figma:** https://www.figma.com/proto/MIRlv95a1V86XWsO6RXOQe/NutriControl?node-id=406-1315&p=f&t=Dd7zkpzAU7ir00AW-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A3&starting-point-node-id=406%3A1315
 
 <br>
 
