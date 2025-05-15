@@ -3969,9 +3969,9 @@ Enlace del Sprint Backlog 1 en Trello: [Enlace de Trello](https://trello.com/inv
 
 #### 6.2.1.5. Testing Suite Evidence for Sprint Review
 
-Url del repostiorio deonde se trabajron los acceptance test:
+Url del repositorio donde se trabajaron los acceptance test:
 
-[Repositorio](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Acceptance-Test)
+[https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Acceptance-Test](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Acceptance-Test)
 
 |Repository|Branch|Commit id|Name|Date|
 | :- | :- | :- | :- | :- |
@@ -3985,10 +3985,17 @@ Url del repostiorio deonde se trabajron los acceptance test:
 |AcceptanceTest|main|1a73276|NutriControl08.feature|15/05/25|
 |AcceptanceTest|main|1a73276|NutriControl09.feature|15/05/25|
 
-
 #### 6.2.1.6. Execution Evidence for Sprint Review
 
+Ejecución de la Landing Page: Ejecución de la Landing Page donde se muestra el menu inicial deployada:
+[https://nutricontrol.netlify.app/](https://nutricontrol.netlify.app/)
 
+![LandingPage](Resources/Chapter%2006/Execution%20Evidence/LandingEvidence.png)
+
+
+Ejecución del BackEnd: Ejecución del BackEnd donde se muestra el endpoint de crops :
+
+![BackEnd](Resources/Chapter%2006/Execution%20Evidence/BackendEvidence.png)
 
 #### 6.2.1.7. Services Documentation Evidence for Sprint Review
 
