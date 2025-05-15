@@ -3451,17 +3451,16 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 
 <br>
 
-![Artefacto creado en Figma](Resources/Chapter%2005/Landing%20Mockup/Landing-Mockup-Web-01.png) 
+<p align="center">
+  <img src="Resources/Chapter%2005/Landing%20Mockup/Landing-Mockup-Web-01.png" alt="Recurso creado en Figma">
+  <img src="Resources/Chapter%2005/Landing%20Mockup/Landing-Mockup-Web-02.png" alt="Recurso creado en Figma">
+  <img src="Resources/Chapter%2005/Landing%20Mockup/Landing-Mockup-Web-03.png" alt="Recurso creado en Figma">
+  <img src="Resources/Chapter%2005/Landing%20Mockup/Landing-Mockup-Web-04.png" alt="Recurso creado en Figma">
+  <img src="Resources/Chapter%2005/Landing%20Mockup/Landing-Mockup-Web-05.png" alt="Recurso creado en Figma">
 
-![Artefacto creado en Figma](Resources/Chapter%2005/Landing%20Mockup/Landing-Mockup-Web-02.png) 
-
-![Artefacto creado en Figma](Resources/Chapter%2005/Landing%20Mockup/Landing-Mockup-Web-03.png) 
-
-![Artefacto creado en Figma](Resources/Chapter%2005/Landing%20Mockup/Landing-Mockup-Web-04.png) 
-
-![Artefacto creado en Figma](Resources/Chapter%2005/Landing%20Mockup/Landing-Mockup-Web-05.png) 
-
+</p>
 <br>
+
 
 **Mobile version:**
 
@@ -3621,7 +3620,10 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 
 **User Flow 3:** Como productor, quiero poder recibir notificaciones, para estar al tanto de alertas importantes relacionados con mis campos.
 
-![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/UserFlow-3.png)
+<p align="center">
+  <img src="Resources/Chapter%2005/App%20Web/UserFlow-3.png" alt="Recurso creado en Figma">
+</p>
+
 
 **User Flow 4:** Como productor, quiero poder eliminar campos agrícolas registrados, para mantener organizada la información de mis terrenos en la aplicación.
 
@@ -3637,7 +3639,9 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 
 **User Flow 6:** Como productor, quiero poder acceder a análisis predictivos sobre mis campos agrícolas, para anticiparme a posibles problemas.
 
-![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobUserFlow-1.png)
+<p align="center">
+  <img src="Resources/Chapter%2005/App%20Mobile/MobUserFlow-1.png" alt="Recurso creado en Figma">
+</p>
 
 
 **User Flow 7:** Como usuario, quiero poder modificar con libertad mis datos, para mantener mi información actualizada.
