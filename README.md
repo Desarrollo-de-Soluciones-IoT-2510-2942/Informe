@@ -3957,7 +3957,15 @@ Enlace del Sprint Backlog 1 en Trello: [Enlace de Trello](https://trello.com/inv
 
 #### 6.2.1.4. Development Evidence for Sprint Review
 
-
+|Repository|Branch|Commit id|Commit Message|Date|
+| :- | :- | :- | :- | :- |
+|LandingPage|main|edae1da|Initial Commit|08/05/25|
+|LandingPage|main|7e37bcd|Fix vcs.xml|08/05/25|
+|BackEnd|main|00930fa|Feat: Backend initialization|12/05/25|
+|BackEnd|main|0e82c90|Feat: Change crops logic inconsistency|13/05/25|
+|BackEnd|main|df87569|Feat: refined the business rules and implemented the user update|14/05/25|
+|BackEnd|main|667b0df|Feat: Added tests and recommendations|14/05/25|
+|BackEnd|main|cfeb2b0|Feat: Improve the comments in the controllers.|15/05/25|
 
 #### 6.2.1.5. Testing Suite Evidence for Sprint Review
 
