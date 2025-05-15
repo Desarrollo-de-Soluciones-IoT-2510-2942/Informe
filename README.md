@@ -3912,15 +3912,67 @@ chore: Tareas de mantenimiento
 
 ### 6.2.1. Sprint 1
 
+<div align = "justify">
+
+Para este primer Sprint hemos definido como objetivo desarrollar las principales pantallas de nuestra aplicación web y la primera versión de nuesro backend.
+
+</div>
+
 #### 6.2.1.1. Sprint Planning 1
+
+| **Sprint #** | Sprint 1 |
+| --- | --- |
+| **Sprint Planning Background** |     |
+| Date | 2025-05-02 |
+| Time | 11:00 AM |
+| Location | Virtual por Zoom |
+| Prepared By | Valle Zuta, Abel Andrés. |
+| Attendees (to planning meeting) | Valle Zuta, Abel Andrés /<br><br>Antonio Salazar, Jhan Clinton /<br><br>Criollo de la Cruz, Diego Anderson /<br><br>Espinoza Saenz, Christian Renato /<br><br>Morales Calderón, Hernan Emilio. |
+| **Sprint Goal & User Stories** |     |
+| Sprint 1 Goal | Desplegar la primera versión de nuestra Landin Page, Aplicación Web y Backend. |
+
 #### 6.2.1.2. Aspect Leaders and Collaborators
+
+
+
 #### 6.2.1.3. Sprint Backlog 1
+
+<div align = "center">
+
+![Sprint Backlog 1](Resources/Chapter%2006/Sprint1/SprintBacklog1.PNG)
+
+</div>
+
+<div align = "justify">
+
+Enlace del Sprint Backlog 1 en Trello: [Enlace de Trello](https://trello.com/invite/b/682596cb926b0ea5b4959682/ATTI1a6311d0e5926161ec522d79907615b849B734EC/nutricontrol-agrosense)
+
+</div>
+
+
 #### 6.2.1.4. Development Evidence for Sprint Review
+
+
+
 #### 6.2.1.5. Testing Suite Evidence for Sprint Review
+
+
+
 #### 6.2.1.6. Execution Evidence for Sprint Review
+
+
+
 #### 6.2.1.7. Services Documentation Evidence for Sprint Review
+
+
+
 #### 6.2.1.8. Software Deployment Evidence for Sprint Review
+
+
+
 #### 6.2.1.9. Team Collaboration Insights during Sprint
+
+
 
 # Conclusiones
 
