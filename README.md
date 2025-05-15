@@ -3521,13 +3521,23 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 
 <br>
 
+**Wireflow 1:** Como productor, quiero poder registrar campos agrícolas para llevar un control claro de mis terrenos.
+
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/WireFlow-1.png) 
+
+**Wireflow 2:** Como productor, quiero poder visualizar recomendaciones para cada uno de mis campos agrícolas, para tomar decisiones informadas sobre el manejo del cultivo.
 
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/WireFlow-2.png) 
 
+**Wireflow 3:** Como productor, quiero poder acceder a análisis predictivos sobre mis campos agrícolas, para anticiparme a posibles problemas.
+
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/WireFlow-3.png) 
 
+**Wireflow 4:** Como productor, quiero poder adquirir una membresía, para acceder a funciones avanzadas que mejoren la gestión.
+
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/WireFlow-4.png) 
+
+**Wireflow 5:** Como productor, quiero poder agregar un dispositivo IoT nuevo a un cultivo, para mejorar el monitoreo y control.
 
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/WireFlow-5.png) 
 
@@ -3537,13 +3547,23 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 
 <br>
 
+**Wireflow 6:** Como productor, quiero poder ver datos generales de mis campos para poder tomar decisiones informadas sobre el manejo agrícola.
+
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireflow-1.png)
+
+**Wireflow 7:** Como productor, quiero poder agregar un nuevo cultivo en uno de mis campos para gestionar su seguimiento y planificación desde la aplicación.
 
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireflow-2.png)
 
+**Wireflow 8:** Como productor, quiero poder eliminar un dispositivo IoT vinculado a mi campo para mantener actualizada la infraestructura.
+
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireflow-3.png)
 
+**Wireflow 9:** Como productor rural, quiero poder recibir notificaciones, para estar al tanto de alertas importantes relacionados con mis campos.
+
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireflow-4.png)
+
+**Wireflow 10:** Como productor, quiero poder eliminar campos agrícolas registrados, para mantener organizada la información de mis terrenos en la aplicación.
 
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireflow-5.png)
 
@@ -3576,13 +3596,23 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 
 <br>
 
+**User Flow 1:** Como usuario, quiero poder modificar con libertad mis datos, para mantener mi información actualizada .
+
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/UserFlow-1.png)
 
-![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/UserFlow-2.png) 
+**User Flow 2:** Como productor, quiero poder añadir nuevos cultivos registrados, para facilitar la gestión agrícola.
+
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/UserFlow-2.png)
+
+**User Flow 3:** Como productor, quiero poder recibir notificaciones, para estar al tanto de alertas importantes relacionados con mis campos.
 
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/UserFlow-3.png)
 
+**User Flow 4:** Como productor, quiero poder eliminar campos agrícolas registrados, para mantener organizada la información de mis terrenos en la aplicación.
+
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/UserFlow-4.png)
+
+**User Flow 5:** Como productor, quiero poder modificar un campo agrícola existente, para corregir o actualizar la información del terreno según sea necesario.
 
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/UserFlow-5.png)
 
@@ -3590,13 +3620,27 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 
 <br>
 
+**User Flow 6:** Como productor, quiero poder acceder a análisis predictivos sobre mis campos agrícolas, para anticiparme a posibles problemas.
+
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobUserFlow-1.png)
+
+
+**User Flow 7:** Como usuario, quiero poder modificar con libertad mis datos, para mantener mi información actualizada.
 
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobUserFlow-2.png)
 
+
+**User Flow 8:** Como productor rural, quiero poder adquirir una membresía, para acceder a funciones avanzadas que mejoren la gestión.
+
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobUserFlow-3.png)
 
+
+**User Flow 9:** Como productor, quiero poder eliminar un cultivo registrado en mi campo para mantener actualizada la información y evitar confusiones en la gestión agrícola.
+
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobUserFlow-4.png)
+
+
+**User Flow 10:** Como productor, quiero poder registrar campos agrícolas para llevar un control claro de mis terrenos.
 
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobUserFlow-5.png)
 
