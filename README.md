@@ -3927,13 +3927,18 @@ Para este primer Sprint hemos definido como objetivo desarrollar las principales
 | Time | 11:00 AM |
 | Location | Virtual por Zoom |
 | Prepared By | Valle Zuta, Abel Andrés. |
-| Attendees (to planning meeting) | Valle Zuta, Abel Andrés /<br><br>Antonio Salazar, Jhan Clinton /<br><br>Criollo de la Cruz, Diego Anderson /<br><br>Espinoza Saenz, Christian Renato /<br><br>Morales Calderón, Hernan Emilio. |
-| **Sprint Goal & User Stories** |     |
-| Sprint 1 Goal | Desplegar la primera versión de nuestra Landin Page, Aplicación Web y Backend. |
+| Attendees (to planning meeting) | Valle Zuta, Abel Andrés <br><br>Antonio Salazar, Jhan Clinton <br><br>Criollo de la Cruz, Diego Anderson <br><br>Espinoza Saenz, Christian Renato <br><br>Morales Calderón, Hernan Emilio. |
+| **Sprint 1 Goal** | Desplegar la primera versión de nuestra Landin Page, Aplicación Web y Backend. |
 
 #### 6.2.1.2. Aspect Leaders and Collaborators
 
-
+| Team Member<br><br>(Last Name, First Name) | GitHub Username | Frontend Development<br><br>Leader (L) / Collaborator (C) | Backend Development<br><br>Leader (L) / Collaborator (C) | Report Development<br><br>Leader (L) / Collaborator (C) |
+| --- | --- | --- | --- | --- |
+| Antonio Salazar, Jhan Clinton | asjhanc | C   | C   | C   |
+| Criollo de la Cruz, Diego Anderson | diegooo01 | C   | C   | C   |
+| Espinoza Saenz, Christian Renato | ChristoTF32 | C   | L   | C   |
+| Morales Calderón, Hernan Emilio | hernancit0 | C   | C   | C   |
+| Valle Zuta, Abel Andrés | AndresVZ23 | L   | C   | L   |
 
 #### 6.2.1.3. Sprint Backlog 1
 
