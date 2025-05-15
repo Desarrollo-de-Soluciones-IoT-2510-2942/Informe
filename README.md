@@ -3505,15 +3505,16 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 
 <br>
 
-![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireframe-1.png) 
+<p align="center">
+  <img src="Resources/Chapter%2005/App%20Mobile/MobWireframe-1.png" alt="Recurso creado en Figma">
+  <img src="Resources/Chapter%2005/App%20Mobile/MobWireframe-2.png" alt="Recurso creado en Figma">
+  <img src="Resources/Chapter%2005/App%20Mobile/MobWireframe-3.png" alt="Recurso creado en Figma">
+  <img src="Resources/Chapter%2005/App%20Mobile/MobWireframe-4.png" alt="Recurso creado en Figma">
+  <img src="Resources/Chapter%2005/App%20Mobile/MobWireframe-5.png" alt="Recurso creado en Figma">
 
-![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireframe-2.png) 
+</p>
+<br>
 
-![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireframe-3.png) 
-
-![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireframe-4.png) 
-
-![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireframe-5.png) 
 
 ### 5.4.2. Applications Wireflow Diagrams
 
@@ -3549,23 +3550,37 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 
 **Wireflow 6:** Como productor, quiero poder ver datos generales de mis campos para poder tomar decisiones informadas sobre el manejo agrícola.
 
-![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireflow-1.png)
+<p align="center">
+  <img src="Resources/Chapter%2005/App%20Mobile/MobWireflow-1.png" alt="Recurso creado en Figma">
+</p>
 
 **Wireflow 7:** Como productor, quiero poder agregar un nuevo cultivo en uno de mis campos para gestionar su seguimiento y planificación desde la aplicación.
 
-![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireflow-2.png)
+<p align="center">
+  <img src="Resources/Chapter%2005/App%20Mobile/MobWireflow-2.png" alt="Recurso creado en Figma">
+</p>
+
 
 **Wireflow 8:** Como productor, quiero poder eliminar un dispositivo IoT vinculado a mi campo para mantener actualizada la infraestructura.
 
-![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireflow-3.png)
+<p align="center">
+  <img src="Resources/Chapter%2005/App%20Mobile/MobWireflow-3.png" alt="Recurso creado en Figma">
+</p>
+
 
 **Wireflow 9:** Como productor rural, quiero poder recibir notificaciones, para estar al tanto de alertas importantes relacionados con mis campos.
 
-![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireflow-4.png)
+<p align="center">
+  <img src="Resources/Chapter%2005/App%20Mobile/MobWireflow-4.png" alt="Recurso creado en Figma">
+</p>
+
 
 **Wireflow 10:** Como productor, quiero poder eliminar campos agrícolas registrados, para mantener organizada la información de mis terrenos en la aplicación.
 
-![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobWireflow-5.png)
+<p align="center">
+  <img src="Resources/Chapter%2005/App%20Mobile/MobWireflow-5.png" alt="Recurso creado en Figma">
+</p>
+
 
 
 ### 5.4.3. Applications Mock-ups
@@ -3596,7 +3611,7 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 
 <br>
 
-**User Flow 1:** Como usuario, quiero poder modificar con libertad mis datos, para mantener mi información actualizada .
+**User Flow 1:** Como usuario, quiero poder modificar con libertad mis datos, para mantener mi información actualizada.
 
 ![Artefacto creado en Figma](Resources/Chapter%2005/App%20Web/UserFlow-1.png)
 
@@ -3642,7 +3657,9 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 
 **User Flow 10:** Como productor, quiero poder registrar campos agrícolas para llevar un control claro de mis terrenos.
 
-![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobUserFlow-5.png)
+![Artefacto creado en Figma](Resources/Chapter%2005/App%20Mobile/MobUserflow-5.png)
+
+<br>
 
 ## 5.5. Applications Prototyping
 
