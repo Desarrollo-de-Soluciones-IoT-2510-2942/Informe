@@ -3969,6 +3969,21 @@ Enlace del Sprint Backlog 1 en Trello: [Enlace de Trello](https://trello.com/inv
 
 #### 6.2.1.5. Testing Suite Evidence for Sprint Review
 
+Url del repostiorio deonde se trabajron los acceptance test:
+
+[Repositorio](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Acceptance-Test)
+
+|Repository|Branch|Commit id|Name|Date|
+| :- | :- | :- | :- | :- |
+|AcceptanceTest|main|1a73276|NutriControl01.feature|15/05/25|
+|AcceptanceTest|main|1a73276|NutriControl02.feature|15/05/25|
+|AcceptanceTest|main|1a73276|NutriControl03.feature|15/05/25|
+|AcceptanceTest|main|1a73276|NutriControl04.feature|15/05/25|
+|AcceptanceTest|main|1a73276|NutriControl05.feature|15/05/25|
+|AcceptanceTest|main|1a73276|NutriControl06.feature|15/05/25|
+|AcceptanceTest|main|1a73276|NutriControl07.feature|15/05/25|
+|AcceptanceTest|main|1a73276|NutriControl08.feature|15/05/25|
+|AcceptanceTest|main|1a73276|NutriControl09.feature|15/05/25|
 
 
 #### 6.2.1.6. Execution Evidence for Sprint Review
