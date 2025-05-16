@@ -4004,11 +4004,12 @@ El despliegue de la solución **NutriControl** se realiza mediante una arquitect
 ### Proceso de Despliegue
 
 1. **Landing Page**: Despliegue continuo en Netlify, utilizando GitHub Actions para automatizar actualizaciones desde el repositorio.
-2. **Backend**:
+2. **Web Application**: Despliegue continuo en Netlify, utilizando GitHub Actions para automatizar actualizaciones desde el repositorio.
+3. **Backend**:
    - Construcción y ejecución local del proyecto ASP.NET Core para pruebas.
    - Uso de contenedores Docker para facilitar despliegues y portabilidad.
    - Comunicación con la base de datos MongoDB Atlas configurada con credenciales seguras.
-3. Planificación de despliegues futuros para integrar dispositivos IoT y escalar el backend a infraestructura en la nube con monitorización y balanceo de carga.
+4. Planificación de despliegues futuros para integrar dispositivos IoT y escalar el backend a infraestructura en la nube con monitorización y balanceo de carga.
 
 ## 6.2. Landing Page, Services & Applications Implementation
 
