@@ -3975,33 +3975,29 @@ chore: Tareas de mantenimiento
 
 
 ### 6.1.4. Software Deployment Configuration
-El despliegue de la solución **NutriControl** se realiza en una arquitectura híbrida, integrando sensores IoT en campo con un backend en la nube. La plataforma permite la recolección, procesamiento y visualización de datos en tiempo real para la gestión de cultivos.
+El despliegue de la solución **NutriControl** se realiza mediante una arquitectura distribuida que integra una landing page pública y un backend en desarrollo alojados en la nube, mientras que los dispositivos IoT están en fase inicial de integración.
 
 ### Entorno de Despliegue
 
-- **Sistemas embebidos en campo**:
-  - Gestión de sensores de pH, humedad y nutrientes.
-  - Recopilación y transmisión de datos de telemetría hacia el sistema central.
-  - Comunicación mediante APIs o protocolos de transmisión definidos.
+- **Landing Page**:
+  - La landing page está desplegada en la plataforma Netlify, permitiendo el acceso público desde [https://nutricontrol.netlify.app/](https://nutricontrol.netlify.app/).
+  - Esta página presenta el menú inicial y la información básica sobre el producto.
 
-- **Backend (AWS EC2 - C# con ASP.NET Core)**:
-  - Desarrollo de una API RESTful en C# con ASP.NET Core.
-  - Base de datos en la nube mediante MongoDB Atlas.
-  - Despliegue en instancias EC2 utilizando contenedores Docker y Docker Compose.
-  - Configuración de proxy inverso con nginx.
-  - Variables de entorno para gestión de credenciales y configuración segura.
+- **Backend**:
+  - El backend está desarrollado en C# con ASP.NET Core, implementando una API RESTful para gestionar datos agrícolas.
+  - El despliegue inicial se realiza en un entorno local o en la nube mediante Docker, con planes para migrar a instancias cloud (AWS, Azure) en iteraciones futuras.
+  - El backend utiliza MongoDB Atlas para la gestión de la base de datos en la nube.
+  - Se emplean variables de entorno para la configuración segura de conexiones y credenciales.
+  - Se sigue la guía de estilo Microsoft C# Coding Conventions, asegurando código mantenible y escalable.
 
-### Guías de Estilo
+### Proceso de Despliegue
 
-- **Backend (ASP.NET Core - C#)**:
-  - Guía: Microsoft C# Coding Conventions.
-  - PascalCase para clases, métodos y propiedades.
-  - camelCase para variables locales y parámetros.
-  - Uso de async/await para operaciones asíncronas.
-  - Dependency Injection (DI) y eliminación de “magic strings”.
-
-- **Frontend y App Móvil**:
-  - Guías de estilo según Vue 3 Style Guide y Kotlin Style Guide respectivamente (mencionadas pero sin despliegue en esta Sprint).
+1. **Landing Page**: Despliegue continuo en Netlify, utilizando GitHub Actions para automatizar actualizaciones desde el repositorio.
+2. **Backend**:
+   - Construcción y ejecución local del proyecto ASP.NET Core para pruebas.
+   - Uso de contenedores Docker para facilitar despliegues y portabilidad.
+   - Comunicación con la base de datos MongoDB Atlas configurada con credenciales seguras.
+3. Planificación de despliegues futuros para integrar dispositivos IoT y escalar el backend a infraestructura en la nube con monitorización y balanceo de carga.
 
 ## 6.2. Landing Page, Services & Applications Implementation
 
