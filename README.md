@@ -3982,6 +3982,17 @@ El despliegue de la solución **NutriControl** se realiza mediante una arquitect
 - **Landing Page**:
   - La landing page está desplegada en la plataforma Netlify, permitiendo el acceso público desde [https://nutricontrol.netlify.app/](https://nutricontrol.netlify.app/).
   - Esta página presenta el menú inicial y la información básica sobre el producto.
+   
+![Landing Deployment](Resources/Chapter%2006/Deployment/deployment-landing-evidence.png)
+
+<br>
+
+- **Frontend Web Application**:
+  - La Web Application está desplegada en la plataforma Netlify, permitiendo el acceso público desde [https://nutricontrol-agro.netlify.app/](https://nutricontrol-agro.netlify.app/).
+  - Esta página presenta el prototipo y maquetación base de nuestra solución.
+
+![Frontend Deployment](Resources/Chapter%2006/Deployment/deployment-frontend-evidence.png)
+<br>
 
 - **Backend**:
   - El backend está desarrollado en C# con ASP.NET Core, implementando una API RESTful para gestionar datos agrícolas.
@@ -4083,6 +4094,14 @@ Ejecución de la Landing Page: Ejecución de la Landing Page donde se muestra el
 
 ![LandingPage](Resources/Chapter%2006/Execution%20Evidence/LandingEvidence.png)
 
+<br>
+
+Ejecución del Frontend: Ejecución del Web Application donde se muestra el menu inicial deployado:
+[https://nutricontrol-agro.netlify.app/](https://nutricontrol-agro.netlify.app/)
+
+![Frontend](Resources/Chapter%2006/Deployment/frontend-evidence-deployed.png)
+
+<br>
 
 Ejecución del BackEnd: Ejecución del BackEnd donde se muestra el endpoint de crops :
 
@@ -4164,6 +4183,10 @@ Durante la Sprint Review se presentó la evidencia de la ejecución de los compo
 - **Ejecución de la Landing Page**:
   - La landing page está desplegada y accesible públicamente en: [https://nutricontrol.netlify.app/](https://nutricontrol.netlify.app/)
   - Se mostró la navegación del menú inicial y la interfaz básica funcional desde el navegador web.
+ 
+- **Ejecución de la Web Application**:
+  - La Web Application está desplegada y accesible públicamente en: [https://nutricontrol-agro.netlify.app/](https://nutricontrol-agro.netlify.app/)
+  - Se mostró la navegación del Login/Register y vista Home con todas las funcionalidades disponibles de nuestra Web Application.
 
 - **Ejecución del Backend**:
   - Se mostró la ejecución del backend en desarrollo, con un endpoint básico `crops` accesible y funcional.
