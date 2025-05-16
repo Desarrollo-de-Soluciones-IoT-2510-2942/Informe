@@ -118,7 +118,7 @@
 ### [Registro de versiones del informe](#registro-de-versiones-del-informe)
 ### [Project Report Collaboration Insights](#project-report-collaboration-insights)
 ### [Contenido](#contenido)
-### [Student Outcome](#student-outcome)
+### [Student Outcome](#student-outcome-1)
 ### [Capítulo I: Introducción](#capítulo-i-introducción-1)
 - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
@@ -255,7 +255,7 @@ del ABET – EAC - Student Outcome 5.
       colaborar estrechamente con mis compañeros, asegurando que todas las perspectivas fueran tomadas en cuenta. Considero que, a través de estas acciones, apoyé al equipo en su liderazgo conjunto, ayudando a que todos los miembros trabajaran de manera coordinada 
       para alcanzar los objetivos propuestos.
       <br><br>
-      <strong>Tp1:</strong><br><br>
+      <strong>TP1:</strong><br><br>
       Antonio Salazar, Jhan Clinton<br>
       En el TP1, colaboré activamente en la sistematización de aprendizajes del sprint, consolidando reflexiones conjuntas del equipo en el apartado 6.2.1.9 Team Collaboration Insights during Sprint. Participé también en la documentación de los servicios como parte de las revisiones del sprint.Estas acciones fortalecieron la colaboración continua y permitieron detectar oportunidades de mejora en tiempo real.
       <br><br>
@@ -265,7 +265,7 @@ del ABET – EAC - Student Outcome 5.
       organización y claridad del trabajo en grupo, sino también apoyar a mis compañeros identificando y solucionando problemas técnicos de manera colaborativa. Considero que, a través de estas acciones, contribuí al liderazgo conjunto del equipo, asegurando que 
       avanzáramos de forma coordinada hacia los objetivos planteados.
       <br><br>
-      <strong>Tp1:</strong><br><br>
+      <strong>TP1:</strong><br><br>
       Criollo de la Cruz, Diego Anderson<br>
       En el TP1, asumí responsabilidades clave relacionadas con el control de versiones del código fuente y con la configuración de despliegue del software, lo cual permitió mantener una línea de desarrollo ordenada y replicable para todos los integrantes. También apoyé en la estructuración del Sprint Backlog  y en la validación del sistema a través de pruebas funcionales. Considero que estas actividades fueron cruciales para garantizar la calidad del producto y la estabilidad del ciclo de desarrollo.
       <br><br>
@@ -273,7 +273,7 @@ del ABET – EAC - Student Outcome 5.
       Espinoza Saenz, Christian Renato<br>
       Durante la implementación del software como propuesta de solución para la problemática encontrada, asumí la responsabilidad de coordinar las sesiones de trabajo y distribuir tareas equitativamente. Esto incluyó planificar reuniones, moderar discusiones y asegurar que cada integrante tuviera claridad sobre sus objetivos. Esta experiencia no solo fortaleció el liderazgo compartido, sino que también promovió un ambiente de trabajo inclusivo y eficiente.
       <br><br>
-      <strong>Tp1:</strong><br><br>
+      <strong>TP1:</strong><br><br>
        Espinoza Saenz, Christian Renato<br>
       Durante el TP1, me concentré en el desarrollo del backend, asegurando su avance técnico conforme a los requerimientos funcionales. Participé directamente en la generación de evidencia del desarrollo  y en la configuración de la ejecución del sistema para revisión de sprint . Asimismo, trabajé en la guía de estilos y convenciones para el código fuente , promoviendo la coherencia en la escritura del código entre los integrantes. Estas tareas fortalecieron la arquitectura interna del sistema y facilitaron una integración eficiente con el frontend.
       <br><br>
@@ -281,7 +281,7 @@ del ABET – EAC - Student Outcome 5.
       Morales Calderón, Hernan Emilio<br>
       Durante este TB1, desempeñé un rol de liderazgo rotativo, donde alterné responsabilidades con mis compañeros para garantizar una toma de decisiones equitativa. Mi enfoque se centró en la gestión del tiempo y la priorización de tareas críticas, lo que permitió al equipo completar con éxito el primer alcance del proyecto dentro del plazo establecido, fomentando la confianza mutua y la colaboración.
       <br><br>
-      <strong>Tp1:</strong><br><br>
+      <strong>TP1:</strong><br><br>
        Morales Calderón, Hernan Emilio<br>
       Durante el TP1, desempeñé un rol de liderazgo rotativo, coordinando tareas clave en el avance del equipo. Estuve a cargo de facilitar la organización de responsabilidades por aspecto y de coordinar la entrega de evidencia de despliegue del software , asegurando que cada componente estuviera funcional y operativo. Asimismo, participé en la validación visual de la landing page, aportando a una presentación clara e intuitiva para los usuarios. Mi participación se centró en fomentar un flujo de trabajo ágil y bien distribuido.
       <br><br>
@@ -289,7 +289,7 @@ del ABET – EAC - Student Outcome 5.
       Valle Zuta, Abel Andrés<br>
       En la primera entrega del presente proyecto, lideré la organización de un cronograma semanal que permitió al equipo balancear sus responsabilidades. También proporcioné retroalimentación sobre avances individuales, promoviendo una dinámica de aprendizaje grupal y asegurando que el liderazgo se ejerciera de manera conjunta, enfocándonos siempre en cumplir los objetivos establecidos.
       <br><br>
-      <strong>Tp1:</strong><br><br>
+      <strong>TP1:</strong><br><br>
        Valle Zuta, Abel Andrés<br>
       Durante el desarrollo del TP1, participé activamente en la configuración del entorno de desarrollo  y en la construcción de la página del proyecto. Estas tareas iniciales fueron fundamentales para dar forma a la base técnica y visual del sistema. Además, colaboré en la planificación de las actividades del sprint  y en la elaboración de documentación de servicios, garantizando una visión clara del avance técnico. Mi participación permitió consolidar una base sólida y funcional para el desarrollo posterior del sistema.
     </td>
