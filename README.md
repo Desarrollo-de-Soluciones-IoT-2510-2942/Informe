@@ -4260,9 +4260,12 @@ En la siguiente imagen se logra apreciar que todos los integrantes del equipo ha
 + Repositorio GitHub de la Organización: [Ver Organización](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942)<br><br>
 + Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Informe)<br><br>
 + Repositorio GitHub del Backend: [Ver Repositorio](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/BackEnd)<br><br>
++ Repositorio GitHub de la Landing Page: [Ver Repositorio](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/LandingPage)<br><br>
 + Repositorio GitHub de la Aplicación Web: [Ver Repositorio](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/FrontEnd)<br><br>
 + Repositorio GitHub de la Aplicación Móvil: [Ver Repositorio](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/MobileApp)<br><br>
-+ Repositorio GitHub de la Landing Page: [Ver Repositorio](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/LandingPage)<br><br>
++ Landing Page: [Ver Landing Page](https://nutricontrol.netlify.app)<br><br>
++ Aplicación Web: [Ver Aplicación Web](https://nutricontrol-agro.netlify.app)<br><br>
+
 
 ## Needfinding Interviews
 
@@ -4282,3 +4285,13 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022102
 
 
 Enlace: [TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/ESxhm34RanRDtf_Jk1V6LKcByIap3iA1sJ-coejqHzlrLA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=1uicYK)
+
+
+## Video Exposición del TP1
+
+  <div align="center">
+    <img src="Resources/Annexes/expo-tp1.PNG">
+ </div>
+
+
+Enlace: [TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/ERL-4bh2Fg9Bj2yyvw48tBUBobb8ErAIgB5SFZoIgh0WFg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=d79h7a)
