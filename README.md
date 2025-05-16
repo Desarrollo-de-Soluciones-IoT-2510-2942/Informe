@@ -8,7 +8,7 @@
     <strong>1ASI0572 - Desarrollo de Soluciones IoT - 2942</strong><br>  
     <br>
     <strong>Profesor: Marco Antonio León Baca</strong><br>
-    <br> <strong>INFORME DE TP</strong> 
+    <br> <strong>INFORME DE TP1</strong> 
 </p>
 <p align="center">
     <strong>Startup: AgroSense</strong><br>
@@ -46,7 +46,7 @@
 </div>
 <br>
 <p align="center">
-    <strong>ABRIL 2025 </strong>
+    <strong>MAYO 2025 </strong>
 </p>
 <br>
 
@@ -93,6 +93,21 @@
   ![Insights](Resources/Chapter%2001/Insights/insights2.PNG)
 
 </div>
+
+**TP1:**
+
+<div align="center">
+
+  ![Insights](Resources/Chapter%2001/Insights/insights3.PNG)
+
+</div>
+
+<div align="center">
+
+  ![Insights](Resources/Chapter%2001/Insights/insights4.PNG)
+
+</div>
+
 
 </div>
 
@@ -4007,7 +4022,17 @@ Ejecución del BackEnd: Ejecución del BackEnd donde se muestra el endpoint de c
 
 #### 6.2.1.9. Team Collaboration Insights during Sprint
 
+<div align = "justify">
 
+En la siguiente imagen se logra apreciar que todos los integrantes del equipo han colaborado a cumplir con los objetivos establecidos del presente sprint.
+
+</div>
+
+<div align = "center">
+
+![Insights](Resources/Chapter%2006/Sprint1/InsightsSprint1.PNG)
+
+</div>
 
 # Conclusiones
 
