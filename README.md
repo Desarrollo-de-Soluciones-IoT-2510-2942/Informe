@@ -3563,7 +3563,6 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 ### 5.4.2. Applications Wireflow Diagrams
 
 **App web:**
-
 <br>
 
 **Wireflow 1:** Como productor, quiero poder registrar campos agrícolas para llevar un control claro de mis terrenos.
@@ -3589,7 +3588,6 @@ NutriControl implementa una navegación jerárquica en la que los usuarios comie
 
 
 **App mobile:**
-
 <br>
 
 **Wireflow 6:** Como productor, quiero poder ver datos generales de mis campos para poder tomar decisiones informadas sobre el manejo agrícola.
@@ -4013,6 +4011,70 @@ Ejecución del BackEnd: Ejecución del BackEnd donde se muestra el endpoint de c
 ![BackEnd](Resources/Chapter%2006/Execution%20Evidence/BackendEvidence.png)
 
 #### 6.2.1.7. Services Documentation Evidence for Sprint Review
+
+A continuación se presenta la lista completa de endpoints disponibles en la versión 1 de la API. Estos endpoints permiten interactuar con los distintos recursos del sistema, como usuarios, campos, cultivos, recomendaciones y suscripciones.
+
+# Endpoints de la API (v1)
+
+| **Endpoint**                                             | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
+|----------------------------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
+| `/api/v1/User/getall`                                   | GET           | Obtener usuarios                 | Obtiene todos los usuarios activos.                              |
+| `/api/v1/User/register`                                 | POST          | Registrar usuario                | Registra un nuevo usuario.                                       |
+| `/api/v1/User/login`                                    | POST          | Login usuario                    | Inicia sesión de usuario y devuelve un token JWT.                |
+| `/api/v1/User/{id}`                                     | PUT           | Actualizar usuario               | Actualiza un usuario existente por su ID.                        |
+| `/api/v1/User/{id}`                                     | DELETE        | Eliminar usuario                 | Elimina un usuario por su ID.                                    |
+
+---
+
+## Endpoints de Campos (`Field`)
+
+| **Endpoint**                                             | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
+|----------------------------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
+| `/api/Field`                                            | GET           | Obtener campos                   | Obtiene todos los campos activos.                                |
+| `/api/Field/{id}`                                       | GET           | Obtener campo por ID             | Obtiene un campo por su ID.                                      |
+| `/api/Field/name/{name}`                                | GET           | Obtener campo por nombre         | Obtiene un campo por su nombre.                                  |
+| `/api/Field/user/{userId}`                              | GET           | Obtener campos por usuario       | Obtiene los campos de un usuario específico.                     |
+| `/api/Field`                                            | POST          | Crear campo                      | Crea un nuevo campo para el usuario autenticado.                 |
+| `/api/Field/{id}`                                       | PUT           | Actualizar campo                 | Actualiza un campo existente por su ID.                          |
+| `/api/Field/{id}`                                       | DELETE        | Eliminar campo                   | Elimina un campo por su ID.                                      |
+
+---
+
+## Endpoints de Cultivos (`Crop`)
+
+| **Endpoint**                                             | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
+|----------------------------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
+| `/api/Crop`                                             | GET           | Obtener cultivos                 | Obtiene todos los cultivos activos.                              |
+| `/api/Crop/{id}`                                        | GET           | Obtener cultivo por ID           | Obtiene un cultivo por su ID.                                    |
+| `/api/Crop/field/{fieldId}`                             | GET           | Obtener cultivos por campo       | Obtiene los cultivos activos para un campo específico.           |
+| `/api/Crop`                                             | POST          | Crear cultivo                    | Crea un nuevo cultivo para un campo específico.                  |
+| `/api/Crop/{id}`                                        | PUT           | Actualizar cultivo               | Actualiza un cultivo existente por su ID.                        |
+| `/api/Crop/{id}`                                        | DELETE        | Eliminar cultivo                 | Elimina un cultivo por su ID.                                    |
+
+---
+
+## Endpoints de Recomendaciones (`Recommendation`)
+
+| **Endpoint**                                             | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
+|----------------------------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
+| `/api/Crop/recommendation/{id}`                         | GET           | Obtener recomendación por ID     | Obtiene una recomendación por su ID.                             |
+| `/api/Crop/{cropId}/recommendations`                    | GET           | Obtener recomendaciones          | Obtiene las recomendaciones activas para un cultivo específico.  |
+| `/api/Crop/{cropId}/recommendation`                     | POST          | Crear recomendación              | Crea una nueva recomendación para un cultivo específico.         |
+| `/api/Crop/recommendation/{id}`                         | PUT           | Actualizar recomendación         | Actualiza una recomendación existente por su ID.                 |
+| `/api/Crop/recommendation/{id}`                         | DELETE        | Eliminar recomendación           | Elimina una recomendación por su ID.                             |
+
+---
+
+## Endpoints de Suscripciones (`Subscription`)
+
+| **Endpoint**                                             | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
+|----------------------------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
+| `/api/Subscription`                                     | GET           | Obtener suscripciones            | Obtiene todas las suscripciones activas.                         |
+| `/api/Subscription/{id}`                                | GET           | Obtener suscripción por ID       | Obtiene una suscripción por su ID.                               |
+| `/api/Subscription/user/{userId}`                       | GET           | Obtener suscripción por usuario  | Obtiene la suscripción activa de un usuario específico.          |
+| `/api/Subscription`                                     | POST          | Crear suscripción                | Crea una nueva suscripción para el usuario autenticado.          |
+| `/api/Subscription/{id}`                                | PUT           | Actualizar suscripción           | Actualiza una suscripción existente por su ID.                   |
+| `/api/Subscription/{id}`                                | DELETE        | Eliminar suscripción             | Elimina una suscripción por su ID.                               |
 
 
 
