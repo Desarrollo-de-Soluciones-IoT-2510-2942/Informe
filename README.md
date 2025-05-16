@@ -4161,7 +4161,18 @@ A continuación se presenta la lista completa de endpoints disponibles en la ver
 
 
 #### 6.2.1.8. Software Deployment Evidence for Sprint Review
+Durante la Sprint Review se presentó la evidencia de la ejecución de los componentes desplegados de NutriControl, correspondientes a la Landing Page y el avance del Backend.
 
+### Evidencias Presentadas
+
+- **Ejecución de la Landing Page**:
+  - La landing page está desplegada y accesible públicamente en: [https://nutricontrol.netlify.app/](https://nutricontrol.netlify.app/)
+  - Se mostró la navegación del menú inicial y la interfaz básica funcional desde el navegador web.
+
+- **Ejecución del Backend**:
+  - Se mostró la ejecución del backend en desarrollo, con un endpoint básico `crops` accesible y funcional.
+  - Captura o demostración de la respuesta exitosa al consultar el endpoint `crops`, validando que la API está corriendo y disponible para recibir peticiones.
+  - Se presentó evidencia en consola de la ejecución del backend, confirmando que el servicio está activo.
 
 
 #### 6.2.1.9. Team Collaboration Insights during Sprint
