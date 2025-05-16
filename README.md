@@ -3975,6 +3975,33 @@ chore: Tareas de mantenimiento
 
 
 ### 6.1.4. Software Deployment Configuration
+El despliegue de la solución **NutriControl** se realiza en una arquitectura híbrida, integrando sensores IoT en campo con un backend en la nube. La plataforma permite la recolección, procesamiento y visualización de datos en tiempo real para la gestión de cultivos.
+
+### Entorno de Despliegue
+
+- **Sistemas embebidos en campo**:
+  - Gestión de sensores de pH, humedad y nutrientes.
+  - Recopilación y transmisión de datos de telemetría hacia el sistema central.
+  - Comunicación mediante APIs o protocolos de transmisión definidos.
+
+- **Backend (AWS EC2 - C# con ASP.NET Core)**:
+  - Desarrollo de una API RESTful en C# con ASP.NET Core.
+  - Base de datos en la nube mediante MongoDB Atlas.
+  - Despliegue en instancias EC2 utilizando contenedores Docker y Docker Compose.
+  - Configuración de proxy inverso con nginx.
+  - Variables de entorno para gestión de credenciales y configuración segura.
+
+### Guías de Estilo
+
+- **Backend (ASP.NET Core - C#)**:
+  - Guía: Microsoft C# Coding Conventions.
+  - PascalCase para clases, métodos y propiedades.
+  - camelCase para variables locales y parámetros.
+  - Uso de async/await para operaciones asíncronas.
+  - Dependency Injection (DI) y eliminación de “magic strings”.
+
+- **Frontend y App Móvil**:
+  - Guías de estilo según Vue 3 Style Guide y Kotlin Style Guide respectivamente (mencionadas pero sin despliegue en esta Sprint).
 
 ## 6.2. Landing Page, Services & Applications Implementation
 
