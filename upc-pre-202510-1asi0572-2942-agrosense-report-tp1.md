@@ -219,7 +219,7 @@
     - [6.2.2. Sprint 2](#622-sprint-2)  
         - [6.2.2.1. Sprint Planning 2](#6221-sprint-planning-2)  
         - [6.2.2.2. Aspect Leaders and Collaborators](#6222-aspect-leaders-and-collaborators)  
-        - [6.2.2.3. Sprint Backlog 1](#6223-sprint-backlog-1)  
+        - [6.2.2.3. Sprint Backlog 2](#6223-sprint-backlog-2)  
         - [6.2.2.4. Development Evidence for Sprint Review](#6224-development-evidence-for-sprint-review)  
         - [6.2.2.5. Testing Suite Evidence for Sprint Review](#6225-testing-suite-evidence-for-sprint-review)  
         - [6.2.2.6. Execution Evidence for Sprint Review](#6226-execution-evidence-for-sprint-review)  
@@ -4228,9 +4228,34 @@ En la siguiente imagen se logra apreciar que todos los integrantes del equipo ha
 
 ### 6.2.1. Sprint 2
 
+<div align = "justify">
+
+Para este segundo Sprint hemos definido como objetivo finalizar el desarrollo de nuestra aplicación móvil, integrar los sistemas embebidos, establecer la conexión completa entre el frontend y el backend, y llevar a cabo las entrevistas de validación.
+
+</div>
+
 #### 6.2.2.1. Sprint Planning 2
 
+| **Sprint #** | Sprint 2 |
+| --- | --- |
+| **Sprint Planning Background** |     |
+| Date | 2025-06-02 |
+| Time | 10:00 AM |
+| Location | Virtual por Zoom |
+| Prepared By | Valle Zuta, Abel Andrés. |
+| Attendees (to planning meeting) | Valle Zuta, Abel Andrés <br><br>Antonio Salazar, Jhan Clinton <br><br>Criollo de la Cruz, Diego Anderson <br><br>Espinoza Saenz, Christian Renato <br><br>Morales Calderón, Hernan Emilio. |
+| **Sprint 2 Goal** | Desplegar una versión funcional de la App Móvil, integrar los sistemas embebidos, conectar completamente el Frontend con el Backend y preparar las entrevistas de validación para el monitoreo y control básico de campos agrícolas. |
+
 #### 6.2.2.2. Aspect Leaders and Collaborators
+
+| Team Member<br><br>(Last Name, First Name) | GitHub Username | Mobile App Development <br><br> (L/C) | Backend & APIs  <br><br> (L/C) | Embedded Systems (IoT)  <br><br> (L/C)|
+| --- | --- | --- | --- | --- |
+| Antonio Salazar, Jhan Clinton | asjhanc | C   | C   | C   |
+| Criollo de la Cruz, Diego Anderson | diegooo01 | C   | C   | C   |
+| Espinoza Saenz, Christian Renato | ChristoTF32 | C   | L   | C   |
+| Morales Calderón, Hernan Emilio | hernancit0 | C   | C   | C   |
+| Valle Zuta, Abel Andrés | AndresVZ23 | L   | C   | L   |
+
 
 #### 6.2.2.3. Sprint Backlog 2
 
