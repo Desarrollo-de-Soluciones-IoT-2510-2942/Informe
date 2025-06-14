@@ -219,7 +219,7 @@
     - [6.2.2. Sprint 2](#622-sprint-2)  
         - [6.2.2.1. Sprint Planning 2](#6221-sprint-planning-2)  
         - [6.2.2.2. Aspect Leaders and Collaborators](#6222-aspect-leaders-and-collaborators)  
-        - [6.2.2.3. Sprint Backlog 1](#6213-sprint-backlog-1)  
+        - [6.2.2.3. Sprint Backlog 1](#6223-sprint-backlog-1)  
         - [6.2.2.4. Development Evidence for Sprint Review](#6224-development-evidence-for-sprint-review)  
         - [6.2.2.5. Testing Suite Evidence for Sprint Review](#6225-testing-suite-evidence-for-sprint-review)  
         - [6.2.2.6. Execution Evidence for Sprint Review](#6226-execution-evidence-for-sprint-review)  
@@ -229,9 +229,10 @@
 
     - [6.3. Validation Interviews](#63-validation-interviews)  
         - [6.3.1. Diseño de entrevistas](#631-diseño-de-entrevistas)
-        - [6.3.2. Registro de entrevistas](#631-registro-de-entrevistas)
-        - [6.3.3. Evaluación según heurísticas](#631-evaluación-según-heurísticas)  
+        - [6.3.2. Registro de entrevistas](#632-registro-de-entrevistas)
+        - [6.3.3. Evaluación según heurísticas](#633-evaluación-según-heurísticas)  
     - [6.4. Video About-the-product](#64-video-about-the-product)
+
 ### [Conclusiones](#conclusiones-1)
 ### [Bibliografía](#bibliografía-1)
 ### [Anexos](#anexos-1)
