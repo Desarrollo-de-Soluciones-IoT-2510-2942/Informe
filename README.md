@@ -4506,6 +4506,8 @@ Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma Nu
 
 </div>
 
+<br>
+
 #### 6.3.2. Registro de Entrevistas
 
 <div align = "justify">
