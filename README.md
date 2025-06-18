@@ -4259,27 +4259,692 @@ Para este segundo Sprint hemos definido como objetivo finalizar el desarrollo de
 
 #### 6.2.2.3. Sprint Backlog 2
 
+<div align = "justify">
+
+Enlace del Sprint Backlog 2 en Trello: [Enlace de Trello](https://trello.com/invite/b/682596cb926b0ea5b4959682/ATTI1a6311d0e5926161ec522d79907615b849B734EC/nutricontrol-agrosense)
+
+</div>
+
 #### 6.2.2.4. Development Evidence for Sprint Review
 
 #### 6.2.2.5. Testing Suite Evidence for Sprint Review
 
+<div align = "justify">
+
+Url del repositorio donde se trabajaron los acceptance test: [https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Acceptance-Test](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Acceptance-Test)
+</div>
+
 #### 6.2.2.6. Execution Evidence for Sprint Review
+
+
+<div align = "justify">
+	
+Ejecución de la Landing Page: Ejecución de la Landing Page deployada:
+[https://nutricontrol.netlify.app/](https://nutricontrol.netlify.app/)
+
+![LandingPage](Resources/Chapter%2006/Execution%20Evidence/LandingEvidence.png)
+
+<br>
+
+Ejecución del Frontend: Ejecución del Web Application deployada:
+[https://nutricontrol-agro.netlify.app/](https://nutricontrol-agro.netlify.app/)
+
+![Frontend](Resources/Chapter%2006/Deployment/frontend-evidence-deployed.png)
+
+<br>
+
+Ejecución del BackEnd: Ejecución del BackEnd deployado :
+
+![BackEnd](Resources/Chapter%2006/Execution%20Evidence/BackendEvidence.png)
+
+<br>
+
+Ejecución del Mobile App: Ejecución del Mobile App deployado :
+
+![BackEnd](Resources/Chapter%2006/Execution%20Evidence/BackendEvidence.png)
+
+<br>
+
+Ejecución de las Embedded Apps: Ejecución de los Embedded Apps deployados :
+
+![BackEnd](Resources/Chapter%2006/Execution%20Evidence/BackendEvidence.png)
+
+</div>
+
+
 
 #### 6.2.2.7. Services Documentation Evidence for Sprint Review
 
+<div align = "justify">
+A continuación se presenta la lista completa de endpoints disponibles en la versión 2 de la API. Estos endpoints pertenecen a la lista final de endpoints disponibles para el uso de las aplicaciones de NutriControl.
+
+# Endpoints de la API (v2)
+
+## Endpoints de Cultivos (`Crop`)
+
+| **Endpoint**                         | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
+|--------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
+| `/api/Crop`                          | GET           | Obtener cultivos                 | Obtiene todos los cultivos activos.                              |
+| `/api/Crop`                          | POST          | Crear cultivo                    | Crea un nuevo cultivo para un campo específico.                  |
+| `/api/Crop/{id}`                     | GET           | Obtener cultivo por ID           | Obtiene un cultivo por su ID.                                    |
+| `/api/Crop/{id}`                     | PUT           | Actualizar cultivo               | Actualiza un cultivo existente por su ID.                        |
+| `/api/Crop/{id}`                     | DELETE        | Eliminar cultivo                 | Elimina un cultivo por su ID.                                    |
+| `/api/Crop/field/{fieldId}`          | GET           | Obtener cultivos por campo       | Obtiene los cultivos activos para un campo específico.           |
+| `/api/Crop/{cropId}/history`         | POST          | Crear historial de ahorro        | Crea un nuevo historial de ahorro para un cultivo específico.    |
+| `/api/Crop/history/{id}`             | PUT           | Actualizar historial de ahorro   | Actualiza un historial de ahorro existente por su ID.            |
+| `/api/Crop/history/{id}`             | DELETE        | Eliminar historial de ahorro     | Elimina un historial de ahorro por su ID.                        |
+
+---
+
+
+## Endpoints de Recomendaciones (`Recommendation`)
+
+| **Endpoint**                                             | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
+|----------------------------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
+| `/api/Crop/recommendation/{id}`                         | GET           | Obtener recomendación por ID     | Obtiene una recomendación por su ID.                             |
+| `/api/Crop/{cropId}/recommendations`                    | GET           | Obtener recomendaciones          | Obtiene las recomendaciones activas para un cultivo específico.  |
+| `/api/Crop/{cropId}/recommendation`                     | POST          | Crear recomendación              | Crea una nueva recomendación para un cultivo específico.         |
+| `/api/Crop/recommendation/{id}`                         | PUT           | Actualizar recomendación         | Actualiza una recomendación existente por su ID.                 |
+| `/api/Crop/recommendation/{id}`                         | DELETE        | Eliminar recomendación           | Elimina una recomendación por su ID.                             |
+
+---
+
+
+## Endpoints de Dispositivos (`Device`)
+
+| **Endpoint**                         | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
+|--------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
+| `/api/Device`                        | GET           | Obtener dispositivos             | Obtiene todos los dispositivos.                                  |
+| `/api/Device`                        | POST          | Crear dispositivo                | Crea un nuevo dispositivo.                                       |
+| `/api/Device/{id}`                   | GET           | Obtener dispositivo por ID       | Obtiene un dispositivo por su ID.                                |
+| `/api/Device/{id}`                   | PUT           | Actualizar dispositivo           | Actualiza un dispositivo existente.                              |
+| `/api/Device/{id}`                   | DELETE        | Eliminar dispositivo             | Elimina un dispositivo por su ID.                                |
+| `/api/Device/crop/{cropId}`          | GET           | Obtener dispositivo por cultivo  | Obtiene un dispositivo por el ID del cultivo.                    |
+
+---
+
+
+### Subgrupo: Sensores (`Sensor`)
+
+| **Endpoint**                         | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
+|--------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
+| `/api/Device/sensors`                | GET           | Obtener sensores                 | Obtiene todos los sensores.                                      |
+| `/api/Device/sensors`                | POST          | Crear sensor                     | Crea un nuevo sensor.                                            |
+| `/api/Device/sensors/{id}`           | GET           | Obtener sensor por ID            | Obtiene un sensor por su ID.                                     |
+| `/api/Device/sensors/{id}`           | PUT           | Actualizar sensor                | Actualiza un sensor existente.                                   |
+| `/api/Device/sensors/{id}`           | DELETE        | Eliminar sensor                  | Elimina un sensor por su ID.                                     |
+| `/api/Device/{deviceId}/sensors`     | GET           | Obtener sensores por dispositivo | Obtiene todos los sensores de un dispositivo.                    |
+
+---
+
+
+### Subgrupo: Lecturas (`Readings`)
+
+| **Endpoint**                         | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
+|--------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
+| `/api/Device/readings`              | GET           | Obtener lecturas                 | Obtiene todas las lecturas de sensores.                          |
+| `/api/Device/readings`              | POST          | Crear lectura                    | Crea una nueva lectura de sensor.                                |
+| `/api/Device/readings/{id}`         | GET           | Obtener lectura por ID           | Obtiene una lectura por su ID.                                   |
+| `/api/Device/readings/{id}`         | PUT           | Actualizar lectura               | Actualiza una lectura existente.                                 |
+| `/api/Device/readings/{id}`         | DELETE        | Eliminar lectura                 | Elimina una lectura por su ID.                                   |
+| `/api/Device/sensors/{sensorId}/readings` | GET     | Obtener lecturas por sensor      | Obtiene todas las lecturas de un sensor.                         |
+
+---
+
+
+### Subgrupo: Alertas (`Alerts`)
+
+| **Endpoint**                         | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
+|--------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
+| `/api/Device/alerts`                | GET           | Obtener alertas                  | Obtiene todas las alertas.                                       |
+| `/api/Device/alerts`                | POST          | Crear alerta                     | Crea una nueva alerta.                                           |
+| `/api/Device/alerts/{id}`           | GET           | Obtener alerta por ID            | Obtiene una alerta por su ID.                                    |
+| `/api/Device/alerts/{id}`           | PUT           | Actualizar alerta                | Actualiza una alerta existente.                                  |
+| `/api/Device/alerts/{id}`           | DELETE        | Eliminar alerta                  | Elimina una alerta por su ID.                                    |
+| `/api/Device/{deviceId}/alerts`     | GET           | Obtener alertas por dispositivo  | Obtiene todas las alertas de un dispositivo.                     |
+
+---
+
+
+## Endpoints de Campos (`Field`)
+
+| **Endpoint**                         | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
+|--------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
+| `/api/Field`                         | GET           | Obtener campos                   | Obtiene todos los campos activos.                                |
+| `/api/Field`                         | POST          | Crear campo                      | Crea un nuevo campo para el usuario autenticado.                 |
+| `/api/Field/{id}`                    | GET           | Obtener campo por ID             | Obtiene un campo por su ID.                                      |
+| `/api/Field/{id}`                    | PUT           | Actualizar campo                 | Actualiza un campo existente por su ID.                          |
+| `/api/Field/{id}`                    | DELETE        | Eliminar campo                   | Elimina un campo por su ID.                                      |
+| `/api/Field/name/{name}`            | GET           | Obtener campo por nombre         | Obtiene un campo por su nombre.                                  |
+| `/api/Field/user/{userId}`          | GET           | Obtener campos por usuario       | Obtiene los campos de un usuario específico.                     |
+
+---
+
+
+## Endpoints de Suscripciones (`Subscription`)
+
+| **Endpoint**                         | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
+|--------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
+| `/api/Subscription`                 | GET           | Obtener suscripciones            | Obtiene todas las suscripciones activas.                         |
+| `/api/Subscription`                 | POST          | Crear suscripción                | Crea una nueva suscripción para el usuario autenticado.          |
+| `/api/Subscription/{id}`            | GET           | Obtener suscripción por ID       | Obtiene una suscripción por su ID.                               |
+| `/api/Subscription/{id}`            | PUT           | Actualizar suscripción           | Actualiza una suscripción existente por su ID.                   |
+| `/api/Subscription/{id}`            | DELETE        | Eliminar suscripción             | Elimina una suscripción por su ID.                               |
+| `/api/Subscription/user/{userId}`   | GET           | Obtener suscripción por usuario  | Obtiene la suscripción activa de un usuario específico.          |
+
+---
+
+
+## Endpoints de Usuarios (`User`)
+
+| **Endpoint**                         | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
+|--------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
+| `/api/v1/User/getall`               | GET           | Obtener usuarios                 | Obtiene todos los usuarios activos.                              |
+| `/api/v1/User/register`             | POST          | Registrar usuario                | Registra un nuevo usuario.                                       |
+| `/api/v1/User/login`                | POST          | Login usuario                    | Inicia sesión de usuario y devuelve un token JWT.                |
+| `/api/v1/User/{id}`                 | PUT           | Actualizar usuario               | Actualiza un usuario existente por su ID.                        |
+| `/api/v1/User/{id}`                 | DELETE        | Eliminar usuario                 | Elimina un usuario por su ID.                                    |
+
+</div>
+
+
+
 #### 6.2.2.8. Software Deployment Evidence for Sprint Review
+
+<div align = "justify">
+Durante la Sprint Review se presentó la evidencia de la ejecución de los componentes desplegados de NutriControl, correspondientes a la Landing Page, Frontend Application, Mobile Application y los Embedded Application.
+
+### Evidencias Presentadas
+
+- **Ejecución de la Landing Page**:
+  - La landing page está desplegada y accesible públicamente en: [https://nutricontrol.netlify.app/](https://nutricontrol.netlify.app/)
+  - Se añadió las secciones correspondientes a los nuevos puntos de este entregable, Video About The Product y About The Team.
+ 
+- **Ejecución de la Web Application**:
+  - La Web Application está desplegada y accesible públicamente en: [https://nutricontrol-agro.netlify.app/](https://nutricontrol-agro.netlify.app/)
+  - Se implementó la conexión con el Backend, haciendo la Web Application totalmente funcional.
+
+</div>
 
 #### 6.2.2.9. Team Collaboration Insights during Sprint
 
-### 6.3. Validation Interviews
+<div align = "justify">
+
+En la siguiente imagen se logra apreciar que todos los integrantes del equipo han colaborado a cumplir con los objetivos establecidos para este segundo sprint.
+
+</div>
+
+## 6.3. Validation Interviews
 
 #### 6.3.1. Diseño de Entrevistas
 
+<div align = "justify">
+
+Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma NutriControl desde la perspectiva de los usuarios finales, considerando distintos niveles de tecnificación agrícola. El objetivo es identificar oportunidades de mejora en comprensión, funcionalidad, navegación y percepción general de la solución.
+
+<br>
+
+**1.** ¿Pudiste entender desde el inicio para qué sirve NutriControl y cómo puede ayudarte en tu labor agrícola?
+
+**2.** ¿La plataforma te guió de manera sencilla para conectar los sensores y comenzar a monitorear tu terreno?
+
+**3.** ¿Sentiste que los datos del suelo (humedad, pH, nutrientes) estaban claros, eran comprensibles y útiles para tomar decisiones?
+
+**4.** ¿Tuviste dificultades al momento de configurar alertas, activar el riego o interpretar las recomendaciones?
+
+**5.** ¿Qué tan intuitiva te pareció la navegación entre las secciones del sistema (dashboard, reportes, alertas, configuración, etc.)?
+
+**6.** ¿La plataforma respondió adecuadamente cuando cometiste un error al ingresar datos o al configurar un sensor?
+
+**7.** ¿Las recomendaciones y alertas personalizadas fueron fáciles de entender y aplicar en el campo?
+
+**8.** ¿Te resultó fácil distinguir cuáles funciones están disponibles en el plan gratuito y cuáles requieren suscripción?
+
+**9.** ¿Consideras que el lenguaje utilizado en la aplicación (web y móvil) es claro, especialmente si no tienes experiencia técnica previa?
+
+**10.** ¿Qué mejoras o funciones adicionales te gustaría que tenga NutriControl para facilitar aún más el cuidado de tus cultivos?
+
+</div>
+
 #### 6.3.2. Registro de Entrevistas
+
+<div align = "justify">
+	
+**Segmento 1: Productores Rurales Tradicionales**
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #1<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Arturo</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Adrianzén Flores</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Huancayo</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Chrome, Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>Mejorar el rendimiento de sus cultivos y aprender nuevas tecnologías que faciliten su trabajo.</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>No saber con precisión cuánto fertilizante o agua aplicar y enfrentar el alto costo de los insumos.</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>Zoom, Windows</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Diego Criollo</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/" alt="Entrevista a Arturo"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:05 min - 05:20 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #2<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Diego</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Cano Acero</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>23 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>Mejorar la calidad del cultivo, optimizar el uso del agua y garantizar la producción de arándanos de alta calidad.</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>Enfrenta dificultades al aplicar teorías agrícolas que no siempre se ajustan a las condiciones reales del campo. El cambio climático ha afectado la calidad del cultivo por el exceso de calor y la pérdida de nutrientes. Además, la mala conectividad limita el uso de herramientas digitales en tiempo real y la falta de información compartida con otros agricultores dificulta la prevención de plagas.</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>Celular, laptop , sensores de ph y Riego por goteo</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Christian Espinoza</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/" alt="Entrevista a Diego"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:05 min - 05:20 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #3<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Magno Jesus</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Puma Ayasta</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>28 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Santo Tomás, Chumbivilcas, Cusco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>Mejorar la eficiencia de su trabajo agrícola, ahorrar recursos y aumentar la productividad de sus cultivos para garantizar una mejor calidad de vida.</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>Dificultades por la falta de acceso a herramientas precisas, los altos costos de insumos y el impacto del cambio climático, lo que complica su labor diaria.</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Brave</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Abel Andrés Valle Zuta</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/" alt="Entrevista a Jesus"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:05 min - 05:20 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+**Segmento 2: Productores Tecnificados de Cultivos de Alto Valor**
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #1<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Nicolle</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Gonzales</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>25 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La Tinguiña, Ica, Perú</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Meets</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>Mejorar la gestión de su cultivo de arándanos con tecnología que le permita tomar decisiones más precisas, reducir el desperdicio de agua y fertilizantes, y lograr un mayor control sobre la producción.</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>No contar con una solución que le indique con claridad cuándo y cuánto fertilizar o regar, tener que depender de la observación visual, y no poder automatizar tareas clave.</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora Windows</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Hernan Morales</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/" alt="Entrevista a Nicole"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:05 min - 05:20 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #2<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Italo</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Hurtado</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>25 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Chincha Alta, Ica, Perú</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Meets</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>Optimizar los procesos de riego y fertilización para ahorrar insumos y mejorar la calidad del cultivo, apostando por tecnologías que faciliten la gestión sin necesidad de supervisión constante.</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>Falta de herramientas accesibles que ayuden a tomar decisiones precisas y en tiempo real. La variación climática lo obliga a improvisar y eso impacta en el rendimiento.</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop, Computadora Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Hernan Morales</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/" alt="Entrevista a Italo"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:05 min - 05:20 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #3<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Leonel</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Alfaro</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>25 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Chincha Alta, Ica, Perú</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Microsoft Stream</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>Implementar soluciones tecnológicas accesibles para optimizar el manejo de cultivos, reducir costos operativos y mejorar la calidad de la producción mediante el uso de herramientas digitales.</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>Dificultad para acceder a sistemas de monitoreo agrícola asequibles y fáciles de usar. La falta de datos en tiempo real lo obliga a depender de métodos tradicionales, lo que genera ineficiencias en riego y fertilización.</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop, Computadora Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Jhan Clinton</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/" alt="Entrevista a Leonel"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:05 min - 05:20 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+<br>
+
+</div>
+
+
+
 
 #### 6.3.3. Evaluaciones según heurísticas
 
-### 6.4. Video About-the-Product
+## 6.4. Video About-the-Product
 
 # Conclusiones
 
