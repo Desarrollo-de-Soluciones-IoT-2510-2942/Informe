@@ -4074,6 +4074,20 @@ Enlace del Sprint Backlog 1 en Trello: [Enlace de Trello](https://trello.com/inv
 
 </div>
 
+<div align = "justify">
+
+## Sprint 1
+
+| **User Story** | **Título**                         | **Work-Item/Task ID** | **Título del Task**                        | **Descripción**                                                               | **Estimación (Horas)** | **Asignado a**     | **Estado** |
+|----------------|------------------------------------|------------------------|--------------------------------------------|-------------------------------------------------------------------------------|-------------------------|--------------------|------------|
+| US06           | Registro con selección de rol      | WI01                   | API para rol de usuario                    | Crear la opción en el backend para permitir que los usuarios elijan su rol.   | 1                       | Astrid Boronda     | Done       |
+|                |                                    | WI02                   | Pantalla para elegir el rol del usuario    | Crear la pantalla en el frontend para que el usuario elija su rol.            | 1                       | Astrid Boronda     | Done       |
+| US07           | Inicio de sesión                   | WI03                   | API para inicio de sesión                  | Crear la opción en el backend para permitir que los usuarios puedan iniciar sesión. | 1                  | Diego Criollo      | Done       |
+|                |                                    | WI04                   | Pantalla para iniciar sesión               | Crear la pantalla en el frontend para el inicio de sesión                     | 1                       | Diego Criollo      | Done       |
+
+</div>
+
+
 
 #### 6.2.1.4. Development Evidence for Sprint Review
 
