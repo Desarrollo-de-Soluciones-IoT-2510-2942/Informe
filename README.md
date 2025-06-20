@@ -4078,9 +4078,7 @@ Enlace del Sprint Backlog 1 en Trello: [Enlace de Trello](https://trello.com/inv
 
 **Sprint Backlog 01**
 
-<h2>Sprint 1</h2>
-
-<table border="1">
+<table>
   <thead>
     <tr>
       <th>User Story</th>
@@ -4312,6 +4310,421 @@ Para este segundo Sprint hemos definido como objetivo finalizar el desarrollo de
 
 Enlace del Sprint Backlog 2 en Trello: [Enlace de Trello](https://trello.com/invite/b/682596cb926b0ea5b4959682/ATTI1a6311d0e5926161ec522d79907615b849B734EC/nutricontrol-agrosense)
 
+</div>
+
+<div align = "justify">
+
+**Sprint Backlog 02**
+
+<table>
+  <thead>
+    <tr>
+      <th>User Story</th>
+      <th>Título</th>
+      <th>Work-Item/Task ID</th>
+      <th>Título del Task</th>
+      <th>Descripción</th>
+      <th>Estimación (Horas)</th>
+      <th>Asignado a</th>
+      <th>Estado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">US04</td>
+      <td rowspan="2">Registro de Usuario</td>
+      <td>WI01</td>
+      <td>Desarrollo de la Pantalla Registro de Usuario - App Mobile</td>
+      <td>Creación de la vista de Registro de Usuario para la para la aplicación móvil</td>
+      <td>2</td>
+      <td>Hernan Morales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI02</td>
+      <td>Conexión de Servicios de Registro de Usuarios</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>1</td>
+      <td>Hernan Morales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US05</td>
+      <td rowspan="2">Inicio de Sesión</td>
+      <td>WI03</td>
+      <td>Desarrollo de la Pantalla de Inicio de sesión - App Mobile</td>
+      <td>Creación de la vista de Inicio de sesión para la aplicación móvil</td>
+      <td>2</td>
+      <td>Abel Valle</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI04</td>
+      <td>Conexión de Servicios de Inicio de Sesión</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>1</td>
+      <td>Abel Valle</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US06</td>
+      <td rowspan="2">Recuperación de Contraseña</td>
+      <td>WI05</td>
+      <td>Desarrollo de la Pantalla de Recuperación de Contraseña - App Mobile</td>
+      <td>Creación de la vista de Recuperación de contraseña para la aplicación móvil</td>
+      <td>1</td>
+      <td>Jhan Antonio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI06</td>
+      <td>Conexión de Servicios de Recuperación de Contraseña</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>1</td>
+      <td>Jhan Antonio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US07</td>
+      <td rowspan="2">Adición de Campos Agrícolas</td>
+      <td>WI07</td>
+      <td>Desarrollo de la Pantalla de Adición de Campos - App Mobile</td>
+      <td>Creación de la vista de Adición de campos para la aplicación móvil</td>
+      <td>2</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI08</td>
+      <td>Conexión de Servicios de Adición de Campos Agrícolas</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>1</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US08</td>
+      <td rowspan="2">Edición de Campos Agrícolas</td>
+      <td>WI09</td>
+      <td>Desarrollo de la Pantalla de Edición de Campos - App Mobile</td>
+      <td>Creación de la vista de Edición de campos para la aplicación móvil</td>
+      <td>1</td>
+      <td>Christian Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI10</td>
+      <td>Conexión de Servicios de Edición de Campos Agrícolas</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>1</td>
+      <td>Christian Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US09</td>
+      <td rowspan="2">Eliminación de Campos Agrícolas</td>
+      <td>WI11</td>
+      <td>Desarrollo de la Pantalla de Eliminación de Campos - App Mobile</td>
+      <td>Creación de la vista de eliminación de campos para la aplicación móvil</td>
+      <td>1</td>
+      <td>Hernan Morales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI12</td>
+      <td>Conexión de Servicios de Eliminación de Campos Agrícolas</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>1</td>
+      <td>Hernan Morales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US10</td>
+      <td rowspan="2">Registro de Cultivos</td>
+      <td>WI13</td>
+      <td>Desarrollo de la Pantalla de Registro de Cultivos - App Mobile</td>
+      <td>Creación de la vista de registro de cultivos para la aplicación móvil</td>
+      <td>2</td>
+      <td>Abel Valle</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI14</td>
+      <td>Conexión de Servicios de Registro de Cultivos</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>1</td>
+      <td>Abel Valle</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US11</td>
+      <td rowspan="2">Edición de Cultivos</td>
+      <td>WI15</td>
+      <td>Desarrollo de la Pantalla de Edición de Cultivos - App Mobile</td>
+      <td>Creación de la vista de edición de cultivos para la aplicación móvil</td>
+      <td>1</td>
+      <td>Jhan Antonio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI16</td>
+      <td>Conexión de Servicios de Edición de Cultivos</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>1</td>
+      <td>Jhan Antonio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US12</td>
+      <td rowspan="2">Eliminación de Cultivos</td>
+      <td>WI17</td>
+      <td>Desarrollo de la Pantalla de Eliminación de Cultivos - App Mobile</td>
+      <td>Creación de la vista de eliminación de cultivos para la aplicación móvil</td>
+      <td>1</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI18</td>
+      <td>Conexión de Servicios de Eliminación de Cultivos</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>1</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US13</td>
+      <td rowspan="2">Conectar y Adicionar Dispositivos IOT a mis Cultivos</td>
+      <td>WI19</td>
+      <td>Desarrollo de la Pantalla de Conexión de Dispositivos IOT a los Cultivos - App Mobile</td>
+      <td>Creación de la vista de conexión de dispositivos IOT para la aplicación móvil</td>
+      <td>3</td>
+      <td>Christian Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI20</td>
+      <td>Conexión de Servicios de Conectar y Adicionar Dispositivos IOT a mis Cultivos</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>2</td>
+      <td>Christian Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US14</td>
+      <td rowspan="2">Desconectar Dispositivos IOT a mis Cultivos</td>
+      <td>WI21</td>
+      <td>Desarrollo de la Pantalla de Desconexión de Dispositivos IOT a los Cultivos - App Mobile</td>
+      <td>Creación de la vista de desconexión de dispositivos IOT para la aplicación móvil</td>
+      <td>2</td>
+      <td>Hernan Morales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI22</td>
+      <td>Conexión de Servicios de Desconectar Dispositivos IOT a mis Cultivos</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>1</td>
+      <td>Hernan Morales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US15</td>
+      <td rowspan="2">Alertas del pH del Suelo</td>
+      <td>WI23</td>
+      <td>Desarrollo de las Alertas de Ph del Suelo - App Mobile</td>
+      <td>Creación de las alertas de pH para la aplicación móvil</td>
+      <td>2</td>
+      <td>Abel Valle</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI24</td>
+      <td>Conexión de Servicios de Alertas del pH del Suelo</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>1</td>
+      <td>Abel Valle</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US16</td>
+      <td rowspan="2">Alertas y Configuración del Riego Automático</td>
+      <td>WI25</td>
+      <td>Desarrollo de las Alertas de Riego - App Mobile</td>
+      <td>Creación de las alertas de riego para la aplicación móvil</td>
+      <td>3</td>
+      <td>Jhan Antonio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI26</td>
+      <td>Conexión de Servicios de Alertas y Configuración del Riego Automático</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>2</td>
+      <td>Jhan Antonio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US17</td>
+      <td rowspan="2">Recomendaciones y Toma de decisión de los Cultivos</td>
+      <td>WI27</td>
+      <td>Desarrollo de la Pantalla de Recomendación - App Mobile</td>
+      <td>Creación de las recomendaciones y toma de decisiones para la aplicación móvil</td>
+      <td>2</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI28</td>
+      <td>Conexión de Servicios de Recomendaciones y Toma de decisión de los Cultivos</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>1</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US18</td>
+      <td rowspan="2">Gestión del Riego y Fertilización</td>
+      <td>WI29</td>
+      <td>Desarrollo de la Pantalla de Gestión de Riego y Fertilización - App Mobile</td>
+      <td>Creación de la vista de gestión de riego y fertilización para la aplicación móvil</td>
+      <td>3</td>
+      <td>Christian Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI30</td>
+      <td>Conexión de Servicios de Gestión del Riego y Fertilización</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>2</td>
+      <td>Christian Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US19</td>
+      <td rowspan="2">Ahorro de Recursos</td>
+      <td>WI31</td>
+      <td>Desarrollo de la Pantalla del registro del Ahorro de Recursos - App Mobile</td>
+      <td>Creación de la vista para la visualización del nivel de ahorro de recursos para la aplicación móvil</td>
+      <td>2</td>
+      <td>Hernan Morales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI32</td>
+      <td>Conexión de Servicios de Ahorro de Recursos</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>1</td>
+      <td>Hernan Morales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US20</td>
+      <td rowspan="2">Análisis Predictivo de Cultivos</td>
+      <td>WI33</td>
+      <td>Desarrollo de la Pantalla de Análisis Predictivo - App Mobile</td>
+      <td>Creación de la vista de análisis predictivo para la aplicación móvil</td>
+      <td>3</td>
+      <td>Abel Valle</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI34</td>
+      <td>Conexión de Servicios de Análisis Predictivo de Cultivos</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>2</td>
+      <td>Abel Valle</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US21</td>
+      <td rowspan="2">Recomendaciones de Cultivos</td>
+      <td>WI35</td>
+      <td>Desarrollo de la Pantalla de Recomendación de Cultivos - App Mobile</td>
+      <td>Creación de la vista de recomendación de cultivos para la aplicación móvil</td>
+      <td>2</td>
+      <td>Jhan Antonio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI36</td>
+      <td>Conexión de Servicios de Recomendaciones de Cultivos</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>1</td>
+      <td>Jhan Antonio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US22</td>
+      <td rowspan="2">Planes de Suscripción</td>
+      <td>WI37</td>
+      <td>Desarrollo de la Pantalla de Suscripciones - App Mobile</td>
+      <td>Creación de la vista de planes de suscripción para la aplicación móvil</td>
+      <td>2</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI38</td>
+      <td>Conexión de Servicios de Planes de Suscripción</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>1</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="2">US23</td>
+      <td rowspan="2">Configuración de Cuenta</td>
+      <td>WI39</td>
+      <td>Desarrollo de la Pantalla de Configuración de Cuenta - App Mobile</td>
+      <td>Creación de la vista de configuración para la aplicación móvil</td>
+      <td>2</td>
+      <td>Christian Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI40</td>
+      <td>Conexión de Servicios de Configuración de Cuenta</td>
+      <td>Creación de la conexión entre front y back</td>
+      <td>1</td>
+      <td>Christian Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">TS01</td>
+      <td>Configuración de Infraestructura y Base de Datos Inicial</td>
+      <td>WI41</td>
+      <td>Configuración del entorno de desarrollo para los servicios de Nutricontrol</td>
+      <td>Configuración de los Servicios en C# y Base de Datos en la nube</td>
+      <td>13</td>
+      <td>Hernan Morales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">TS02</td>
+      <td>Desarrollo del Módulo de Autenticación y Gestión de Cuenta</td>
+      <td>WI42</td>
+      <td>Configuración de la verificación y autenticación del inicio y registro de sesión</td>
+      <td>Implementación de JWT aplicado a C#</td>
+      <td>8</td>
+      <td>Abel Valle</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">TS05</td>
+      <td>Desarrollo de Frontend Web y Móvil para Visualización y Gestión</td>
+      <td>WI43</td>
+      <td>Desarrollo y configuración de los entornos de las aplicaciones disponibles para los usuarios finales</td>
+      <td>Conexión tanto de Front y Back para los aplicativos finales de Nutricontrol</td>
+      <td>13</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+
+   
 </div>
 
 #### 6.2.2.4. Development Evidence for Sprint Review
