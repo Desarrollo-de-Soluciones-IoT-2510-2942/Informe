@@ -4076,14 +4076,49 @@ Enlace del Sprint Backlog 1 en Trello: [Enlace de Trello](https://trello.com/inv
 
 <div align = "justify">
 
-## Sprint 1
+**Sprint Backlog 01**
 
-| **User Story** | **Título**                         | **Work-Item/Task ID** | **Título del Task**                        | **Descripción**                                                               | **Estimación (Horas)** | **Asignado a**     | **Estado** |
-|----------------|------------------------------------|------------------------|--------------------------------------------|-------------------------------------------------------------------------------|-------------------------|--------------------|------------|
-| US06           | Registro con selección de rol      | WI01                   | API para rol de usuario                    | Crear la opción en el backend para permitir que los usuarios elijan su rol.   | 1                       | Astrid Boronda     | Done       |
-|                |                                    | WI02                   | Pantalla para elegir el rol del usuario    | Crear la pantalla en el frontend para que el usuario elija su rol.            | 1                       | Astrid Boronda     | Done       |
-| US07           | Inicio de sesión                   | WI03                   | API para inicio de sesión                  | Crear la opción en el backend para permitir que los usuarios puedan iniciar sesión. | 1                  | Diego Criollo      | Done       |
-|                |                                    | WI04                   | Pantalla para iniciar sesión               | Crear la pantalla en el frontend para el inicio de sesión                     | 1                       | Diego Criollo      | Done       |
+<h2>Sprint 1</h2>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>User Story</th>
+      <th>Título</th>
+      <th>Work-Item/Task ID</th>
+      <th>Título del Task</th>
+      <th>Descripción</th>
+      <th>Estimación (Horas)</th>
+      <th>Asignado a</th>
+      <th>Estado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>US01</td><td>Información de NutriControl</td><td>WI01</td><td>Desarrollo de sección de información en la Landing Page</td><td>Crear y diseñar las secciones de la Landing page que muestran información relevante de Nutricontrol</td><td>3</td><td>Jhan Antonio</td><td>Done</td></tr>
+    <tr><td>US02</td><td>Características de NutriControl</td><td>WI02</td><td>Desarrollo de sección de características en la Landing Page</td><td>Crear y diseñar las secciones de la Landing page que muestran las características más relevantes de Nutricontrol</td><td>3</td><td>Diego Criollo</td><td>Done</td></tr>
+    <tr><td>US03</td><td>Sección de planes o membresías</td><td>WI03</td><td>Desarrollo de sección de membresías en la Landing Page</td><td>Crear y diseñar la sección en la Landing page que muestra los planes de suscripción de Nutricontrol</td><td>3</td><td>Christian Espinoza</td><td>Done</td></tr>
+    <tr><td>US04</td><td>Registro de Usuario</td><td>WI04</td><td>Desarrollo de la Pantalla Registro de Usuario - App Web</td><td>Creación de la vista de Registro de Usuario para la web</td><td>2</td><td>Hernan Morales</td><td>Done</td></tr>
+    <tr><td>US05</td><td>Inicio de Sesión</td><td>WI05</td><td>Desarrollo de la Pantalla de Inicio de sesión - App Web</td><td>Creación de la vista de Inicio de sesión para la web</td><td>2</td><td>Abel Valle</td><td>Done</td></tr>
+    <tr><td>US06</td><td>Recuperación de Contraseña</td><td>WI06</td><td>Desarrollo de la Pantalla de Recuperación de Contraseña - App Web</td><td>Creación de la vista de Recuperación de contraseña para la web</td><td>2</td><td>Jhan Antonio</td><td>Done</td></tr>
+    <tr><td>US07</td><td>Adición de Campos Agrícolas</td><td>WI07</td><td>Desarrollo de la Pantalla de Adición de Campos - App Web</td><td>Creación de la vista de Adición de campos para la web</td><td>2</td><td>Diego Criollo</td><td>Done</td></tr>
+    <tr><td>US08</td><td>Edición de Campos Agrícolas</td><td>WI08</td><td>Desarrollo de la Pantalla de Edición de Campos - App Web</td><td>Creación de la vista de Edición de campos para la web</td><td>1</td><td>Christian Espinoza</td><td>Done</td></tr>
+    <tr><td>US09</td><td>Eliminación de Campos Agrícolas</td><td>WI09</td><td>Desarrollo de la Pantalla de Eliminación de Campos - App Web</td><td>Creación de la vista de eliminación de campos para la web</td><td>1</td><td>Hernan Morales</td><td>Done</td></tr>
+    <tr><td>US10</td><td>Registro de Cultivos</td><td>WI10</td><td>Desarrollo de la Pantalla de Registro de Cultivos - App Web</td><td>Creación de la vista de registro de cultivos para la web</td><td>2</td><td>Abel Valle</td><td>Done</td></tr>
+    <tr><td>US11</td><td>Edición de Cultivos</td><td>WI11</td><td>Desarrollo de la Pantalla de Edición de Cultivos - App Web</td><td>Creación de la vista de edición de cultivos para la web</td><td>1</td><td>Jhan Antonio</td><td>Done</td></tr>
+    <tr><td>US12</td><td>Eliminación de Cultivos</td><td>WI12</td><td>Desarrollo de la Pantalla de Eliminación de Cultivos - App Web</td><td>Creación de la vista de eliminación de cultivos para la web</td><td>1</td><td>Diego Criollo</td><td>Done</td></tr>
+    <tr><td>US13</td><td>Conectar y Adicionar Dispositivos IOT a mis Cultivos</td><td>WI13</td><td>Desarrollo de la Pantalla de Conexión de Dispositivos IOT a los Cultivos - App Web</td><td>Creación de la vista de conexión de dispositivos IOT para la web</td><td>3</td><td>Christian Espinoza</td><td>Done</td></tr>
+    <tr><td>US14</td><td>Desconectar Dispositivos IOT a mis Cultivos</td><td>WI14</td><td>Desarrollo de la Pantalla de Desconexión de Dispositivos IOT a los Cultivos - App Web</td><td>Creación de la vista de desconexión de dispositivos IOT para la web</td><td>2</td><td>Hernan Morales</td><td>Done</td></tr>
+    <tr><td>US15</td><td>Alertas del pH del Suelo</td><td>WI15</td><td>Desarrollo de las Alertas de Ph del Suelo - App Web</td><td>Creación de las alertas de pH para la web</td><td>2</td><td>Abel Valle</td><td>Done</td></tr>
+    <tr><td>US16</td><td>Alertas y Configuración del Riego Automático</td><td>WI16</td><td>Desarrollo de las Alertas de Riego - App Web</td><td>Creación de las alertas de riego para la web</td><td>3</td><td>Jhan Antonio</td><td>Done</td></tr>
+    <tr><td>US17</td><td>Recomendaciones y Toma de decisón de los Cultivos</td><td>WI17</td><td>Desarrollo de la Pantalla de Recomendación - App Web</td><td>Creación de las recomendaciones y toma de decisiones para la web</td><td>2</td><td>Diego Criollo</td><td>Done</td></tr>
+    <tr><td>US18</td><td>Gestión del Riego y Fertilización</td><td>WI18</td><td>Desarrollo de la Pantalla de Gestión de Riego y Fertilización - App Web</td><td>Creación de la vista de gestión de riego y fertilización para la web</td><td>3</td><td>Christian Espinoza</td><td>Done</td></tr>
+    <tr><td>US19</td><td>Ahorro de Recursos</td><td>WI19</td><td>Desarrollo de la Pantalla del registro del Ahorro de Recursos - App Web</td><td>Creación de la vista para la visualización del nivel de ahorro de recursos para la web</td><td>2</td><td>Hernan Morales</td><td>Done</td></tr>
+    <tr><td>US20</td><td>Análisis Predictivo de Cultivos</td><td>WI20</td><td>Desarrollo de la Pantalla de Análisis Predictivo - App Web</td><td>Creación de la vista de análisis predictivo para la web</td><td>3</td><td>Abel Valle</td><td>Done</td></tr>
+    <tr><td>US21</td><td>Recomendaciones de Cultivos</td><td>WI21</td><td>Desarrollo de la Pantalla de Recomendación de Cultivos - App Web</td><td>Creación de la vista de recomendación de cultivos para la web</td><td>2</td><td>Jhan Antonio</td><td>Done</td></tr>
+    <tr><td>US22</td><td>Planes de Suscripción</td><td>WI22</td><td>Desarrollo de la Pantalla de Suscripciones - App Web</td><td>Creación de la vista de planes de suscripción para la web</td><td>2</td><td>Diego Criollo</td><td>Done</td></tr>
+    <tr><td>US23</td><td>Configuración de Cuenta</td><td>WI23</td><td>Desarrollo de la Pantalla de Configuración de Cuenta - App Web</td><td>Creación de la vista de configuración para la web</td><td>2</td><td>Christian Espinoza</td><td>Done</td></tr>
+  </tbody>
+</table>
 
 </div>
 
