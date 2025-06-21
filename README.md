@@ -5137,6 +5137,7 @@ Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma Nu
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
+	    Arturo Adrianzen, joven agricultor de la sierra peruana, destacó que NutriControl le permitió entender fácilmente el estado de su suelo y tomar decisiones más precisas sobre riego y fertilización. Valoró la claridad de la app para conectar sensores, interpretar datos y recibir alertas útiles, incluso sin conocimientos técnicos. Aunque al inicio tuvo dudas con la configuración, pronto se adaptó y apreció lo intuitivo del sistema. Sugirió incluir un modo noche y más personalización, y afirmó que NutriControl le ha facilitado el trabajo, ayudándolo a ahorrar recursos y mejorar su productividad.
     </td>
   </tr>
 </tbody>
