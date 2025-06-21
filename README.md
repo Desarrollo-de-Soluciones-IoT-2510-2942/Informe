@@ -4723,7 +4723,7 @@ Enlace del Sprint Backlog 2 en Trello: [Enlace de Trello](https://trello.com/inv
   </tbody>
 </table>
 
-
+<br>
    
 </div>
 
@@ -4739,6 +4739,8 @@ Enlace del Sprint Backlog 2 en Trello: [Enlace de Trello](https://trello.com/inv
 |Frontend|main|XX|Feat: XXX|XX|
 |Api Edge|main|d10f071|Initial Commit|19/06/25|
 |Embedded App|main|33dd316|Initial Commit|19/06/25|
+
+<br>
 
 #### 6.2.2.5. Testing Suite Evidence for Sprint Review
 
@@ -4782,33 +4784,33 @@ XXXX
 
 <div align = "justify">
 	
-Ejecución de la Landing Page: Desplegada en Netlify y actualiazada con las secciones nuevas de About The Team y About The Product:
+Ejecución de la Landing Page: Desplegada en Netlify y actualiazada con las secciones nuevas de About The Team y About The Product
 [https://nutricontrol.netlify.app/](https://nutricontrol.netlify.app/)
 
 ![LandingPage](Resources/Chapter%2006/Sprint%202/Landing%20Page%20Development%202.png)
 
 <br>
 
-Ejecución del Frontend: Ejecución del Web Application deployada:
+Ejecución del Frontend: Desplegada en Netifly y con la conexión con las APIs para los servicios de NutriControl
 [https://nutricontrol-agro.netlify.app/](https://nutricontrol-agro.netlify.app/)
 
-![Frontend](Resources/Chapter%2006/Deployment/frontend-evidence-deployed.png)
+![Frontend](Resources/Chapter%2006/Sprint%202/Web%20Page%20Development%202.png)
 
 <br>
 
-Ejecución del BackEnd: Ejecución del BackEnd deployado :
+Ejecución del BackEnd: Desplegado en ?
 
 ![BackEnd](Resources/Chapter%2006/Execution%20Evidence/BackendEvidence.png)
 
 <br>
 
-Ejecución del Mobile App: Ejecución del Mobile App deployado :
+Ejecución del Mobile App: ?
 
 ![BackEnd](Resources/Chapter%2006/Execution%20Evidence/BackendEvidence.png)
 
 <br>
 
-Ejecución de las Embedded Apps: Ejecución de los Embedded Apps deployados :
+Ejecución de las Embedded Apps: Desplegado en ?
 
 ![BackEnd](Resources/Chapter%2006/Execution%20Evidence/BackendEvidence.png)
 
