@@ -4741,10 +4741,10 @@ Url del repositorio donde se trabajaron los acceptance test: [https://github.com
 
 <div align = "justify">
 	
-Ejecución de la Landing Page: Ejecución de la Landing Page deployada:
+Ejecución de la Landing Page: Desplegada en Netlify y actualiazada con las secciones nuevas de About The Team y About The Product:
 [https://nutricontrol.netlify.app/](https://nutricontrol.netlify.app/)
 
-![LandingPage](Resources/Chapter%2006/Execution%20Evidence/LandingEvidence.png)
+![LandingPage](Resources/Chapter%2006/Sprint%202/Landing%20Page%20Development%202.png)
 
 <br>
 
