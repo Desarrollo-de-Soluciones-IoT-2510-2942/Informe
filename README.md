@@ -5286,6 +5286,7 @@ Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma Nu
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
+	    Magno Puma, joven productor rural de 28 años, considera que NutriControl llamará la atención de varios agricultores por su llamativa landing page, y que les ayudará a todos con sus aplicaciones, ya que considera que tienen un buen tamaño de letra, las imágenes se ven muy bien ubicadas, cuenta con secciones útiles y llamativas que les ayudará a aumentar su producción, además de tener un buen contraste de colores, que hacen que NutriControl destaque su esencia, sin embargo también nos comentó que le gustaría que las notificaciones y alertas sean un poco más claras y que las alertas puedan integrarse en un futuro con WhatsApp para que puedan llegar a través de ese medio también.
     </td>
   </tr>
 </tbody>
