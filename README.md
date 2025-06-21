@@ -5124,7 +5124,7 @@ Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma Nu
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/" alt="Entrevista a Arturo"></div></td>
+    <td><div align="center"><img src="Resources/Chapter%2006/Sprint%202/entrevista-arturo.png" alt="Entrevista a Arturo"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -5195,7 +5195,7 @@ Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma Nu
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/" alt="Entrevista a Diego"></div></td>
+    <td><div align="center"><img src="Resources/Chapter%2006/Sprint%202/entrevista-diego.png" alt="Entrevista a Diego"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -5479,7 +5479,7 @@ Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma Nu
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/" alt="Entrevista a Leonel"></div></td>
+    <td><div align="center"><img src="Resources/Chapter%2006/Sprint%202/entrevista-leonel.png" alt="Entrevista a Leonel"></div></td>
   </tr>
   <tr>
     <td>Link</td>
