@@ -8,7 +8,7 @@
     <strong>1ASI0572 - Desarrollo de Soluciones IoT - 2942</strong><br>  
     <br>
     <strong>Profesor: Marco Antonio León Baca</strong><br>
-    <br> <strong>INFORME DE TP1</strong> 
+    <br> <strong>INFORME DE TB2</strong> 
 </p>
 <p align="center">
     <strong>Startup: AgroSense</strong><br>
@@ -70,6 +70,11 @@
 |TP1| 08/05/2025 |Espinoza Saenz, Christian Renato|  Capítulo V: Solution UI/UX Design, Capítulo VI: Product Implementation, Validation & Deployment |
 |TP1| 08/05/2025 |Morales Calderón, Hernan Emilio|  Capítulo V: Solution UI/UX Design, Capítulo VI: Product Implementation, Validation & Deployment |
 |TP1| 08/05/2025 |Valle Zuta, Abel Andrés|  Capítulo V: Solution UI/UX Design, Capítulo VI: Product Implementation, Validation & Deployment |
+|TB2| 20/06/2025 |Antonio Salazar Jhan Clinton| Capítulo VI: Product Implementation, Validation & Deployment |
+|TB2| 20/06/2025 |Criollo De La Cruz, Diego Anderson|  Capítulo VI: Product Implementation, Validation & Deployment |
+|TB2| 20/06/2025 |Espinoza Saenz, Christian Renato|  Capítulo VI: Product Implementation, Validation & Deployment |
+|TB2| 20/06/2025 |Morales Calderón, Hernan Emilio|  Capítulo VI: Product Implementation, Validation & Deployment |
+|TB2| 20/06/2025 |Valle Zuta, Abel Andrés|  Capítulo VI: Product Implementation, Validation & Deployment |
 </div>
 
 ---
@@ -276,6 +281,10 @@ del ABET – EAC - Student Outcome 5.
       Antonio Salazar, Jhan Clinton<br>
       En el TP1, colaboré activamente en la sistematización de aprendizajes del sprint, consolidando reflexiones conjuntas del equipo en el apartado 6.2.1.9 Team Collaboration Insights during Sprint. Participé también en la documentación de los servicios como parte de las revisiones del sprint.Estas acciones fortalecieron la colaboración continua y permitieron detectar oportunidades de mejora en tiempo real.
       <br><br>
+	<strong>TB2:</strong><br><br>
+Antonio Salazar, Jhan Clinton<br>
+Durante el TB2, asumí un rol activo en la coordinación para la grabación y edición del video del equipo y el producto, asegurando que cada miembro tuviera claridad en sus intervenciones y que el mensaje fuera coherente con los objetivos del proyecto. Además, apoyé en la integración de los servicios entre backend y las aplicaciones web y móvil, participando en sesiones de pruebas cruzadas y resolución de errores. Estas acciones promovieron un entorno colaborativo y fortalecieron el liderazgo conjunto del equipo, permitiendo un avance técnico alineado con la planificación del Sprint 2.
+	          <br><br>
       <strong>TB1:</strong><br><br>
       Criollo de la Cruz, Diego Anderson<br>
       En el desarrollo del TB1, asumí un rol activo dentro del equipo encargándome principalmente de la elaboración de la documentación técnica y la corrección de errores en el desarrollo general del proyecto. Estas tareas me permitieron no solo aportar a la     
@@ -286,6 +295,10 @@ del ABET – EAC - Student Outcome 5.
       Criollo de la Cruz, Diego Anderson<br>
       En el TP1, asumí responsabilidades clave relacionadas con el control de versiones del código fuente y con la configuración de despliegue del software, lo cual permitió mantener una línea de desarrollo ordenada y replicable para todos los integrantes. También apoyé en la estructuración del Sprint Backlog  y en la validación del sistema a través de pruebas funcionales. Considero que estas actividades fueron cruciales para garantizar la calidad del producto y la estabilidad del ciclo de desarrollo.
       <br><br>
+	    <strong>TB2:</strong><br><br>
+Criollo de la Cruz, Diego Anderson<br>
+En el TB2, continué apoyando en la conexión de los servicios backend con las plataformas web y mobile, asegurando que las rutas de la API respondieran correctamente a los requerimientos del sistema. Además, participé en el diseño funcional y la documentación de los dispositivos IoT simulados, colaborando en la planificación técnica y el aseguramiento de la calidad del desarrollo. También apoyé en la estructura técnica del guion del video del producto. Estas actividades fortalecieron la integración entre los equipos de trabajo y aseguraron la coherencia del sistema.
+      <br><br>
        <strong>TB1:</strong><br><br>
       Espinoza Saenz, Christian Renato<br>
       Durante la implementación del software como propuesta de solución para la problemática encontrada, asumí la responsabilidad de coordinar las sesiones de trabajo y distribuir tareas equitativamente. Esto incluyó planificar reuniones, moderar discusiones y asegurar que cada integrante tuviera claridad sobre sus objetivos. Esta experiencia no solo fortaleció el liderazgo compartido, sino que también promovió un ambiente de trabajo inclusivo y eficiente.
@@ -293,6 +306,10 @@ del ABET – EAC - Student Outcome 5.
       <strong>TP1:</strong><br><br>
        Espinoza Saenz, Christian Renato<br>
       Durante el TP1, me concentré en el desarrollo del backend, asegurando su avance técnico conforme a los requerimientos funcionales. Participé directamente en la generación de evidencia del desarrollo  y en la configuración de la ejecución del sistema para revisión de sprint . Asimismo, trabajé en la guía de estilos y convenciones para el código fuente , promoviendo la coherencia en la escritura del código entre los integrantes. Estas tareas fortalecieron la arquitectura interna del sistema y facilitaron una integración eficiente con el frontend.
+      <br><br>
+	    <strong>TB2:</strong><br><br>
+Espinoza Saenz, Christian Renato<br>
+Durante el TB2, coordiné con el equipo el despliegue de los servicios en la nube para que fueran accesibles desde las aplicaciones web y móvil. Lideré la integración y validación de los dispositivos IoT desarrollados, asegurando su conexión estable con los servicios backend. También colaboré activamente en la planificación y edición del video del equipo, asegurando una narrativa clara y representativa del trabajo realizado. Estas acciones reflejan una gestión técnica activa y comprometida con el cumplimiento de los objetivos del sprint.
       <br><br>
       <strong>TB1:</strong><br><br>
       Morales Calderón, Hernan Emilio<br>
@@ -302,6 +319,10 @@ del ABET – EAC - Student Outcome 5.
        Morales Calderón, Hernan Emilio<br>
       Durante el TP1, desempeñé un rol de liderazgo rotativo, coordinando tareas clave en el avance del equipo. Estuve a cargo de facilitar la organización de responsabilidades por aspecto y de coordinar la entrega de evidencia de despliegue del software , asegurando que cada componente estuviera funcional y operativo. Asimismo, participé en la validación visual de la landing page, aportando a una presentación clara e intuitiva para los usuarios. Mi participación se centró en fomentar un flujo de trabajo ágil y bien distribuido.
       <br><br>
+<strong>TB2:</strong><br><br>
+Morales Calderón, Hernan Emilio<br>
+Durante este TB2, apoyé activamente en la organización del cronograma para la producción del video del equipo y producto, coordinando tiempos, recursos y contenidos. Además, trabajé en la integración funcional entre las interfaces frontend y los servicios backend, ejecutando pruebas funcionales y levantando observaciones para su corrección. Estas contribuciones facilitaron la sincronización del equipo y el avance ordenado de los componentes claves del proyecto.
+      <br><br>
       <strong>TB1:</strong><br><br>
       Valle Zuta, Abel Andrés<br>
       En la primera entrega del presente proyecto, lideré la organización de un cronograma semanal que permitió al equipo balancear sus responsabilidades. También proporcioné retroalimentación sobre avances individuales, promoviendo una dinámica de aprendizaje grupal y asegurando que el liderazgo se ejerciera de manera conjunta, enfocándonos siempre en cumplir los objetivos establecidos.
@@ -309,6 +330,10 @@ del ABET – EAC - Student Outcome 5.
       <strong>TP1:</strong><br><br>
        Valle Zuta, Abel Andrés<br>
       Durante el desarrollo del TP1, participé activamente en la configuración del entorno de desarrollo  y en la construcción de la página del proyecto. Estas tareas iniciales fueron fundamentales para dar forma a la base técnica y visual del sistema. Además, colaboré en la planificación de las actividades del sprint  y en la elaboración de documentación de servicios, garantizando una visión clara del avance técnico. Mi participación permitió consolidar una base sólida y funcional para el desarrollo posterior del sistema.
+	       <br><br>
+<strong>TB2:</strong><br><br>
+Valle Zuta, Abel Andrés<br>
+Durante el TB2, lideré la definición de la estructura narrativa y técnica del video del equipo, planificando sus secciones para mostrar tanto el producto como el proceso colaborativo detrás del desarrollo. También participé en la verificación y validación del funcionamiento de los dispositivos IoT integrados al sistema, así como en la revisión de los servicios conectados con las aplicaciones. Estas acciones permitieron consolidar la comunicación del equipo y cumplir con los objetivos del Sprint 2 de forma organizada.   
     </td>
     <td>
       <strong>TB1:</strong><br><br>
@@ -316,6 +341,9 @@ del ABET – EAC - Student Outcome 5.
       <br><br>
       <strong>TP1:</strong><br><br>
       El trabajo realizado durante el TP1 muestra un avance significativo en el desarrollo del proyecto, con un enfoque equilibrado entre la gestión del código, la implementación de la landing page, y la coordinación entre frontend y backend. La colaboración efectiva y la asignación clara de roles facilitaron la integración de los diferentes componentes, asegurando la calidad del software y el cumplimiento de los objetivos dentro de los tiempos previstos. Estas acciones reforzaron la comunicación y el trabajo en equipo, destacando la importancia de una gestión organizada y un liderazgo compartido para el éxito del proyecto.
+	    <br><br>
+<strong>TB2:</strong><br><br>
+Durante el TB2, el equipo consolidó importantes avances en la integración de servicios entre las aplicaciones web, móvil y los dispositivos IoT. Se trabajó de manera coordinada en la conexión técnica de los módulos desarrollados, así como en la planificación y producción del video del equipo y producto. La colaboración entre los miembros fue clave para resolver desafíos técnicos y organizativos, manteniendo una comunicación efectiva y un liderazgo compartido. Estas acciones reflejan un entorno de trabajo maduro, donde cada integrante asumió responsabilidades concretas y contribuyó al cumplimiento exitoso de los objetivos del Sprint 2.
     </td>
     
   </tr>
