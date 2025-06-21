@@ -344,6 +344,7 @@ Durante el TB2, lideré la definición de la estructura narrativa y técnica del
 	    <br><br>
 <strong>TB2:</strong><br><br>
 Durante el TB2, el equipo consolidó importantes avances en la integración de servicios entre las aplicaciones web, móvil y los dispositivos IoT. Se trabajó de manera coordinada en la conexión técnica de los módulos desarrollados, así como en la planificación y producción del video del equipo y producto. La colaboración entre los miembros fue clave para resolver desafíos técnicos y organizativos, manteniendo una comunicación efectiva y un liderazgo compartido. Estas acciones reflejan un entorno de trabajo maduro, donde cada integrante asumió responsabilidades concretas y contribuyó al cumplimiento exitoso de los objetivos del Sprint 2.
+    	    <br><br>
     </td>
     
   </tr>
@@ -360,6 +361,10 @@ Durante el TB2, el equipo consolidó importantes avances en la integración de s
       Antonio Salazar, Jhan Clinton<br>
       Durante el avance del TP1, lideré la configuración del entorno de desarrollo, asegurando que todos los integrantes trabajaran con herramientas y versiones homogéneas. Planifiqué las tareas del Sprint 1, estableciendo metas claras y asignando responsabilidades para garantizar un avance ordenado y coordinado. Promoví un ambiente colaborativo mediante la facilitación de reuniones efectivas y la comunicación constante con el equipo.
       <br><br>
+	    <strong>TB2:</strong><br><br>
+Antonio Salazar, Jhan Clinton<br>
+Durante el TB2, trabajé activamente en la organización de tareas para el Sprint 2, asegurándome de que las metas fueran claras y alcanzables para todos los miembros del equipo. Colaboré en la estructuración del backlog y en la distribución equitativa de responsabilidades, fomentando un entorno de trabajo inclusivo. Además, apoyé en la coordinación de la grabación del video del equipo, manteniendo una planificación efectiva que permitió cumplir con los plazos establecidos sin comprometer la calidad del contenido.
+      <br><br>
       <strong>TB1:</strong><br><br>
       Criollo de la Cruz, Diego Anderson<br>
       Durante el desarrollo del TB1, me encargué de redactar la documentación del proyecto, asegurándome de que la información técnica estuviera presentada de forma clara, ordenada y objetiva. Me enfoqué en que los resultados y decisiones del equipo pudieran ser 
@@ -370,6 +375,10 @@ Durante el TB2, el equipo consolidó importantes avances en la integración de s
       Criollo de la Cruz, Diego Anderson<br>
       Durante el avance del TP1, elaboré la documentación técnica relacionada con el diseño UI/UX y la implementación de los servicios. Organicé la información para que fuera comprensible para todos los miembros del equipo y los stakeholders, asegurando que las tareas estuvieran bien definidas y alineadas con los objetivos del Sprint 1. Esto permitió una ejecución más efectiva y controlada.
       <br><br>
+	    <strong>TB2:</strong><br><br>
+Criollo de la Cruz, Diego Anderson<br>
+En el TB2, me encargué de asegurar que la documentación técnica relacionada con los servicios conectados y las aplicaciones estuviera bien estructurada y fuera comprensible para todo el equipo. También planifiqué la validación de la integración entre plataformas web, móvil e IoT, promoviendo un entorno de trabajo ordenado. Estas tareas facilitaron el seguimiento de objetivos comunes y garantizaron una ejecución alineada con la planificación general del Sprint.
+	          <br><br>
       <strong>TB1:</strong><br><br>
       Espinoza Saenz, Christian Renato<br>
       Durante este primer avance, elaboré un informe técnico que resumía los avances y resultados del proyecto. Este documento estaba estructurado para ser comprensible tanto para los miembros técnicos del equipo como para la dirección general. Me enfoqué en utilizar un lenguaje preciso y acompañar la explicación con gráficos y tablas que facilitaran la comprensión, asegurando que el mensaje fuera claro para todos los destinatarios.
@@ -378,6 +387,10 @@ Durante el TB2, el equipo consolidó importantes avances en la integración de s
       Espinoza Saenz, Christian Renato<br>
       Durante el avance del TP1, me enfoqué en la implementación y desarrollo del backend, avanzando en la estructura de la base de datos y la lógica del servidor. Colaboré estrechamente con el equipo de frontend para asegurar la correcta integración de los servicios, fomentando un ambiente de trabajo inclusivo y comunicativo que permitió resolver desafíos técnicos de manera conjunta y eficiente.
       <br><br>
+	    <strong>TB2:</strong><br><br>
+Espinoza Saenz, Christian Renato<br>
+Durante el TB2, me enfoqué en establecer objetivos técnicos claros para la integración de los servicios y dispositivos IoT, y en coordinar el flujo de trabajo entre backend y frontend. Fomenté un entorno de trabajo inclusivo al brindar asistencia técnica a los compañeros que enfrentaban dificultades y facilitar reuniones breves para resolver bloqueos. Estas acciones aseguraron que las metas del sprint fueran cumplidas dentro de los tiempos estipulados y con una comunicación continua.
+	          <br><br>
       <strong>TB1:</strong><br><br>
       Morales Calderón, Hernan Emilio<br>
       Como parte de esta primera entrega, preparé una presentación escrita para los stakeholders del proyecto, detallando las metodologías empleadas, los resultados obtenidos y las recomendaciones futuras. Adapté el contenido según las necesidades del público, utilizando un lenguaje accesible para personas sin conocimientos técnicos y terminología especializada para quienes requerían un mayor nivel de detalle técnico.
@@ -386,6 +399,10 @@ Durante el TB2, el equipo consolidó importantes avances en la integración de s
       Morales Calderón, Hernan Emilio<br>
       Durante el avance del TP1, coordiné la documentación del proceso de despliegue del software, detallando cada paso para facilitar su reproducción y mantenimiento. Fomenté la comunicación fluida entre el equipo y los stakeholders, asegurando que las metas del sprint fueran comprendidas y alcanzadas, lo que contribuyó a un desarrollo ordenado y colaborativo.
       <br><br>
+	    <strong>TB2:</strong><br><br>
+Morales Calderón, Hernan Emilio<br>
+Durante este TB2, organicé tareas clave del equipo dentro del cronograma establecido para Sprint 2, verificando que los objetivos estuvieran alineados entre áreas técnicas y creativas. También propicié espacios para retroalimentación constante, permitiendo ajustes a tiempo y asegurando que todos los miembros se sintieran escuchados y representados. Mi participación promovió un entorno colaborativo y orientado al cumplimiento eficiente de metas.
+	<br><br>
       <strong>TB1:</strong><br><br>
       Valle Zuta, Abel Andrés<br>
       Durante la primera entrega del presente proyecto, lideré la elaboración del reporte del proyecto que contiene los puntos clave del proyecto, la arquitectura que este tendrá y el alcance que planeamos para el software. Utilicé diagramas y esquemas para complementar el texto, garantizando que tanto aspectos técnicos como estratégicos fueran entendidos por audiencias con diferentes especialidades y roles jerárquicos.
@@ -393,6 +410,11 @@ Durante el TB2, el equipo consolidó importantes avances en la integración de s
       <strong>TP1:</strong><br><br>
       Valle Zuta, Abel Andrés<br>
       Durante el avance del TP1, lideré la integración de la documentación general, incluyendo aspectos de diseño, implementación y validación. Utilicé diagramas y esquemas para complementar el texto, garantizando que tanto el equipo técnico como los responsables estratégicos comprendieran claramente el alcance y progreso del proyecto, facilitando la planificación y seguimiento del Sprint.
+	    <br><br>
+	    <strong>TB2:</strong><br><br>
+Valle Zuta, Abel Andrés<br>
+Durante el TB2, coordiné la planificación de tareas relacionadas con la validación de las aplicaciones IoT y su integración con el sistema. También estructuré la organización del guion técnico para el video del equipo, permitiendo una ejecución ordenada y coherente con los objetivos generales. Fomenté un ambiente inclusivo al recoger aportes de todos los integrantes y asegurar su incorporación en la planificación, logrando un avance conjunto y equilibrado.
+	    <br><br>
     </td>
     <td>
       <strong>TB1:</strong><br><br>
@@ -400,6 +422,9 @@ Durante el TB2, el equipo consolidó importantes avances en la integración de s
       <br><br>
       <strong>TP1:</strong><br><br>
       En este avance del TP1, fortalecimos un entorno colaborativo e inclusivo donde cada miembro del equipo pudo aportar desde su área de especialización. Establecimos metas claras y planificamos las tareas de manera organizada para asegurar el cumplimiento de los objetivos dentro de los tiempos estipulados. La comunicación fluida y el trabajo conjunto permitieron superar desafíos técnicos y mantener al equipo alineado con el progreso del proyecto. Esta experiencia consolidó nuestras habilidades para coordinar esfuerzos, fomentar la participación activa y garantizar resultados efectivos en un ambiente de respeto y colaboración.
+	    <br><br>
+<strong>TB2:</strong><br><br>
+Durante el TB2, el equipo logró consolidar un entorno colaborativo e inclusivo en el que cada integrante participó activamente en la planificación y cumplimiento de los objetivos del Sprint 2. Se establecieron metas claras, se organizaron tareas de forma eficiente y se promovió la comunicación constante entre los miembros. La coordinación de actividades técnicas, como la integración de servicios y la implementación de dispositivos IoT, junto con la producción del video institucional, reflejó una gestión equilibrada del tiempo y los recursos. Estas acciones permitieron alcanzar los entregables propuestos con calidad, cohesión y compromiso grupal.
     </td>
   </tr>
 </table>
