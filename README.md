@@ -4729,12 +4729,53 @@ Enlace del Sprint Backlog 2 en Trello: [Enlace de Trello](https://trello.com/inv
 
 #### 6.2.2.4. Development Evidence for Sprint Review
 
+|Repository|Branch|Commit id|Commit Message|Date|
+| :- | :- | :- | :- | :- |
+|LandingPage|main|f9c78d3|Feat: Added new sections into the Landing Page|20/06/25|
+|BackEnd|main|4c9efab|Feat: Added histories|30/05/25|
+|BackEnd|main|8ac6535|Feat: Added devices , sensors, sensorreadings and alerts|10/06/25|
+|BackEnd|main|49260d3|Feat: Change Db|14/06/25|
+|BackEnd|main|0066dca|Feat: Add or update the Azure App Service build and deployment workflow config|15/06/25|
+|Frontend|main|XX|Feat: XXX|XX|
+|Api Edge|main|d10f071|Initial Commit|19/06/25|
+|Embedded App|main|33dd316|Initial Commit|19/06/25|
+
 #### 6.2.2.5. Testing Suite Evidence for Sprint Review
 
 <div align = "justify">
 
 Url del repositorio donde se trabajaron los acceptance test: [https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Acceptance-Test](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Acceptance-Test)
+
+|Repository|Branch|Commit id|Name|Date|
+| :- | :- | :- | :- | :- |
+|AcceptanceTest|main|1a73276|NutriControl10.feature|21/06/25|
+|AcceptanceTest|main|1a73276|NutriControl11.feature|21/06/25|
+|AcceptanceTest|main|1a73276|NutriControl12.feature|21/06/25|
+|AcceptanceTest|main|1a73276|NutriControl13.feature|21/06/25|
+|AcceptanceTest|main|1a73276|NutriControl14.feature|21/06/25|
+|AcceptanceTest|main|1a73276|NutriControl15.feature|21/06/25|
+|AcceptanceTest|main|1a73276|NutriControl16.feature|21/06/25|
+|AcceptanceTest|main|1a73276|NutriControl17.feature|21/06/25|
+|AcceptanceTest|main|1a73276|NutriControl18.feature|21/06/25|
+|AcceptanceTest|main|1a73276|NutriControl19.feature|21/06/25|
+|AcceptanceTest|main|1a73276|NutriControl20.feature|21/06/25|
+|AcceptanceTest|main|1a73276|NutriControl21.feature|21/06/25|
+|AcceptanceTest|main|1a73276|NutriControl22.feature|21/06/25|
+|AcceptanceTest|main|1a73276|NutriControl23.feature|21/06/25|
+
 </div>
+
+<br>
+
+<div align = "justify">
+
+Url del repositorio donde se trabajaron las Pruebas Unitarias: [https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Acceptance-Test](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Acceptance-Test)
+
+XXXX
+
+</div>
+
+<br>
 
 #### 6.2.2.6. Execution Evidence for Sprint Review
 
