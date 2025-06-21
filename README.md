@@ -5408,7 +5408,21 @@ Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma Nu
 
 #### 6.3.3. Evaluaciones según heurísticas
 
+<br>
+
 ## 6.4. Video About-the-Product
+
+<div align="center">
+
+  ![AboutTheTeam](Resources/Annexes/AboutTheProduct.png)
+
+</div>
+
+<div align="justify">
+
+  Link del video en Youtube: [Ver Organización](https://www.youtube.com/watch?v=dmfyM0Ajn0g)
+
+</div>
 
 # Conclusiones
 
