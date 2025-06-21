@@ -5418,11 +5418,8 @@ Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma Nu
 
 </div>
 
-<div align="justify">
+Enlace del video en Youtube: [Video About The Product - Youtube](https://www.youtube.com/watch?v=dmfyM0Ajn0g)
 
-  Link del video en Youtube: [Ver Organización](https://www.youtube.com/watch?v=dmfyM0Ajn0g)
-
-</div>
 
 # Conclusiones
 
@@ -5516,3 +5513,12 @@ Enlace: [TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_e
 
 
 Enlace: [TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/ERL-4bh2Fg9Bj2yyvw48tBUBobb8ErAIgB5SFZoIgh0WFg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=d79h7a)
+
+## Video About The-Product:
+
+<div align="center">
+
+![AboutTheTeam](Resources/Annexes/AboutTheProduct.png)
+ </div>
+
+Enlace: [Video About The Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/Ecxd7LAf8iFPhTbo0aqQUpMBayc_sYUCKfHiRfhcRWgIIQ?e=ZRy7bI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
