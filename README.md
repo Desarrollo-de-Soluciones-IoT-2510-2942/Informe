@@ -5589,7 +5589,7 @@ Enlace del video en Youtube: [Video About The Product - Youtube](https://www.you
 + Repositorio GitHub de la Aplicación Móvil: [Ver Repositorio](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/MobileApp)<br><br>
 + Landing Page: [Ver Landing Page](https://nutricontrol.netlify.app)<br><br>
 + Aplicación Web: [Ver Aplicación Web](https://nutricontrol-agro.netlify.app)<br><br>
-
++ Backend: [Ver Backend](https://nutricontrolapifilesadministration-bvf4bbbpgpb5h5dw.brazilsouth-01.azurewebsites.net/swagger/index.html)<br><br>
 
 ## Needfinding Interviews
 
