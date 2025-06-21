@@ -4851,9 +4851,10 @@ Ejecución del Frontend: Desplegada en Netifly y con la conexión con las APIs p
 
 <br>
 
-Ejecución del BackEnd: Desplegado en ?
+Ejecución del BackEnd: Desplegado en Azure
+[https://nutricontrolapifilesadministration-bvf4bbbpgpb5h5dw.brazilsouth-01.azurewebsites.net/swagger/index.html](https://nutricontrolapifilesadministration-bvf4bbbpgpb5h5dw.brazilsouth-01.azurewebsites.net/swagger/index.html)
 
-![BackEnd](Resources/Chapter%2006/Execution%20Evidence/BackendEvidence.png)
+![BackEnd](Resources/Chapter%2006/Sprint%202/Backend%20Development%202.png)
 
 <br>
 
@@ -4876,9 +4877,11 @@ Ejecución de las Embedded Apps: Desplegado en ?
 <div align = "justify">
 A continuación se presenta la lista completa de endpoints disponibles en la versión 2 de la API. Estos endpoints pertenecen a la lista final de endpoints disponibles para el uso de las aplicaciones de NutriControl.
 
-# Endpoints de la API (v2)
+**Endpoints de la API (v2)**
 
-## Endpoints de Cultivos (`Crop`)
+<br>
+
+**Endpoints de Cultivos (`Crop`)**
 
 | **Endpoint**                         | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
 |--------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
@@ -4895,7 +4898,7 @@ A continuación se presenta la lista completa de endpoints disponibles en la ver
 ---
 
 
-## Endpoints de Recomendaciones (`Recommendation`)
+**Endpoints de Recomendaciones (`Recommendation`)**
 
 | **Endpoint**                                             | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
 |----------------------------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
@@ -4908,7 +4911,7 @@ A continuación se presenta la lista completa de endpoints disponibles en la ver
 ---
 
 
-## Endpoints de Dispositivos (`Device`)
+**Endpoints de Dispositivos (`Device`)**
 
 | **Endpoint**                         | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
 |--------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
@@ -4922,7 +4925,7 @@ A continuación se presenta la lista completa de endpoints disponibles en la ver
 ---
 
 
-### Subgrupo: Sensores (`Sensor`)
+**Subgrupo: Sensores (`Sensor`)**
 
 | **Endpoint**                         | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
 |--------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
@@ -4936,7 +4939,7 @@ A continuación se presenta la lista completa de endpoints disponibles en la ver
 ---
 
 
-### Subgrupo: Lecturas (`Readings`)
+**Subgrupo: Lecturas (`Readings`)**
 
 | **Endpoint**                         | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
 |--------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
@@ -4950,7 +4953,7 @@ A continuación se presenta la lista completa de endpoints disponibles en la ver
 ---
 
 
-### Subgrupo: Alertas (`Alerts`)
+**Subgrupo: Alertas (`Alerts`)**
 
 | **Endpoint**                         | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
 |--------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
@@ -4964,7 +4967,7 @@ A continuación se presenta la lista completa de endpoints disponibles en la ver
 ---
 
 
-## Endpoints de Campos (`Field`)
+**Endpoints de Campos (`Field`)**
 
 | **Endpoint**                         | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
 |--------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
@@ -4979,7 +4982,7 @@ A continuación se presenta la lista completa de endpoints disponibles en la ver
 ---
 
 
-## Endpoints de Suscripciones (`Subscription`)
+**Endpoints de Suscripciones (`Subscription`)**
 
 | **Endpoint**                         | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
 |--------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
@@ -4993,7 +4996,7 @@ A continuación se presenta la lista completa de endpoints disponibles en la ver
 ---
 
 
-## Endpoints de Usuarios (`User`)
+**Endpoints de Usuarios (`User`)**
 
 | **Endpoint**                         | **HTTP Verb** | **Acción**                      | **Descripción**                                                  |
 |--------------------------------------|---------------|----------------------------------|------------------------------------------------------------------|
@@ -5021,6 +5024,10 @@ Durante la Sprint Review se presentó la evidencia de la ejecución de los compo
 - **Ejecución de la Web Application**:
   - La Web Application está desplegada y accesible públicamente en: [https://nutricontrol-agro.netlify.app/](https://nutricontrol-agro.netlify.app/)
   - Se implementó la conexión con el Backend, haciendo la Web Application totalmente funcional.
+    
+- **Ejecución del Backend (API Restful)**:
+  - El Backend está desplegada y accesible públicamente en: [https://nutricontrolapifilesadministration-bvf4bbbpgpb5h5dw.brazilsouth-01.azurewebsites.net/swagger/index.html](https://nutricontrolapifilesadministration-bvf4bbbpgpb5h5dw.brazilsouth-01.azurewebsites.net/swagger/index.html)
+  - Se implementó el despliegue en la plataforma de Azure.
 
 </div>
 
@@ -5208,6 +5215,7 @@ Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma Nu
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
+	    Diego Cano, un joven agricultor rural de 23 años, compartió su experiencia positiva con una aplicación agrícola, destacando que la interfaz es "intuitiva y amigable" y la idea detrás de ella está clara, lo que la hace accesible para novatos. Destacó la facilidad de uso y su utilidad para aquellos que están empezando en la agricultura, proporcionando información valiosa de manera clara y accesible. Recomendó que la app podría ser aún más útil si incluyera la capacidad de identificar plagas en los cultivos de vecinos, lo que ayudaría a tomar medidas preventivas y compartir conocimientos y soluciones.
     </td>
   </tr>
 </tbody>
@@ -5265,7 +5273,7 @@ Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma Nu
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/" alt="Entrevista a Jesus"></div></td>
+    <td><div align="center"><img src="Resources/Chapter%2006/Sprint%202/entrevista-magno.jpg" alt="Entrevista a Jesus"></div></td>
   </tr>
   <tr>
     <td>Link</td>
