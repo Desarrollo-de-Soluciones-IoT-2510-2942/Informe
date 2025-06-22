@@ -4875,9 +4875,10 @@ Ejecución del Embedded App: Disponible para visualizar en Wokwi
 
 <br>
 
-Ejecución del Api Edge: Desplegado en ??
+Ejecución del Api Edge: Desplegado en Azure 
+[https://agrosense-nutricontrol-apiedge-g4asbaddapdgfxha.canadacentral-01.azurewebsites.net/](https://agrosense-nutricontrol-apiedge-g4asbaddapdgfxha.canadacentral-01.azurewebsites.net/)
 
-![Edge](Resources/Chapter%2006/Sprint%202/Embedded%20Development%202.png)
+![Edge](Resources/Chapter%2006/Edge%20Deployment.jpg)
 
 
 </div>
@@ -5740,6 +5741,16 @@ Enlace: [TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_e
 
 Enlace: [TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/ERL-4bh2Fg9Bj2yyvw48tBUBobb8ErAIgB5SFZoIgh0WFg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=d79h7a)
 
+## Video Exposición del TB2
+
+  <div align="center">
+    <img src="Resources/Chapter%2006/Tb2%20expo.png">
+ </div>
+
+
+Enlace: [TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/EewEtn0uQypKv7bsoRh87eUBugRc6GIDuI-Ht0UeXCJbOA?e=FQnJ8I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
 ## Video de Ejecución de la Primera Versión de la Aplicación Móvil
 
   <div align="center">
@@ -5749,14 +5760,6 @@ Enlace: [TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_e
 
 Enlace: [Mobile App Execution](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EU8H8MznINFGrYhkzAwiyTQBvvb3cA3LLDSRdwSy5sfJtg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=WeNG11)
 
-## Video Exposición del TB2
-
-  <div align="center">
-    <img src="">
- </div>
-
-
-Enlace: [TB2](/)
 
 ## Video About The-Product:
 
