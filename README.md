@@ -5543,6 +5543,83 @@ Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma Nu
 
 #### 6.3.3. Evaluaciones según heurísticas
 
+<div align="justify">
+
+A continuación se presentan las evaluaciones aplicadas a partir de los hallazgos encontrados en las entrevistas de validación de NutriControl.
+
+**1. Heurística: Consistencia y estándares**
+- **Descripción de la heurística:**  
+  La interfaz debe seguir patrones reconocibles y uniformes en todos sus elementos.  
+- **Observaciones:**  
+  Los usuarios encontraron coherencia en la navegación y en la disposición de elementos como el dashboard, reportes y alertas. Sin embargo, se sugiere mejorar la claridad en la presentación de algunas notificaciones.  
+- **Evidencia:**  
+  - Los usuarios valoran la disposición ordenada del dashboard y lo intuitivo del sistema.  
+  - Algunos sugieren hacer más claras las notificaciones y mejorar su integración, por ejemplo, con WhatsApp.  
+- **Nivel de severidad:** 2 (Moderado)  
+- **Recomendaciones:**  
+  - Unificar el diseño visual de todas las notificaciones (color, íconos, redacción).  
+  - Considerar canales alternativos como WhatsApp para alertas importantes.  
+  - Definir un sistema de diseño robusto que garantice uniformidad entre secciones.
+
+**2. Heurística: Flexibilidad y eficiencia de uso**
+- **Descripción de la heurística:**  
+  La aplicación debe permitir al usuario adaptar flujos a sus necesidades y acelerar tareas frecuentes.  
+- **Observaciones:**  
+  Los usuarios valoran funciones como el emparejamiento de sensores y la navegación ágil. Algunos sugieren permitir personalización por tipo de cultivo y lote, así como integrar sistemas automatizados existentes.  
+- **Evidencia:**  
+  - Se destaca la facilidad para conectar sensores y navegar entre funciones.  
+  - Los usuarios piden adaptar la experiencia por tipo de cultivo o lote.  
+  - Se sugiere compatibilidad con sistemas de riego automatizado.  
+- **Nivel de severidad:** 3 (Alto)  
+- **Recomendaciones:**  
+  - Incluir perfiles configurables por lote y tipo de cultivo.  
+  - Implementar compatibilidad con sistemas automatizados existentes.  
+  - Añadir funcionalidades de carga masiva o personalizada de datos.
+
+**3. Heurística: Diseño estético y minimalista**
+- **Descripción de la heurística:**  
+  La interfaz no debe contener información irrelevante.  
+- **Observaciones:**  
+  Los usuarios valoran el diseño limpio, el tamaño adecuado de letras y la disposición visual de los datos. Se sugiere agregar un modo nocturno para mayor comodidad.  
+- **Evidencia:**  
+  - Se aprecian el diseño visual y el contraste adecuado.  
+  - Hay múltiples sugerencias para implementar un modo oscuro.  
+- **Nivel de severidad:** 2 (Moderado)  
+- **Recomendaciones:**  
+  - Incorporar un modo nocturno accesible desde el perfil o configuración.  
+  - Mantener el enfoque minimalista, destacando información crítica con colores semánticos.
+
+**4. Heurística: Prevención de errores**
+- **Descripción de la heurística:**  
+  Diseñar de modo que evite situaciones propensas a errores.  
+- **Observaciones:**  
+  Los usuarios notaron que la validación de datos es clara y útil. Aun así, algunos usuarios tuvieron dudas iniciales durante la configuración.  
+- **Evidencia:**  
+  - Se valoran las validaciones y correcciones automáticas de entradas erróneas.  
+  - Algunos usuarios reportaron confusión inicial al configurar la app.  
+- **Nivel de severidad:** 2 (Moderado)  
+- **Recomendaciones:**  
+  - Fortalecer la guía inicial con un asistente paso a paso interactivo.  
+  - Incluir retroalimentación visual clara durante la configuración.  
+  - Continuar con validaciones en tiempo real con mensajes explicativos.
+
+**5. Heurística: Accesibilidad e inclusive design**
+- **Descripción de la heurística:**  
+  Asegurar que la experiencia sea usable por personas con diferentes capacidades.  
+- **Observaciones:**  
+  Los usuarios valoran el lenguaje accesible y la simplicidad visual. Sugieren mejorar el contraste para uso prolongado y garantizar que los datos sean comprensibles sin formación técnica.  
+- **Evidencia:**  
+  - Se destaca que el lenguaje es comprensible para personas sin conocimientos técnicos.  
+  - Se sugiere aplicar mejores contrastes y etiquetas para facilitar la comprensión.  
+- **Nivel de severidad:** 2 (Moderado)  
+- **Recomendaciones:**  
+  - Verificar contraste de texto y botones según estándares WCAG 2.1 (AA).  
+  - Añadir descripciones en gráficos y elementos interactivos.  
+  - Etiquetar correctamente formularios e inputs con ARIA.
+
+</div>
+
+
 <br>
 
 ## 6.4. Video About-the-Product
