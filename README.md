@@ -4835,16 +4835,6 @@ Url del repositorio donde se trabajaron los acceptance test: [https://github.com
 
 <br>
 
-<div align = "justify">
-
-Url del repositorio donde se trabajaron las Pruebas Unitarias: [https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Unit-Test](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Unit-Test)
-
-XXXX
-
-</div>
-
-<br>
-
 #### 6.2.2.6. Execution Evidence for Sprint Review
 
 
