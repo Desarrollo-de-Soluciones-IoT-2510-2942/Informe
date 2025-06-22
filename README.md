@@ -5040,7 +5040,10 @@ Durante la Sprint Review se presentó la evidencia de la ejecución de los compo
 - **Ejecución del Backend (API Restful)**:
   - El Backend está desplegada y accesible públicamente en: [https://nutricontrolapifilesadministration-bvf4bbbpgpb5h5dw.brazilsouth-01.azurewebsites.net/swagger/index.html](https://nutricontrolapifilesadministration-bvf4bbbpgpb5h5dw.brazilsouth-01.azurewebsites.net/swagger/index.html)
   - Se implementó el despliegue en la plataforma de Azure.
- 
+
+- **Ejecución del Mobile App**:
+  - La primera versión de la Mobile Application está desplegada y accesible públicamente en: [https://drive.google.com/file/d/13Ij7g6mpJ5EW-KUbSwh-JenQr-5HtALu/view?usp=sharing](https://drive.google.com/file/d/13Ij7g6mpJ5EW-KUbSwh-JenQr-5HtALu/view?usp=sharing)
+
 - **Ejecución del Embedded App**:
   - El Embedded App está desplegada y accesible públicamente en: [https://wokwi.com/projects/432963986844912641](https://wokwi.com/projects/432963986844912641)
 
