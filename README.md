@@ -4865,9 +4865,16 @@ Ejecución del Mobile App: ?
 
 <br>
 
-Ejecución de las Embedded Apps: Desplegado en ?
+Ejecución del Embedded App: Disponible para visualizar en Wokwi
 
-![BackEnd](Resources/Chapter%2006/Execution%20Evidence/BackendEvidence.png)
+![Embedded](Resources/Chapter%2006/Sprint%202/Embedded%20Development%202.png)
+
+<br>
+
+Ejecución del Api Edge: Desplegado en ??
+
+![Edge](Resources/Chapter%2006/Sprint%202/Embedded%20Development%202.png)
+
 
 </div>
 
@@ -5029,6 +5036,9 @@ Durante la Sprint Review se presentó la evidencia de la ejecución de los compo
 - **Ejecución del Backend (API Restful)**:
   - El Backend está desplegada y accesible públicamente en: [https://nutricontrolapifilesadministration-bvf4bbbpgpb5h5dw.brazilsouth-01.azurewebsites.net/swagger/index.html](https://nutricontrolapifilesadministration-bvf4bbbpgpb5h5dw.brazilsouth-01.azurewebsites.net/swagger/index.html)
   - Se implementó el despliegue en la plataforma de Azure.
+ 
+- **Ejecución del Embedded App**:
+  - El Embedded App está desplegada y accesible públicamente en: [https://wokwi.com/projects/432963986844912641](https://wokwi.com/projects/432963986844912641)
 
 </div>
 
@@ -5504,6 +5514,7 @@ Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma Nu
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
+	    Leonel Alfaro, productor tecnificado de arándanos de 25 años, afirmó que NutriControl ha transformado su forma de trabajar, siendo esencial para optimizar el riego y fertilización, y alcanzar altos rendimientos y calidad. Destacó como principal beneficio la información detallada en tiempo real. Como mejora, sugirió integrar alertas predictivas de plagas e inteligencia artificial para anticipar enfermedades, además de la compatibilidad con sistemas de automatización ya instalados, lo que permitiría una gestión aún más eficiente y autónoma.
     </td>
   </tr>
 </tbody>
