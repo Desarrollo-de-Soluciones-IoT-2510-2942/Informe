@@ -4065,11 +4065,12 @@ El despliegue de la solución **NutriControl** se realiza mediante una arquitect
 <br>
 
 - **Backend**:
-  - El backend está desarrollado en C# con ASP.NET Core, implementando una API RESTful para gestionar datos agrícolas.
-  - El despliegue inicial se realiza en un entorno local o en la nube mediante Docker, con planes para migrar a instancias cloud (AWS, Azure) en iteraciones futuras.
+  - El Backend está desarrollado en C# con ASP.NET Core, implementando una API RESTful para gestionar datos agrícolas.
+  - El despliegue está realizado en Microsoft Azure [https://nutricontrolapifilesadministration-bvf4bbbpgpb5h5dw.brazilsouth-01.azurewebsites.net/swagger/index.html](https://nutricontrolapifilesadministration-bvf4bbbpgpb5h5dw.brazilsouth-01.azurewebsites.net/swagger/index.html).
   - El backend utiliza MongoDB Atlas para la gestión de la base de datos en la nube.
-  - Se emplean variables de entorno para la configuración segura de conexiones y credenciales.
   - Se sigue la guía de estilo Microsoft C# Coding Conventions, asegurando código mantenible y escalable.
+![Backend Deployment](Resources/Chapter%2006/Sprint%202/Backend%20Deployment.jpg)
+<br>
 
 ### Proceso de Despliegue
 
@@ -5135,11 +5136,11 @@ Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma Nu
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ER6LzcDhl-NAr-U44b7982MBl0jXl9YomI6wZ7RVtnggwQ?e=mIhVeJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:05 min - 05:20 min </td>
+    <td>00:00 min - 07:48 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -5206,11 +5207,11 @@ Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma Nu
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ER6LzcDhl-NAr-U44b7982MBl0jXl9YomI6wZ7RVtnggwQ?e=mIhVeJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:05 min - 05:20 min </td>
+    <td>07:48 min - 14:13 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -5277,11 +5278,11 @@ Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma Nu
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ER6LzcDhl-NAr-U44b7982MBl0jXl9YomI6wZ7RVtnggwQ?e=mIhVeJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:05 min - 05:20 min </td>
+    <td>14:13 min - 25:18 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -5348,19 +5349,20 @@ Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma Nu
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/" alt="Entrevista a Nicole"></div></td>
+    <td><div align="center"><img src="Resources/Chapter%2006/Sprint%202/entrevista-nicolle.png" alt="Entrevista a Nicole"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ER6LzcDhl-NAr-U44b7982MBl0jXl9YomI6wZ7RVtnggwQ?e=mIhVeJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:05 min - 05:20 min </td>
+    <td>25:18 min - 31:53 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
+	    Nicolle Gonzales, productora tecnificada de cultivos de alto valor, señaló que NutriControl deja claro desde el primer uso su propósito de optimizar riego y fertilización según las condiciones del suelo. Destacó lo sencillo que fue conectar los sensores gracias a la guía paso a paso y los videos, y valoró que los datos de humedad, pH y nutrientes se presenten de forma visual y clara, facilitando la toma de decisiones a tiempo. Comentó que no encontró dificultades al configurar alertas o activar el riego, y elogió la navegación limpia e intuitiva entre dashboard, reportes, alertas y configuración. Apreció la validación de errores al ingresar datos, las recomendaciones en tiempo real acompañadas de explicaciones, y la distinción clara entre funciones gratuitas y premium. Además, consideró el lenguaje de la app accesible para usuarios sin formación técnica. Como mejoras, sugirió añadir un modo nocturno para uso de madrugada y permitir personalizar el perfil por lote y tipo de cultivo para adaptar la interfaz a cada realidad.
     </td>
   </tr>
 </tbody>
@@ -5418,19 +5420,20 @@ Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma Nu
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/" alt="Entrevista a Italo"></div></td>
+    <td><div align="center"><img src="Resources/Chapter%2006/Sprint%202/entrevista-italo.png" alt="Entrevista a Italo"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ER6LzcDhl-NAr-U44b7982MBl0jXl9YomI6wZ7RVtnggwQ?e=mIhVeJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:05 min - 05:20 min </td>
+    <td>31:53 min - 37:48 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
+	    Italo, productor tecnificado de cultivos de alto valor, destacó que desde el primer acceso a NutriControl captó con claridad su objetivo de optimizar el riego y la fertilización en función de las condiciones reales del suelo. Señaló que emparejar los sensores fue muy sencillo gracias a los tutoriales y videos, y valoró que la presentación de datos sea gráfica y fácil de interpretar, lo que agiliza la toma de decisiones. Mencionó que la configuración de alertas y el control de riego le resultaron naturales, y elogió la disposición ordenada del dashboard, reportes, alertas y ajustes. Apreciò además las validaciones que corrigen entradas erróneas, las notificaciones con explicaciones puntuales y la distinción transparente entre las herramientas gratuitas y las premium. Considera que el lenguaje de la aplicación es accesible incluso para quienes no tienen formación técnica. Como mejoras, propone incorporar un modo oscuro para revisiones nocturnas y permitir personalizar el perfil por lote y tipo de cultivo para ajustar la experiencia a cada parcela.
     </td>
   </tr>
 </tbody>
@@ -5492,11 +5495,11 @@ Estas preguntas están diseñadas para evaluar la usabilidad de la plataforma Nu
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ER6LzcDhl-NAr-U44b7982MBl0jXl9YomI6wZ7RVtnggwQ?e=mIhVeJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:05 min - 05:20 min </td>
+    <td>37:48 min - 42:47 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -5551,7 +5554,13 @@ Enlace del video en Youtube: [Video About The Product - Youtube](https://www.you
 
 ## Video About-the-Team
 
+<div align="center">
 
+  ![AboutTheTeam](Resources/Chapter%2006/Sprint%202/About%20The%20Team.png)
+
+</div>
+
+Enlace del video en Youtube: [Video About The Team - Youtube](https://www.youtube.com/watch?v=FL0CAQZbQIE)
 
 <br>
 
@@ -5600,6 +5609,13 @@ Enlace del video en Youtube: [Video About The Product - Youtube](https://www.you
 
 Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EVe9zyPE2kRAr5_tAXckCn8BUuKVbU04Pw8xjXkNN28GKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tFnPPJ)
 
+## Validation Interviews
+
+  <div align="center">
+    <img src="Resources/Chapter%2006/Sprint%202/Expo%20tb2.png">
+ </div>
+
+Enlace: [Validation](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ER6LzcDhl-NAr-U44b7982MBl0jXl9YomI6wZ7RVtnggwQ?e=Rr5GEr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Video Exposición del TB1
 
@@ -5620,11 +5636,29 @@ Enlace: [TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_e
 
 Enlace: [TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/ERL-4bh2Fg9Bj2yyvw48tBUBobb8ErAIgB5SFZoIgh0WFg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=d79h7a)
 
+## Video Exposición del TB2
+
+  <div align="center">
+    <img src="">
+ </div>
+
+
+Enlace: [TB2](/)
+
 ## Video About The-Product:
 
 <div align="center">
 
-![AboutTheTeam](Resources/Annexes/AboutTheProduct.png)
+![AboutTheProduct](Resources/Annexes/AboutTheProduct.png)
  </div>
 
 Enlace: [Video About The Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/Ecxd7LAf8iFPhTbo0aqQUpMBayc_sYUCKfHiRfhcRWgIIQ?e=ZRy7bI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+## Video About The-Team:
+
+<div align="center">
+
+![AboutTheTeam](Resources/Chapter%2006/Sprint%202/About%20The%20Team.png)
+ </div>
+
+Enlace: [Video About The Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ER3uqFjae9tGhZdW4chCVjgBurPVDYLri1D_UhKL-Fx5RQ?e=vPwnyO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
