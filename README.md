@@ -4861,9 +4861,10 @@ Ejecución del BackEnd: Desplegado en Azure
 
 <br>
 
-Ejecución del Mobile App: ?
+Ejecución del Mobile App: Desplegado en APK
+[https://drive.google.com/file/d/13Ij7g6mpJ5EW-KUbSwh-JenQr-5HtALu/view?usp=sharing](https://drive.google.com/file/d/13Ij7g6mpJ5EW-KUbSwh-JenQr-5HtALu/view?usp=sharing)
 
-![BackEnd](Resources/Chapter%2006/Execution%20Evidence/BackendEvidence.png)
+![MobileApp](Resources/Chapter%2006/Sprint%202/MobileAppFirstVersion.jpg)
 
 <br>
 
