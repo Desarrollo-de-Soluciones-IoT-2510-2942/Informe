@@ -116,6 +116,16 @@
 
 </div>
 
+**TB2:**
+
+<div align="center">
+
+  ![Insights](Resources/Chapter%2006/Sprint%202/insights%201.png)
+
+</div>
+
+</div>
+
 <div style="page-break-after: always;"></div>
 
 # Contenido
@@ -5056,6 +5066,14 @@ Durante la Sprint Review se presentó la evidencia de la ejecución de los compo
 En la siguiente imagen se logra apreciar que todos los integrantes del equipo han colaborado a cumplir con los objetivos establecidos para este segundo sprint.
 
 </div>
+
+<div align="center">
+
+  ![Insights](Resources/Chapter%2006/Sprint%202/insights%202.png)
+
+</div>
+
+<br>
 
 ## 6.3. Validation Interviews
 
