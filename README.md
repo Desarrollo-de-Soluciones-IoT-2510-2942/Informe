@@ -4866,6 +4866,7 @@ Ejecución del Mobile App: ?
 <br>
 
 Ejecución del Embedded App: Disponible para visualizar en Wokwi
+[https://wokwi.com/projects/432963986844912641](https://wokwi.com/projects/432963986844912641)
 
 ![Embedded](Resources/Chapter%2006/Sprint%202/Embedded%20Development%202.png)
 
