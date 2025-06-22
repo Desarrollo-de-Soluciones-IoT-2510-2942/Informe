@@ -46,7 +46,7 @@
 </div>
 <br>
 <p align="center">
-    <strong>MAYO 2025 </strong>
+    <strong>JUNIO 2025 </strong>
 </p>
 <br>
 
