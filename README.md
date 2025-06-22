@@ -5617,6 +5617,7 @@ Enlace del video en Youtube: [Video About The Team - Youtube](https://www.youtub
 + Landing Page: [Ver Landing Page](https://nutricontrol.netlify.app)<br><br>
 + Aplicación Web: [Ver Aplicación Web](https://nutricontrol-agro.netlify.app)<br><br>
 + Backend: [Ver Backend](https://nutricontrolapifilesadministration-bvf4bbbpgpb5h5dw.brazilsouth-01.azurewebsites.net/swagger/index.html)<br><br>
++ Aplicación Móvil: [Ver Aplicación Móvil](https://drive.google.com/file/d/13Ij7g6mpJ5EW-KUbSwh-JenQr-5HtALu/view?usp=sharing)<br><br>
 
 ## Needfinding Interviews
 
@@ -5653,6 +5654,15 @@ Enlace: [TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_e
 
 
 Enlace: [TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/ERL-4bh2Fg9Bj2yyvw48tBUBobb8ErAIgB5SFZoIgh0WFg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=d79h7a)
+
+## Video de Ejecución de la Primera Versión de la Aplicación Móvil
+
+  <div align="center">
+    <img src="Resources/Chapter 06/Sprint 2/MobileAppFirstVersion.jpg">
+ </div>
+
+
+Enlace: [Mobile App Execution](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EU8H8MznINFGrYhkzAwiyTQBvvb3cA3LLDSRdwSy5sfJtg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=WeNG11)
 
 ## Video Exposición del TB2
 
