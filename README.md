@@ -4827,7 +4827,7 @@ Url del repositorio donde se trabajaron los acceptance test: [https://github.com
 
 <div align = "justify">
 
-Url del repositorio donde se trabajaron las Pruebas Unitarias: [https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Acceptance-Test](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Acceptance-Test)
+Url del repositorio donde se trabajaron las Pruebas Unitarias: [https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Unit-Test](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Unit-Test)
 
 XXXX
 
