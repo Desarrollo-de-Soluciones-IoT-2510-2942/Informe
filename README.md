@@ -4362,6 +4362,8 @@ Para este segundo Sprint hemos definido como objetivo finalizar el desarrollo de
 
 <div align = "justify">
 
+![Sprint Backlog 2](Resources/Chapter%2006/Sprint%202/sprint2.PNG)
+
 Enlace del Sprint Backlog 2 en Trello: [Enlace de Trello](https://trello.com/invite/b/682596cb926b0ea5b4959682/ATTI1a6311d0e5926161ec522d79907615b849B734EC/nutricontrol-agrosense)
 
 </div>
