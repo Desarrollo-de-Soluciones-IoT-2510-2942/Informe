@@ -129,6 +129,14 @@
 
 </div>
 
+**TF1:**
+
+<div align="center">
+
+  ![Insights](Resources/Chapter%2006/Sprint3/insights1.png)
+
+</div>
+
 </div>
 
 <div style="page-break-after: always;"></div>
@@ -5852,7 +5860,7 @@ Enlace del video en Youtube: [Video About The Product - Youtube](https://www.you
 
 </div>
 
-Enlace del video en Youtube: [Video About The Team - Youtube](https://www.youtube.com/watch?v=FL0CAQZbQIE)
+Enlace: [Video About The Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EbohUAV7KdNHjEiSjs9976sB27gKmVFMiKjwErLhen4kjg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NarIHf)
 
 <br>
 
@@ -5965,3 +5973,12 @@ Enlace: [Video About The Product](https://upcedupe-my.sharepoint.com/:v:/g/perso
  </div>
 
 Enlace: [Video About The Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EbohUAV7KdNHjEiSjs9976sB27gKmVFMiKjwErLhen4kjg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NarIHf)
+
+## Video Exposición del TF1
+
+  <div align="center">
+    <img src="Resources/Chapter%2006/Tf1%20expo.png">
+ </div>
+
+
+Enlace: [TF1]()
