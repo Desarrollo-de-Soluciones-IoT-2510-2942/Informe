@@ -8,7 +8,7 @@
     <strong>1ASI0572 - Desarrollo de Soluciones IoT - 2942</strong><br>  
     <br>
     <strong>Profesor: Marco Antonio León Baca</strong><br>
-    <br> <strong>INFORME DE TF</strong> 
+    <br> <strong>INFORME DE TF1</strong> 
 </p>
 <p align="center">
     <strong>Startup: AgroSense</strong><br>
@@ -75,6 +75,11 @@
 |TB2| 20/06/2025 |Espinoza Saenz, Christian Renato|  Capítulo VI: Product Implementation, Validation & Deployment |
 |TB2| 20/06/2025 |Morales Calderón, Hernan Emilio|  Capítulo VI: Product Implementation, Validation & Deployment |
 |TB2| 20/06/2025 |Valle Zuta, Abel Andrés|  Capítulo VI: Product Implementation, Validation & Deployment |
+|TF1| 20/06/2025 |Antonio Salazar Jhan Clinton| Capítulo VI: Product Implementation, Validation & Deployment - Sprint 3|
+|TF1| 20/06/2025 |Criollo De La Cruz, Diego Anderson|  Capítulo VI: Product Implementation, Validation & Deployment - Sprint 3|
+|TF1| 20/06/2025 |Espinoza Saenz, Christian Renato|  Capítulo VI: Product Implementation, Validation & Deployment - Sprint 3|
+|TF1| 20/06/2025 |Morales Calderón, Hernan Emilio|  Capítulo VI: Product Implementation, Validation & Deployment - Sprint 3|
+|TF1| 20/06/2025 |Valle Zuta, Abel Andrés|  Capítulo VI: Product Implementation, Validation & Deployment - Sprint 3|
 </div>
 
 ---
