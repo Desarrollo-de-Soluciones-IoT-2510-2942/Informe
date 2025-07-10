@@ -5197,10 +5197,26 @@ Url del repositorio donde se trabajaron los acceptance test: [https://github.com
 #### 6.2.3.6. Execution Evidence for Sprint Review
 
 <div align = "justify">
-Ejecución del Hardware (ESP32 Físico): Se mostró en video el ESP32 con los sensores conectados, encendido y ejecutando el firmware. Se evidenció la lectura de datos de los sensores en el monitor serial.
-Conexión con API Edge: Se demostró mediante logs y la herramienta Postman cómo el ESP32 enviaba peticiones POST a la API Edge desplegada en Azure, y cómo esta respondía con un código 200 (OK).
-Registro de Datos en el Backend: Se mostró la base de datos en MongoDB Atlas donde se observó la llegada y almacenamiento de los datos provenientes de la API Edge, confirmando el flujo completo de información.
-Visualización en Aplicaciones: Se enseñó la aplicación web y móvil consultando los datos actualizados del sensor físico, demostrando que la data era visible para el usuario final.
+
+**Ejecución del Hardware (ESP32 Físico):**
+
+Durante el Sprint 3, se logró implementar exitosamente el hardware físico ESP32 con los sensores conectados. A continuación se muestra la evidencia de ejecución:
+
+**Modelo ESP32 Conectado:**
+El ESP32 fue configurado con los sensores físicamente. Se puede observar el circuito armado con las conexiones establecidas según el esquema de Wokwi.
+
+![ESP32 Conectado](Resources/Chapter%2006/Sprint3/espmodel.jpg)
+
+**Modelo ESP32 en Funcionamiento:**
+Se evidencia el ESP32 encendido y ejecutando el firmware desarrollado. El dispositivo está leyendo datos de los sensores y preparándolos para envío a la API Edge.
+
+![ESP32 Funcionando](Resources/Chapter%2006/Sprint3/espmodelon.jpg)
+
+**Conexión con API Edge:** 
+Se demostró mediante logs y la herramienta Postman cómo el ESP32 enviaba peticiones POST a la API Edge desplegada en Azure, y cómo esta respondía con un código 201 (Created).
+
+![Postman Solicitud ](Resources/Chapter%2006/Sprint3/postmancapture.png)
+
 </div>
 
 #### 6.2.3.7. Services Documentation Evidence for Sprint Review
@@ -5219,7 +5235,11 @@ API Edge Endpoints
 
 <div align = "justify">
 Firmware en ESP32: El firmware fue compilado y cargado exitosamente en el dispositivo ESP32 físico.
-API Edge en Azure: La API Edge fue desplegada y está accesible públicamente en Azure, lista para recibir datos de los dispositivos IoT en campo. Link: <td><p><a target="_blank"  href="https://agrosense-nutricontrol-apiedge-g4asbaddapdgfxha.canadacentral-01.azurewebsites.net/" title="Title">Api Edge</a></p></td>
+API Edge en Azure: La API Edge fue desplegada y está accesible públicamente en Azure, lista para recibir datos de los dispositivos IoT en campo. Link: <td><p><a target="_blank"  href="https://agrosense-nutricontrol-apiedge-g4asbaddapdgfxha.canadacentral-01.azurewebsites.net/" title="Title">https://agrosense-nutricontrol-apiedge-g4asbaddapdgfxha.canadacentral-01.azurewebsites.net/"</a></p></td>
+Prueba con Postman del Edge:
+
+![Postman Solicitud ](Resources/Chapter%2006/Sprint3/postmancapture.png)
+
 Backend Actualizado: El backend principal fue actualizado en su despliegue de Azure para incluir la lógica de comunicación con la nueva API Edge.
 </div>
 
