@@ -5130,7 +5130,25 @@ Para este tercer y último Sprint, el objetivo principal fue la implementación 
 
 #### 6.2.3.1. Sprint Planning 3
 
+| **Sprint #** | Sprint 3 |
+| --- | --- |
+| **Sprint Planning Background** |     |
+| Date | 2025-07-07 |
+| Time | 10:00 AM |
+| Location | Virtual por Zoom |
+| Prepared By | Valle Zuta, Abel Andrés. |
+| Attendees (to planning meeting) | Valle Zuta, Abel Andrés <br><br>Antonio Salazar, Jhan Clinton <br><br>Criollo de la Cruz, Diego Anderson <br><br>Espinoza Saenz, Christian Renato <br><br>Morales Calderón, Hernan Emilio. |
+| **Sprint 2 Goal** | Desplegar y validar la solución completa con el hardware físico (ESP32) integrado. Esto incluye pasar la aplicación embebida al dispositivo físico, conectarlo con la API Edge para el registro de datos de los sensores y asegurar que el backend pueda obtener y procesar esta data para su visualización en las aplicaciones cliente. |
+
 #### 6.2.3.2. Aspect Leaders and Collaborators
+
+| Team Member<br><br>(Last Name, First Name) | GitHub Username | Hardware & Firmware (ESP32) <br><br> (L/C) | Edge API & Deployment  <br><br> (L/C) | Backend Integration  <br><br> (L/C)|
+| --- | --- | --- | --- | --- |
+| Antonio Salazar, Jhan Clinton | asjhanc | C   | C   | L  |
+| Criollo de la Cruz, Diego Anderson | diegooo01 | C   | C   | C   |
+| Espinoza Saenz, Christian Renato | ChristoTF32 | C   | L   | C   |
+| Morales Calderón, Hernan Emilio | hernancit0 | C   | C   | C   |
+| Valle Zuta, Abel Andrés | AndresVZ23 | L   | C   | C   |
 
 #### 6.2.3.3. Sprint Backlog 3
 
@@ -5150,9 +5168,31 @@ Sprint Backlog 03
 
 #### 6.2.3.4. Development Evidence for Sprint Review
 
+|Repository|Branch|Commit id|Commit Message|Date|
+| :- | :- | :- | :- | :- |
+|Embedded App|main|a1b2c3d4|Feat: Initial firmware for physical ESP32|25/06/25|
+|Embedded App|feature/sensor-reading|e4f5g6h7|Feat: Added reading logic for soil moisture sensor|36/06/25|
+|Embedded App|feature/wifi-connection|i7j8k9l0|Feat: Implemented WiFi connection manager|27/06/25|
+|Api Edge|main|m0n1o2p3|Feat: Initial project setup for Edge API|28/06/25|
+|Api Edge|feature/data-reception|q3r4s5t6|Feat: Add endpoint to receive sensor data|29/06/25|
+|BackEnd|feature/edge-integration|u6v7w8x9|Feat: Add service to fetch data from Edge API|01/07/25|
+|BackEnd|main|y9z0a1b2|Merge: Integrate Edge data fetching into main|02/07/25|
+
 #### 6.2.3.5. Testing Suite Evidence for Sprint Review
 
+<div align = "justify">
 
+Url del repositorio donde se trabajaron los acceptance test: [https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Acceptance-Test](https://github.com/Desarrollo-de-Soluciones-IoT-2510-2942/Acceptance-Test)
+
+|Repository|Branch|Commit id|Name|Date|
+| :- | :- | :- | :- | :- |
+|AcceptanceTest|main|c2d3e4f5|HardwareConnection.feature|03/07/25|
+|AcceptanceTest|main|g5h6i7j8|EdgeDataRegistration.feature|04/07/25|
+|AcceptanceTest|main|k8l9m0n1|BackendDataRetrieval.feature|05/07/25|
+
+</div>
+
+<br>
 
 #### 6.2.3.6. Execution Evidence for Sprint Review
 
@@ -5179,7 +5219,7 @@ API Edge Endpoints
 
 <div align = "justify">
 Firmware en ESP32: El firmware fue compilado y cargado exitosamente en el dispositivo ESP32 físico.
-API Edge en Azure: La API Edge fue desplegada y está accesible públicamente en Azure, lista para recibir datos de los dispositivos IoT en campo. Link: <td><p><a target="_blank"  href="https://agrosense-nutricontrol-apiedge.azurewebsites.net/" title="Title">Api Edge</a></p></td>
+API Edge en Azure: La API Edge fue desplegada y está accesible públicamente en Azure, lista para recibir datos de los dispositivos IoT en campo. Link: <td><p><a target="_blank"  href="https://agrosense-nutricontrol-apiedge-g4asbaddapdgfxha.canadacentral-01.azurewebsites.net/" title="Title">Api Edge</a></p></td>
 Backend Actualizado: El backend principal fue actualizado en su despliegue de Azure para incluir la lógica de comunicación con la nueva API Edge.
 </div>
 
