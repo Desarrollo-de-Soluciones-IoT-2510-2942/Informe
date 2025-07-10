@@ -374,8 +374,7 @@ Durante el TB2, el equipo consolidó importantes avances en la integración de s
 <strong>TF:</strong><br><br>
 Valle Zuta, Abel Andrés<br>
 En el Sprint 3, lideré la implementación del firmware en el ESP32 físico, incluyendo la programación de las conexiones de los sensores y la lógica para enviar datos al Edge. Mi rol fue clave para materializar el hardware de la solución, trabajando de la mano con el equipo para asegurar que el dispositivo funcionara como se esperaba, lo que reforzó el liderazgo conjunto en la fase más crítica del proyecto.
-</td>
-<td>
+<br><br>
 	
   </tr>
   <tr>
