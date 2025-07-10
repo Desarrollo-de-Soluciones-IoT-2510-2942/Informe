@@ -5165,7 +5165,13 @@ Para este tercer y último Sprint, el objetivo principal fue la implementación 
 
 #### 6.2.3.3. Sprint Backlog 3
 
-Enlace del Sprint Backlog 3 en Trello: [Enlace de Trello](https://trello.com/b/rlu6P4vS/nutricontrol-agrosense) 
+<div align = "justify">
+
+![Sprint Backlog 3](Resources/Chapter%2006/Sprint3/sprint3.PNG)
+
+Enlace del Sprint Backlog 3 en Trello: [Enlace de Trello](https://trello.com/invite/b/682596cb926b0ea5b4959682/ATTI1a6311d0e5926161ec522d79907615b849B734EC/nutricontrol-agrosense)
+
+</div>
 
 Sprint Backlog 03
 | User Story | Título | Work-Item/Task ID | Título del Task | Descripción | Estimación (Horas) | Asignado a | Estado |
