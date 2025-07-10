@@ -242,7 +242,7 @@
         - [6.2.2.8. Software Deployment Evidence for Sprint Review](#6228-software-deployment-evidence-for-sprint-review)  
         - [6.2.2.9. Team Collaboration Insights during Sprint](#6229-team-collaboration-insights-during-sprint)
      
-      - [6.2.3. Sprint 3](#632-sprint-3)  
+    - [6.2.3. Sprint 3](#632-sprint-3)  
         - [6.2.3.1. Sprint Planning 3](#6231-sprint-planning-3)  
         - [6.2.3.2. Aspect Leaders and Collaborators](#6222-aspect-leaders-and-collaborators)  
         - [6.2.3.3. Sprint Backlog 3](#6233-sprint-backlog-3)  
