@@ -8,7 +8,7 @@
     <strong>1ASI0572 - Desarrollo de Soluciones IoT - 2942</strong><br>  
     <br>
     <strong>Profesor: Marco Antonio León Baca</strong><br>
-    <br> <strong>INFORME DE TB2</strong> 
+    <br> <strong>INFORME DE TF</strong> 
 </p>
 <p align="center">
     <strong>Startup: AgroSense</strong><br>
@@ -46,7 +46,7 @@
 </div>
 <br>
 <p align="center">
-    <strong>JUNIO 2025 </strong>
+    <strong>JULIO 2025 </strong>
 </p>
 <br>
 
@@ -241,6 +241,17 @@
         - [6.2.2.7. Services Documentation Evidence for Sprint Review](#6227-services-documentation-evidence-for-sprint-review)  
         - [6.2.2.8. Software Deployment Evidence for Sprint Review](#6228-software-deployment-evidence-for-sprint-review)  
         - [6.2.2.9. Team Collaboration Insights during Sprint](#6229-team-collaboration-insights-during-sprint)
+     
+      - [6.2.3. Sprint 3](#632-sprint-3)  
+        - [6.2.3.1. Sprint Planning 3](#6231-sprint-planning-3)  
+        - [6.2.3.2. Aspect Leaders and Collaborators](#6222-aspect-leaders-and-collaborators)  
+        - [6.2.3.3. Sprint Backlog 3](#6233-sprint-backlog-3)  
+        - [6.2.3.4. Development Evidence for Sprint Review](#6234-development-evidence-for-sprint-review)  
+        - [6.2.3.5. Testing Suite Evidence for Sprint Review](#6235-testing-suite-evidence-for-sprint-review)  
+        - [6.2.3.6. Execution Evidence for Sprint Review](#6236-execution-evidence-for-sprint-review)  
+        - [6.2.3.7. Services Documentation Evidence for Sprint Review](#6237-services-documentation-evidence-for-sprint-review)  
+        - [6.2.3.8. Software Deployment Evidence for Sprint Review](#6238-software-deployment-evidence-for-sprint-review)  
+        - [6.2.3.9. Team Collaboration Insights during Sprint](#6239-team-collaboration-insights-during-sprint)
 
     - [6.3. Validation Interviews](#63-validation-interviews)  
         - [6.3.1. Diseño de entrevistas](#631-diseño-de-entrevistas)
@@ -5109,6 +5120,75 @@ En la siguiente imagen se logra apreciar que todos los integrantes del equipo ha
 
 <br>
 
+### 6.3.1. Sprint 3
+
+<div align = "justify">
+
+Para este tercer y último Sprint, el objetivo principal fue la implementación y validación del hardware físico. Esto incluyó la conexión de los sensores al ESP32, la programación del firmware para capturar y enviar datos, y la integración completa del dispositivo con la API Edge para registrar la información en el backend, logrando así un flujo de datos end-to-end desde el campo hasta la nube.
+
+</div>
+
+#### 6.2.3.1. Sprint Planning 3
+
+#### 6.2.3.2. Aspect Leaders and Collaborators
+
+#### 6.2.3.3. Sprint Backlog 3
+
+Enlace del Sprint Backlog 3 en Trello: [Enlace de Trello](https://trello.com/b/rlu6P4vS/nutricontrol-agrosense) 
+
+Sprint Backlog 03
+| User Story | Título | Work-Item/Task ID | Título del Task | Descripción | Estimación (Horas) | Asignado a | Estado |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| TS-03 | Integración de Dispositivos IoT a Campos y Cultivos | WI44 | Preparación del ESP32 Físico | Configurar y soldar los sensores de humedad y pH al microcontrolador ESP32. | 8 | Abel Valle | Done |
+| TS-03 | Integración de Dispositivos IoT a Campos y Cultivos | WI45 | Desarrollo del Firmware para ESP32 | Adaptar y cargar el código de la aplicación embebida (Wokwi) al ESP32 físico para la lectura de sensores. | 13 | Abel Valle | Done |
+| TS-03 | Integración de Dispositivos IoT a Campos y Cultivos | WI46 | Implementación de Conexión a API Edge | Desarrollar la lógica en el firmware para que el ESP32 envíe los datos de los sensores a la API Edge. | 8 | Jhan Antonio | Done |
+| TS-04 | Implementación de Motor de Alertas y Recomendaciones | WI47 | Desarrollo de la API Edge | Crear los endpoints en la API Edge para recibir y almacenar temporalmente los datos del ESP32. | 13 | Christian Espinoza | Done |
+| TS-04 | Implementación de Motor de Alertas y Recomendaciones | WI48 | Despliegue de la API Edge | Desplegar la API Edge en Azure para que sea accesible desde el dispositivo físico. | 5 | Christian Espinoza | Done |
+| TS-01 | Configuración de Infraestructura y Base de Datos Inicial | WI49 | Optimización del Backend | Ajustar el backend para que consulte periódicamente la API Edge y guarde los datos en la BD principal (MongoDB). | 8 | Diego Criollo | Done |
+| US-20 | Análisis Predictivo de Cultivos | WI50 | Pruebas de Integración End-to-End | Realizar pruebas completas del flujo: desde la lectura del sensor físico hasta la visualización en el frontend. | 13 | Hernan Morales | Done |
+| US-20 | Análisis Predictivo de Cultivos | WI51 | Creación de Documentación Técnica Final | Elaborar la guía de configuración del ESP32 y la documentación de la API Edge. | 5 | Hernan Morales | Done |
+
+#### 6.2.3.4. Development Evidence for Sprint Review
+
+#### 6.2.3.5. Testing Suite Evidence for Sprint Review
+
+
+
+#### 6.2.3.6. Execution Evidence for Sprint Review
+
+<div align = "justify">
+Ejecución del Hardware (ESP32 Físico): Se mostró en video el ESP32 con los sensores conectados, encendido y ejecutando el firmware. Se evidenció la lectura de datos de los sensores en el monitor serial.
+Conexión con API Edge: Se demostró mediante logs y la herramienta Postman cómo el ESP32 enviaba peticiones POST a la API Edge desplegada en Azure, y cómo esta respondía con un código 200 (OK).
+Registro de Datos en el Backend: Se mostró la base de datos en MongoDB Atlas donde se observó la llegada y almacenamiento de los datos provenientes de la API Edge, confirmando el flujo completo de información.
+Visualización en Aplicaciones: Se enseñó la aplicación web y móvil consultando los datos actualizados del sensor físico, demostrando que la data era visible para el usuario final.
+</div>
+
+#### 6.2.3.7. Services Documentation Evidence for Sprint Review
+
+<div align = "justify">
+Se documentó el nuevo servicio API Edge, que actúa como intermediario entre el hardware y el backend principal.
+</div>
+
+API Edge Endpoints
+| Endpoint | HTTP Verb | Acción | Descripción |
+| :--- | :--- | :--- | :--- |
+| /api/v1/sensordata | POST | Registrar Datos de Sensor | Recibe y almacena temporalmente una nueva lectura de sensor enviada por un dispositivo ESP32. |
+| /api/v1/sensordata | GET | Obtener Últimos Datos | Devuelve el conjunto de datos de sensores más recientes para que el backend los procese. |
+
+#### 6.2.3.8. Software Deployment Evidence for Sprint Review
+
+<div align = "justify">
+Firmware en ESP32: El firmware fue compilado y cargado exitosamente en el dispositivo ESP32 físico.
+API Edge en Azure: La API Edge fue desplegada y está accesible públicamente en Azure, lista para recibir datos de los dispositivos IoT en campo. Link: <td><p><a target="_blank"  href="https://agrosense-nutricontrol-apiedge.azurewebsites.net/" title="Title">Api Edge</a></p></td>
+Backend Actualizado: El backend principal fue actualizado en su despliegue de Azure para incluir la lógica de comunicación con la nueva API Edge.
+</div>
+
+#### 6.2.3.9. Team Collaboration Insights during Sprint
+
+<div align = "justify">
+En el Sprint 3, la colaboración se centró en la integración de las diferentes capas del proyecto. El equipo de hardware y firmware (liderado por Abel) trabajó en estrecha colaboración con el equipo de la API Edge (liderado por Christian) para definir los contratos de datos. A su vez, el equipo de backend (liderado por Jhan) coordinó con el equipo Edge para asegurar la correcta recolección de los datos. El esfuerzo conjunto fue clave para superar los desafíos de la integración física y lograr una solución funcional.
+</div>
+
 ## 6.3. Validation Interviews
 
 #### 6.3.1. Diseño de Entrevistas
@@ -5803,7 +5883,6 @@ Enlace: [TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_e
 
 Enlace: [Mobile App Execution](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EU8H8MznINFGrYhkzAwiyTQBvvb3cA3LLDSRdwSy5sfJtg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=WeNG11)
 
-
 ## Video About The-Product:
 
 <div align="center">
@@ -5820,4 +5899,4 @@ Enlace: [Video About The Product](https://upcedupe-my.sharepoint.com/:v:/g/perso
 ![AboutTheTeam](Resources/Chapter%2006/Sprint%202/About%20The%20Team.png)
  </div>
 
-Enlace: [Video About The Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ER3uqFjae9tGhZdW4chCVjgBurPVDYLri1D_UhKL-Fx5RQ?e=vPwnyO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Enlace: [Video About The Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EbohUAV7KdNHjEiSjs9976sB27gKmVFMiKjwErLhen4kjg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NarIHf)
