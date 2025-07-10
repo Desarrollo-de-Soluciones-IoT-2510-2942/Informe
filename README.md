@@ -360,6 +360,9 @@ Para la entrega final, me encargué de la documentación técnica de la implemen
 <strong>TB2:</strong><br><br>
 Valle Zuta, Abel Andrés<br>
 Durante el TB2, lideré la definición de la estructura narrativa y técnica del video del equipo, planificando sus secciones para mostrar tanto el producto como el proceso colaborativo detrás del desarrollo. También participé en la verificación y validación del funcionamiento de los dispositivos IoT integrados al sistema, así como en la revisión de los servicios conectados con las aplicaciones. Estas acciones permitieron consolidar la comunicación del equipo y cumplir con los objetivos del Sprint 2 de forma organizada.   
+<strong>TF:</strong><br><br>
+Valle Zuta, Abel Andrés<br>
+En el Sprint 3, lideré la implementación del firmware en el ESP32 físico, incluyendo la programación de las conexiones de los sensores y la lógica para enviar datos al Edge. Mi rol fue clave para materializar el hardware de la solución, trabajando de la mano con el equipo para asegurar que el dispositivo funcionara como se esperaba, lo que reforzó el liderazgo conjunto en la fase más crítica del proyecto.
     </td>
     <td>
       <strong>TB1:</strong><br><br>
@@ -372,10 +375,8 @@ Durante el TB2, lideré la definición de la estructura narrativa y técnica del
 Durante el TB2, el equipo consolidó importantes avances en la integración de servicios entre las aplicaciones web, móvil y los dispositivos IoT. Se trabajó de manera coordinada en la conexión técnica de los módulos desarrollados, así como en la planificación y producción del video del equipo y producto. La colaboración entre los miembros fue clave para resolver desafíos técnicos y organizativos, manteniendo una comunicación efectiva y un liderazgo compartido. Estas acciones reflejan un entorno de trabajo maduro, donde cada integrante asumió responsabilidades concretas y contribuyó al cumplimiento exitoso de los objetivos del Sprint 2.
     	    <br><br>
 <strong>TF:</strong><br><br>
-Valle Zuta, Abel Andrés<br>
-En el Sprint 3, lideré la implementación del firmware en el ESP32 físico, incluyendo la programación de las conexiones de los sensores y la lógica para enviar datos al Edge. Mi rol fue clave para materializar el hardware de la solución, trabajando de la mano con el equipo para asegurar que el dispositivo funcionara como se esperaba, lo que reforzó el liderazgo conjunto en la fase más crítica del proyecto.
-<br><br>
-	
+En la fase final del proyecto, el equipo demostró un liderazgo conjunto excepcional al abordar la integración del hardware físico. La colaboración fue fundamental para conectar el ESP32, el Edge y el backend, superando los desafíos técnicos de la implementación real. Cada miembro aportó desde su área de especialización, consolidando un entorno de trabajo sinérgico que fue clave para materializar la solución completa y funcional de NutriControl.
+</td>	
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
@@ -394,6 +395,10 @@ En el Sprint 3, lideré la implementación del firmware en el ESP32 físico, inc
 Antonio Salazar, Jhan Clinton<br>
 Durante el TB2, trabajé activamente en la organización de tareas para el Sprint 2, asegurándome de que las metas fueran claras y alcanzables para todos los miembros del equipo. Colaboré en la estructuración del backlog y en la distribución equitativa de responsabilidades, fomentando un entorno de trabajo inclusivo. Además, apoyé en la coordinación de la grabación del video del equipo, manteniendo una planificación efectiva que permitió cumplir con los plazos establecidos sin comprometer la calidad del contenido.
       <br><br>
+<strong>TF:</strong><br><br>
+Antonio Salazar, Jhan Clinton<br>
+En el Sprint 3, establecí las metas para las pruebas de integración del hardware, planificando las tareas necesarias para validar el flujo de datos desde el ESP32 físico hasta el backend. Fomenté un entorno colaborativo donde todos los miembros participaron en las pruebas, asegurando que cumpliéramos el objetivo de tener un sistema completamente funcional.
+<br><br>
       <strong>TB1:</strong><br><br>
       Criollo de la Cruz, Diego Anderson<br>
       Durante el desarrollo del TB1, me encargué de redactar la documentación del proyecto, asegurándome de que la información técnica estuviera presentada de forma clara, ordenada y objetiva. Me enfoqué en que los resultados y decisiones del equipo pudieran ser 
@@ -408,6 +413,10 @@ Durante el TB2, trabajé activamente en la organización de tareas para el Sprin
 Criollo de la Cruz, Diego Anderson<br>
 En el TB2, me encargué de asegurar que la documentación técnica relacionada con los servicios conectados y las aplicaciones estuviera bien estructurada y fuera comprensible para todo el equipo. También planifiqué la validación de la integración entre plataformas web, móvil e IoT, promoviendo un entorno de trabajo ordenado. Estas tareas facilitaron el seguimiento de objetivos comunes y garantizaron una ejecución alineada con la planificación general del Sprint.
 	          <br><br>
+<strong>TF:</strong><br><br>
+Criollo de la Cruz, Diego Anderson<br>
+Durante la fase final, planifiqué las tareas de optimización del backend para la recepción de datos del hardware físico. Establecí metas claras para el rendimiento de la API y colaboré con el equipo para asegurar que la integración con el Edge cumpliera con los objetivos de eficiencia y escalabilidad del proyecto.
+<br><br>
       <strong>TB1:</strong><br><br>
       Espinoza Saenz, Christian Renato<br>
       Durante este primer avance, elaboré un informe técnico que resumía los avances y resultados del proyecto. Este documento estaba estructurado para ser comprensible tanto para los miembros técnicos del equipo como para la dirección general. Me enfoqué en utilizar un lenguaje preciso y acompañar la explicación con gráficos y tablas que facilitaran la comprensión, asegurando que el mensaje fuera claro para todos los destinatarios.
@@ -420,6 +429,10 @@ En el TB2, me encargué de asegurar que la documentación técnica relacionada c
 Espinoza Saenz, Christian Renato<br>
 Durante el TB2, me enfoqué en establecer objetivos técnicos claros para la integración de los servicios y dispositivos IoT, y en coordinar el flujo de trabajo entre backend y frontend. Fomenté un entorno de trabajo inclusivo al brindar asistencia técnica a los compañeros que enfrentaban dificultades y facilitar reuniones breves para resolver bloqueos. Estas acciones aseguraron que las metas del sprint fueran cumplidas dentro de los tiempos estipulados y con una comunicación continua.
 	          <br><br>
+<strong>TF:</strong><br><br>
+Espinoza Saenz, Christian Renato<br>
+En el Sprint 3, definí las metas para el desarrollo de la API Edge, planificando las tareas de creación de endpoints y la lógica de negocio para el registro de datos. Creé un entorno de colaboración con el equipo de hardware para asegurar que la comunicación entre el ESP32 y el Edge fuera exitosa, cumpliendo con los objetivos de la implementación final.
+<br><br>
       <strong>TB1:</strong><br><br>
       Morales Calderón, Hernan Emilio<br>
       Como parte de esta primera entrega, preparé una presentación escrita para los stakeholders del proyecto, detallando las metodologías empleadas, los resultados obtenidos y las recomendaciones futuras. Adapté el contenido según las necesidades del público, utilizando un lenguaje accesible para personas sin conocimientos técnicos y terminología especializada para quienes requerían un mayor nivel de detalle técnico.
@@ -432,6 +445,10 @@ Durante el TB2, me enfoqué en establecer objetivos técnicos claros para la int
 Morales Calderón, Hernan Emilio<br>
 Durante este TB2, organicé tareas clave del equipo dentro del cronograma establecido para Sprint 2, verificando que los objetivos estuvieran alineados entre áreas técnicas y creativas. También propicié espacios para retroalimentación constante, permitiendo ajustes a tiempo y asegurando que todos los miembros se sintieran escuchados y representados. Mi participación promovió un entorno colaborativo y orientado al cumplimiento eficiente de metas.
 	<br><br>
+	    <strong>TF:</strong><br><br>
+Morales Calderón, Hernan Emilio<br>
+En la fase final, establecí las metas para la documentación técnica de la implementación física. Planifiqué las tareas de elaboración de guías y manuales de configuración del ESP32, creando un entorno colaborativo para que todo el equipo validara la claridad de los documentos y cumpliéramos con el objetivo de entregar una solución bien documentada.
+<br><br>
       <strong>TB1:</strong><br><br>
       Valle Zuta, Abel Andrés<br>
       Durante la primera entrega del presente proyecto, lideré la elaboración del reporte del proyecto que contiene los puntos clave del proyecto, la arquitectura que este tendrá y el alcance que planeamos para el software. Utilicé diagramas y esquemas para complementar el texto, garantizando que tanto aspectos técnicos como estratégicos fueran entendidos por audiencias con diferentes especialidades y roles jerárquicos.
@@ -444,6 +461,9 @@ Durante este TB2, organicé tareas clave del equipo dentro del cronograma establ
 Valle Zuta, Abel Andrés<br>
 Durante el TB2, coordiné la planificación de tareas relacionadas con la validación de las aplicaciones IoT y su integración con el sistema. También estructuré la organización del guion técnico para el video del equipo, permitiendo una ejecución ordenada y coherente con los objetivos generales. Fomenté un ambiente inclusivo al recoger aportes de todos los integrantes y asegurar su incorporación en la planificación, logrando un avance conjunto y equilibrado.
 	    <br><br>
+<strong>TF:</strong><br><br>
+Valle Zuta, Abel Andrés<br>
+Para el Sprint 3, establecí la meta de tener un firmware funcional para el ESP32. Planifiqué las tareas de programación de los sensores y la comunicación con el Edge, y creé un entorno colaborativo con el equipo de software para asegurar que la integración fuera exitosa y cumpliéramos con los objetivos de la implementación física.
     </td>
     <td>
       <strong>TB1:</strong><br><br>
@@ -454,6 +474,9 @@ Durante el TB2, coordiné la planificación de tareas relacionadas con la valida
 	    <br><br>
 <strong>TB2:</strong><br><br>
 Durante el TB2, el equipo logró consolidar un entorno colaborativo e inclusivo en el que cada integrante participó activamente en la planificación y cumplimiento de los objetivos del Sprint 2. Se establecieron metas claras, se organizaron tareas de forma eficiente y se promovió la comunicación constante entre los miembros. La coordinación de actividades técnicas, como la integración de servicios y la implementación de dispositivos IoT, junto con la producción del video institucional, reflejó una gestión equilibrada del tiempo y los recursos. Estas acciones permitieron alcanzar los entregables propuestos con calidad, cohesión y compromiso grupal.
+	      <br><br>
+<strong>TF:</strong><br><br>
+Para la entrega final, el equipo estableció la meta clara de lograr una implementación física funcional. Se creó un entorno altamente colaborativo para planificar y ejecutar las tareas de integración del ESP32, el Edge y el backend. Gracias a la planificación detallada y al trabajo en equipo, se cumplieron todos los objetivos, entregando una solución completa y validada que materializa la visión de NutriControl.
     </td>
   </tr>
 </table>
