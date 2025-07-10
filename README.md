@@ -359,7 +359,8 @@ Para la entrega final, me encargué de la documentación técnica de la implemen
 	       <br><br>
 <strong>TB2:</strong><br><br>
 Valle Zuta, Abel Andrés<br>
-Durante el TB2, lideré la definición de la estructura narrativa y técnica del video del equipo, planificando sus secciones para mostrar tanto el producto como el proceso colaborativo detrás del desarrollo. También participé en la verificación y validación del funcionamiento de los dispositivos IoT integrados al sistema, así como en la revisión de los servicios conectados con las aplicaciones. Estas acciones permitieron consolidar la comunicación del equipo y cumplir con los objetivos del Sprint 2 de forma organizada.   
+Durante el TB2, lideré la definición de la estructura narrativa y técnica del video del equipo, planificando sus secciones para mostrar tanto el producto como el proceso colaborativo detrás del desarrollo. También participé en la verificación y validación del funcionamiento de los dispositivos IoT integrados al sistema, así como en la revisión de los servicios conectados con las aplicaciones. Estas acciones permitieron consolidar la comunicación del equipo y cumplir con los objetivos del Sprint 2 de forma organizada. 
+	    <br><br>
 <strong>TF:</strong><br><br>
 Valle Zuta, Abel Andrés<br>
 En el Sprint 3, lideré la implementación del firmware en el ESP32 físico, incluyendo la programación de las conexiones de los sensores y la lógica para enviar datos al Edge. Mi rol fue clave para materializar el hardware de la solución, trabajando de la mano con el equipo para asegurar que el dispositivo funcionara como se esperaba, lo que reforzó el liderazgo conjunto en la fase más crítica del proyecto.
