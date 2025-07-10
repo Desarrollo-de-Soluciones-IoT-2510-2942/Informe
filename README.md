@@ -295,6 +295,10 @@ del ABET – EAC - Student Outcome 5.
 Antonio Salazar, Jhan Clinton<br>
 Durante el TB2, asumí un rol activo en la coordinación para la grabación y edición del video del equipo y el producto, asegurando que cada miembro tuviera claridad en sus intervenciones y que el mensaje fuera coherente con los objetivos del proyecto. Además, apoyé en la integración de los servicios entre backend y las aplicaciones web y móvil, participando en sesiones de pruebas cruzadas y resolución de errores. Estas acciones promovieron un entorno colaborativo y fortalecieron el liderazgo conjunto del equipo, permitiendo un avance técnico alineado con la planificación del Sprint 2.
 	          <br><br>
+<strong>TF:</strong><br><br>
+Antonio Salazar, Jhan Clinton<br>
+En la etapa final del proyecto, lideré las pruebas de integración del hardware, asegurando que el ESP32 físico se comunicara correctamente con nuestra API Edge. Organicé sesiones de validación con el equipo para verificar el flujo de datos desde los sensores hasta el backend, facilitando un liderazgo compartido donde cada miembro aportó su experiencia para resolver los desafíos de la implementación física.
+<br><br>
       <strong>TB1:</strong><br><br>
       Criollo de la Cruz, Diego Anderson<br>
       En el desarrollo del TB1, asumí un rol activo dentro del equipo encargándome principalmente de la elaboración de la documentación técnica y la corrección de errores en el desarrollo general del proyecto. Estas tareas me permitieron no solo aportar a la     
@@ -309,6 +313,10 @@ Durante el TB2, asumí un rol activo en la coordinación para la grabación y ed
 Criollo de la Cruz, Diego Anderson<br>
 En el TB2, continué apoyando en la conexión de los servicios backend con las plataformas web y mobile, asegurando que las rutas de la API respondieran correctamente a los requerimientos del sistema. Además, participé en el diseño funcional y la documentación de los dispositivos IoT simulados, colaborando en la planificación técnica y el aseguramiento de la calidad del desarrollo. También apoyé en la estructura técnica del guion del video del producto. Estas actividades fortalecieron la integración entre los equipos de trabajo y aseguraron la coherencia del sistema.
       <br><br>
+<strong>TF:</strong><br><br>
+Criollo de la Cruz, Diego Anderson<br>
+Durante el Sprint 3, me enfoqué en la optimización del backend para recibir y procesar eficientemente los datos del ESP32 físico. Colaboré estrechamente con el equipo de hardware para definir los formatos de datos y asegurar una integración sin fisuras con el Edge, contribuyendo a un liderazgo técnico colectivo que fue clave para el éxito de la implementación final.
+<br><br>
        <strong>TB1:</strong><br><br>
       Espinoza Saenz, Christian Renato<br>
       Durante la implementación del software como propuesta de solución para la problemática encontrada, asumí la responsabilidad de coordinar las sesiones de trabajo y distribuir tareas equitativamente. Esto incluyó planificar reuniones, moderar discusiones y asegurar que cada integrante tuviera claridad sobre sus objetivos. Esta experiencia no solo fortaleció el liderazgo compartido, sino que también promovió un ambiente de trabajo inclusivo y eficiente.
@@ -321,6 +329,10 @@ En el TB2, continué apoyando en la conexión de los servicios backend con las p
 Espinoza Saenz, Christian Renato<br>
 Durante el TB2, coordiné con el equipo el despliegue de los servicios en la nube para que fueran accesibles desde las aplicaciones web y móvil. Lideré la integración y validación de los dispositivos IoT desarrollados, asegurando su conexión estable con los servicios backend. También colaboré activamente en la planificación y edición del video del equipo, asegurando una narrativa clara y representativa del trabajo realizado. Estas acciones reflejan una gestión técnica activa y comprometida con el cumplimiento de los objetivos del sprint.
       <br><br>
+<strong>TF:</strong><br><br>
+Espinoza Saenz, Christian Renato<br>
+En la fase final, lideré el desarrollo y despliegue de la API Edge, un componente crítico para conectar el hardware con la nube. Trabajé en conjunto con mis compañeros para definir los endpoints y asegurar que el registro de datos fuera robusto y seguro, ejerciendo un liderazgo técnico que fue fundamental para la arquitectura de la solución final.
+<br><br>
       <strong>TB1:</strong><br><br>
       Morales Calderón, Hernan Emilio<br>
       Durante este TB1, desempeñé un rol de liderazgo rotativo, donde alterné responsabilidades con mis compañeros para garantizar una toma de decisiones equitativa. Mi enfoque se centró en la gestión del tiempo y la priorización de tareas críticas, lo que permitió al equipo completar con éxito el primer alcance del proyecto dentro del plazo establecido, fomentando la confianza mutua y la colaboración.
@@ -333,6 +345,10 @@ Durante el TB2, coordiné con el equipo el despliegue de los servicios en la nub
 Morales Calderón, Hernan Emilio<br>
 Durante este TB2, apoyé activamente en la organización del cronograma para la producción del video del equipo y producto, coordinando tiempos, recursos y contenidos. Además, trabajé en la integración funcional entre las interfaces frontend y los servicios backend, ejecutando pruebas funcionales y levantando observaciones para su corrección. Estas contribuciones facilitaron la sincronización del equipo y el avance ordenado de los componentes claves del proyecto.
       <br><br>
+<strong>TF:</strong><br><br>
+Morales Calderón, Hernan Emilio<br>
+Para la entrega final, me encargué de la documentación técnica de la implementación física y la conexión con el Edge. Apoyé al equipo en la elaboración de guías de configuración del ESP32 y en la validación del flujo de datos, asegurando que el liderazgo del equipo se mantuviera cohesionado y enfocado en los objetivos finales del proyecto.
+<br><br>
       <strong>TB1:</strong><br><br>
       Valle Zuta, Abel Andrés<br>
       En la primera entrega del presente proyecto, lideré la organización de un cronograma semanal que permitió al equipo balancear sus responsabilidades. También proporcioné retroalimentación sobre avances individuales, promoviendo una dinámica de aprendizaje grupal y asegurando que el liderazgo se ejerciera de manera conjunta, enfocándonos siempre en cumplir los objetivos establecidos.
@@ -355,6 +371,9 @@ Durante el TB2, lideré la definición de la estructura narrativa y técnica del
 <strong>TB2:</strong><br><br>
 Durante el TB2, el equipo consolidó importantes avances en la integración de servicios entre las aplicaciones web, móvil y los dispositivos IoT. Se trabajó de manera coordinada en la conexión técnica de los módulos desarrollados, así como en la planificación y producción del video del equipo y producto. La colaboración entre los miembros fue clave para resolver desafíos técnicos y organizativos, manteniendo una comunicación efectiva y un liderazgo compartido. Estas acciones reflejan un entorno de trabajo maduro, donde cada integrante asumió responsabilidades concretas y contribuyó al cumplimiento exitoso de los objetivos del Sprint 2.
     	    <br><br>
+<strong>TF:</strong><br><br>
+Valle Zuta, Abel Andrés<br>
+En el Sprint 3, lideré la implementación del firmware en el ESP32 físico, incluyendo la programación de las conexiones de los sensores y la lógica para enviar datos al Edge. Mi rol fue clave para materializar el hardware de la solución, trabajando de la mano con el equipo para asegurar que el dispositivo funcionara como se esperaba, lo que reforzó el liderazgo conjunto en la fase más crítica del proyecto.
     </td>
     
   </tr>
